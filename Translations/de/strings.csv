@@ -1881,7 +1881,7 @@ d57274b504a45b33,UI,,,UI,"Außerhalb von BepInEx/plugins installiert, kann hier 
 fd35647f8ecb2f7d,UI,,,UI,Benötigt von
 9e6151acb057025d,UI,,,UI,Verwendet
 b9d0dd131d07b5ad,UI,,,UI,"Gemeinsame Werkzeuge für Drag'n Wash-Mods, darunter dieser Mods-Bildschirm."
-1236e3be635f17c7,UI,,,UI,"Spiele Drag'n Wash in 16 Sprachen. Übersetzt Dialoge, Antworten, Oberfläche und Optionen."
+6b4075522b85ca52,UI,,,UI,"Spiele Drag'n Wash in vielen Sprachen. Übersetzt Dialoge, Antworten, Oberfläche und Optionen."
 1cd1ca858aaea1d0,UI,,,UI,Nicht geladen. Benötigt
 eda662e0b5033180,UI,,,UI,Nicht geladen. Nicht zusammen nutzbar mit
 a8d12a246b72d98c,UI,,,UI,Nicht geladen. Der Grund steht in BepInEx/LogOutput.log.
@@ -1911,3 +1911,20 @@ fe199528850a4e24,UI,,,UI,Deinstallieren
 63e38bd4b036193a,UI,,,UI,Abbrechen
 86965245a1d725c1,UI,,,UI,"Drücke erneut „Deinstallieren“, um diesen Mod beim nächsten Spielstart zu entfernen. Seine Einstellungen werden ebenfalls entfernt."
 e2b9759e2326caba,UI,,,UI,Wird beim nächsten Spielstart entfernt
+0d21bd52022ca7f7,UI,,,UI,Online
+4128f75bc14cb290,UI,,,UI,Nutzt das Internet:
+df0880be16beba51,UI,,,UI,Ohne Angabe verbunden mit:
+57e8a431deec0d70,UI,,,UI,Internet
+08b39d1ef62da47d,UI,,,UI,"Dieser Mod gibt nicht an, dass er das Internet nutzt."
+5abdf73450d24379,UI,,,UI,Wofür:
+c1e450770d88b778,UI,,,UI,Was gesendet wird:
+3090d827c103d5fb,UI,,,UI,So wird es ausgeschaltet:
+068109fd3f73fbbb,UI,,,UI,Keine Angabe
+e21a8c81f7921504,UI,,,UI,In dieser Sitzung gesehen
+da5cbc2185c976ff,UI,,,UI,Bisher keine Verbindungen.
+285202c5ed5c42de,UI,,,UI,vom Mod nicht angegeben
+a9043748d4bf169d,UI,,,UI,Die Verbindungsüberwachung ist aus (Mods → Drag'n Wash ModFramework → Einstellungen → Verbindungen überwachen).
+1c0285d6d7fef2fc,UI,,,UI,"Das Framework beobachtet nur: Es blockiert nichts, und ein Mod kann es umgehen."
+1744b96470b51bf3,UI,,,UI,Netzwerk
+fa25265454345a35,UI,,,UI,Verbindungen überwachen
+4e9ec4e264c704c6,UI,,,UI,"Hält fest, welche Mods sich mit dem Internet verbinden, und markiert im Mods-Bildschirm die, die das ohne Angabe tun. Es beobachtet nur: Nichts wird blockiert, und ein Mod kann es umgehen."
