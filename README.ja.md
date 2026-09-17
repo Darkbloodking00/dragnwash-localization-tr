@@ -359,10 +359,12 @@ DirectX 12 で **ウィンドウモード** を **排他的フルスクリーン
 
 ## 現在のステータス
 
-v1.1.2 をリリース済み（Drag'n Wash ModFramework 1.1.2 を同梱し、Mods 画面のアイコンを手作りのロゴに差し替え）。v1.1.1 で（ModFramework 1.1.1 を同梱し、Mods 画面にフレームワークのアイコンを表示）。v1.1.0 で（ModFramework 1.1.0 と合わせて、この Mod の新しいリリースが出ると Mods 画面とタイトル画面で知らせるように）。v1.0.0 で [Drag'n Wash ModFramework](https://github.com/TomXV/dragnwash-modframework) の上で動くようにし、Mods 画面を追加。v0.6.2 で、古い作業用ファイルで「Hash for commit」をしても行が消えないように修正し、「Really Delete Save?」を翻訳。v0.6.1 でヘブライ語の、訳のない名前などが反転して表示される不具合を修正。v0.6.0 で台詞 ID ごとの訳（複数のキャラが話す同じ英文を、キャラごとに訳し分けられるように。2026 年 9 月 14 日のゲームのアップデートで動作確認済み）。v0.5.0 でゲームの Options 画面から言語を変更できるように、v0.4.0 で 13 言語、言語ごとのフォント準備、About タブ、日英中に切り替えられるインストーラーを、v0.3.0 で Steam Deck 対応を入れました。Windows on ARM でも動作を確認済みです（ゲーム本体の都合で `-force-d3d11` が必要）。macOS は、BepInEx 側の既知の不具合で現在は動作しません（[Steam Deck / Linux](#steam-deck--linux動作確認済み) の下の注意書き参照）。BepInExプラグインの骨格、UI文字列・会話文の日本語/中国語差し替え、
+v1.2.0 をリリース済み（ウクライナ語・タイ語・ベトナム語で 16 言語、韓国語のネイティブ校正、ゲームの更新で消えにくい翻訳、ロゴ、Drag'n Wash ModFramework 1.2.0）。v1.1.2 で（Drag'n Wash ModFramework 1.1.2 を同梱し、Mods 画面のアイコンを手作りのロゴに差し替え）。v1.1.1 で（ModFramework 1.1.1 を同梱し、Mods 画面にフレームワークのアイコンを表示）。v1.1.0 で（ModFramework 1.1.0 と合わせて、この Mod の新しいリリースが出ると Mods 画面とタイトル画面で知らせるように）。v1.0.0 で [Drag'n Wash ModFramework](https://github.com/TomXV/dragnwash-modframework) の上で動くようにし、Mods 画面を追加。v0.6.2 で、古い作業用ファイルで「Hash for commit」をしても行が消えないように修正し、「Really Delete Save?」を翻訳。v0.6.1 でヘブライ語の、訳のない名前などが反転して表示される不具合を修正。v0.6.0 で台詞 ID ごとの訳（複数のキャラが話す同じ英文を、キャラごとに訳し分けられるように。2026 年 9 月 14 日のゲームのアップデートで動作確認済み）。v0.5.0 でゲームの Options 画面から言語を変更できるように、v0.4.0 で 13 言語、言語ごとのフォント準備、About タブ、日英中に切り替えられるインストーラーを、v0.3.0 で Steam Deck 対応を入れました。Windows on ARM でも動作を確認済みです（ゲーム本体の都合で `-force-d3d11` が必要）。macOS は、BepInEx 側の既知の不具合で現在は動作しません（[Steam Deck / Linux](#steam-deck--linux動作確認済み) の下の注意書き参照）。BepInExプラグインの骨格、UI文字列・会話文の日本語/中国語差し替え、
 CJKフォント表示、会話・UIの一括抽出、ゲーム内デバッグメニュー、レイアウト崩れ検出、
 翻訳者向けドキュメント、リリース手順を実装・実機確認済みです。
 詳細は [docs/PLAN.ja.md](docs/PLAN.ja.md) を参照してください。
+
+これからの予定（他の Mod のテキストの翻訳を含む）は [docs/ROADMAP.ja.md](docs/ROADMAP.ja.md) にあります。
 
 ## Drag'n Wash ModFramework
 
@@ -391,7 +393,15 @@ Drag'n Wash の Mod を作っていて、フレームワークに欲しい機能
 
 本プロジェクトは非公式のファン制作物で、Gator Dragon Games とは無関係です。ゲームのアセットや台本は含まず、英語原文は SHA-256 ハッシュとしてのみ保持し、ゲームのファイルを書き換えることもありません（BepInEx が実行時にプラグインを読み込みます）。開発チームの方で懸念がある場合は、このリポジトリの Issue かメンテナーへの連絡でお知らせください。ご希望に応じて修正または公開停止します。
 
+## クレジット
+
+- この Mod の**ロゴ**（Mods 画面のアイコン、`icon.png`）は **Mister ERIO** さん（[@mistererio](https://github.com/mistererio)）が描き、許可を得て使っています。
+- Drag'n Wash ModFramework に同梱されている Options 画面の **Mods ボタン**も、Mister ERIO さんの作品です。
+- Drag'n Wash ModFramework の**ロゴとアイコン**（アイコンはこの zip にも入っています）は、**NotaGames** さん（[@NotaGames](https://github.com/NotaGames)）の作品です。
+- 韓国語パックは **Hotcake** さんに校正していただきました。
+- 言語パックを改善してくださった翻訳者の方は、[言語パック](#言語パック)の表に記載しています。
+
 ## ライセンス
 
-プラグインのコードは [LICENSE](LICENSE) を参照してください。ゲーム本体の資産・コードは
+プラグインのコードは [LICENSE](LICENSE) を参照してください。「クレジット」に挙げた絵は作者のもので、このライセンスの対象外です。ゲーム本体の資産・コードは
 含んでおらず、翻訳文はそれぞれの翻訳者の貢献として扱われます。

@@ -313,7 +313,9 @@ DirectX 12에서 **Window Mode**를 **Exclusive**로 두고 다른 창으로 전
 
 ## 현재 상태
 
-v1.1.2로 릴리스되었으며, 직접 그린 Mods 화면 아이콘이 들어간 Drag'n Wash ModFramework 1.1.2를 포함합니다. v1.1.1은 프레임워크의 첫 아이콘이 들어간 ModFramework 1.1.1을 포함했습니다. v1.1.0부터 이 모드의 새 릴리스가 나오면 Mods 화면과 타이틀 화면에서 알려 줍니다(ModFramework 1.1.0과 함께). v1.0.0은 [Drag'n Wash ModFramework](https://github.com/TomXV/dragnwash-modframework) 위에서 동작하도록 바뀌고 Mods 화면을 추가했습니다. v0.6.2는 게임 업데이트 이전 작업본에서 "Hash for commit" 실행 시 행이 누락되던 문제를 막고 "Really Delete Save?"를 번역했습니다. v0.6.1은 히브리어에서 이름 및 일부 미번역 텍스트가 역순으로 표시되던 문제를 수정했습니다. v0.6.0은 줄 단위 번역(같은 영어 문장도 화자별로 다르게 번역 가능)을 추가했으며 2026-09-14 게임 업데이트 기준으로 검증했습니다. v0.5.0은 게임 자체 Options 화면에서 언어 변경을 추가했고, v0.4.0은 13개 언어, 언어별 폰트, About 탭, 영/일/중 설치 프로그램을 도입했습니다. v0.3.0은 Steam Deck 지원을 추가했습니다. Windows on ARM도 검증되었으며(해당 환경에서 게임 자체는 `-force-d3d11` 필요), macOS는 현재 BepInEx 측 알려진 이슈로 동작하지 않습니다([Steam Deck / Linux](#steam-deck--linux-검증됨) 항목의 주석 참고). BepInEx 플러그인 스켈레톤, UI/대사의 일중 번역 치환, CJK 폰트 렌더링, 대량 대사/UI 내보내기, 인게임 디버그 메뉴, 레이아웃 오버플로 감지, 번역자 문서화, 릴리스 워크플로까지 모두 구현 및 실게임 테스트를 완료했습니다.
+앞으로의 계획은 [docs/ROADMAP.md](docs/ROADMAP.md)(영어)를 참고하세요.
+
+v1.2.0으로 릴리스되었습니다(우크라이나어·태국어·베트남어로 16개 언어, 한국어 원어민 교정, 게임 업데이트에도 사라지지 않는 번역, 로고, Drag'n Wash ModFramework 1.2.0). v1.1.2는 직접 그린 Mods 화면 아이콘이 들어간 Drag'n Wash ModFramework 1.1.2를 포함합니다. v1.1.1은 프레임워크의 첫 아이콘이 들어간 ModFramework 1.1.1을 포함했습니다. v1.1.0부터 이 모드의 새 릴리스가 나오면 Mods 화면과 타이틀 화면에서 알려 줍니다(ModFramework 1.1.0과 함께). v1.0.0은 [Drag'n Wash ModFramework](https://github.com/TomXV/dragnwash-modframework) 위에서 동작하도록 바뀌고 Mods 화면을 추가했습니다. v0.6.2는 게임 업데이트 이전 작업본에서 "Hash for commit" 실행 시 행이 누락되던 문제를 막고 "Really Delete Save?"를 번역했습니다. v0.6.1은 히브리어에서 이름 및 일부 미번역 텍스트가 역순으로 표시되던 문제를 수정했습니다. v0.6.0은 줄 단위 번역(같은 영어 문장도 화자별로 다르게 번역 가능)을 추가했으며 2026-09-14 게임 업데이트 기준으로 검증했습니다. v0.5.0은 게임 자체 Options 화면에서 언어 변경을 추가했고, v0.4.0은 13개 언어, 언어별 폰트, About 탭, 영/일/중 설치 프로그램을 도입했습니다. v0.3.0은 Steam Deck 지원을 추가했습니다. Windows on ARM도 검증되었으며(해당 환경에서 게임 자체는 `-force-d3d11` 필요), macOS는 현재 BepInEx 측 알려진 이슈로 동작하지 않습니다([Steam Deck / Linux](#steam-deck--linux-검증됨) 항목의 주석 참고). BepInEx 플러그인 스켈레톤, UI/대사의 일중 번역 치환, CJK 폰트 렌더링, 대량 대사/UI 내보내기, 인게임 디버그 메뉴, 레이아웃 오버플로 감지, 번역자 문서화, 릴리스 워크플로까지 모두 구현 및 실게임 테스트를 완료했습니다.
 
 자세한 내용은 [docs/PLAN.md](docs/PLAN.md)를 참고하세요.
 
@@ -345,6 +347,14 @@ Drag'n Wash 모드를 개발 중이고 프레임워크에 있었으면 하는 �
 
 이 프로젝트는 비공식 팬 프로젝트이며 Gator Dragon Games와 제휴되어 있지 않습니다. 게임 에셋이나 스크립트 원문을 포함하지 않으며, 영어 문장은 SHA-256 해시로만 저장하고 게임 파일 자체는 수정하지 않습니다(BepInEx가 런타임에 플러그인을 로드). 개발팀 구성원이 우려 사항이 있다면 이 저장소에 이슈를 열거나 유지보수자에게 연락해 주세요. 요청에 맞춰 프로젝트를 조정하거나 내리겠습니다.
 
+## 크레딧
+
+- 이 모드의 **로고**(모드 화면의 아이콘, `icon.png`)는 **Mister ERIO**([@mistererio](https://github.com/mistererio))가 그렸으며, 허락을 받아 사용하고 있습니다.
+- Drag'n Wash ModFramework에 포함된 Options 화면의 **Mods 버튼**도 Mister ERIO의 작품입니다.
+- Drag'n Wash ModFramework의 **로고와 아이콘**(아이콘은 이 zip에도 포함)은 **NotaGames**([@NotaGames](https://github.com/NotaGames))의 작품입니다.
+- 한국어 팩은 **Hotcake**가 교정해 주었습니다.
+- 언어 팩을 개선해 주신 번역자는 [Language packs](#language-packs) 표에 표기되어 있습니다.
+
 ## 라이선스
 
-플러그인 코드 라이선스는 [LICENSE](LICENSE)를 참고하세요. 이 저장소에는 게임의 에셋이나 코드가 포함되어 있지 않습니다. 번역은 각 번역자의 기여물로 취급됩니다.
+플러그인 코드 라이선스는 [LICENSE](LICENSE)를 참고하세요. 크레딧에 적힌 그림은 작가의 것이며, 이 라이선스의 대상이 아닙니다. 이 저장소에는 게임의 에셋이나 코드가 포함되어 있지 않습니다. 번역은 각 번역자의 기여물로 취급됩니다.
