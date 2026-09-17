@@ -17,7 +17,7 @@ line:6046bedf,L01 Ryan,Ryan_1_intro,9,Ryan,Harika!,
 0f3f0b7e817061e6,L01 Ryan,Ryan_1_intro,12,Kobold,"Bekle bir saniye, bariyeri açmam lazım.",
 b8a4a2d6c54c16d8,L01 Ryan,Ryan_1_intro,13,Kobold,İvit!,
 273533e355fd12cf,L01 Ryan,Ryan_1_intro,14,Ryan,Ne dedin...?,
-3faa3f1d46e0e544,L01 Ryan,Ryan_1_intro,15,Kobold,"Ah- işte... bariyeri açacağım!,"
+3faa3f1d46e0e544,L01 Ryan,Ryan_1_intro,15,Kobold,"Ah- şey... bariyeri açacağım!,"
 ce6db45f1866ad91,L01 Ryan,Ryan_1_intro,16,Ryan,"Ha, şimdi çözdüm! İçerideki tuşu yeni görüyorum",
 425d9584e840b683,L01 Ryan,Ryan_1_intro,17,Ryan,"Peki, burada bekliyor olacağım. Teşekkürler.",
 # --- phone: Ryan_1_PhoneTutorial ---
@@ -40,12 +40,12 @@ bb645759b5bd99d4,L01 Ryan,Ryan_1_PhoneTutorial,13,Phone,Mükemmel. O zaman pence
 # --- progress: Ryan_1_required ---
 098ac93ca7999f8c,L01 Ryan,Ryan_1_required,1,Ryan,Pekala lisanslı bir ejder yıkayıcısısın öyle mi?,
 7b999e621945fe90,L01 Ryan,Ryan_1_required,2,Kobold,Hıhı!,
-1cb7709c2b6cdc0b,L01 Ryan,Ryan_1_required,3,Kobold,İşe başladığı yalnızca birkaç hafta oldu!,
+1cb7709c2b6cdc0b,L01 Ryan,Ryan_1_required,3,Kobold,İşe başladığım yalnızca birkaç hafta oldu!,
 9b9024cada67653e,L01 Ryan,Ryan_1_required,4,Ryan,Oh öyle mi!,
-fbd8fe3b49aed7c5,L01 Ryan,Ryan_1_required,5,Ryan,Ben genelde işte evdeki hortumla idare ediyordum...,
+fbd8fe3b49aed7c5,L01 Ryan,Ryan_1_required,5,Ryan,Ben de genelde işte evdeki hortumla idare ediyordum...,
 3f742efbf9edb2ee,L01 Ryan,Ryan_1_required,6,Ryan,Oh ikimiz de çömeziz idesene!,
 e6c276d67e994ed5,L01 Ryan,Ryan_1_required,7,Ryan,"Aslında, bunun ne kadar da iyi hissettirdiğine şaşırdım doğrusu.",
-e99ba1a86146f1aa,L01 Ryan,Ryan_1_required,8,Ryan,Hayatın tüm o koşuşturması içerisinde hoş bir kaçış yolu.,
+e99ba1a86146f1aa,L01 Ryan,Ryan_1_required,8,Ryan,Hayatın tüm o koşuşturmacası içerisinde hoş bir kaçış yolu.,
 line:decf872a,L01 Ryan,Ryan_1_required,9,Ryan,...,
 # --- nag: Ryan_1_nag ---
 c2aa03c999eb7731,L01 Ryan,Ryan_1_nag,1,Ryan,Hey!,
@@ -56,14 +56,14 @@ c2aa03c999eb7731,L01 Ryan,Ryan_1_nag,1,Ryan,Hey!,
 91c3bf04fb99ce8b,L01 Ryan,ryan_mount_no,1,Ryan,"Hm, sanırım bineği kullanmak istemiyorum.",
 # --- outro: Ryan_1_Outro ---
 0d26aa953ca02c41,L01 Ryan,Ryan_1_Outro,1,Ryan,Eminim tertemiz olmuşumdur!,
-699cdec6a62f5ff3,L01 Ryan,Ryan_1_Outro,2,Ryan,Hortumla yıkanmaktan çok daha hoştu bu.,
+699cdec6a62f5ff3,L01 Ryan,Ryan_1_Outro,2,Ryan,Hortumla yıkanmaktan çok daha hoştu.,
 c3bbf19f280c6dde,L01 Ryan,Ryan_1_Outro,3,Kobold,Rica ederim.,
 66984a1e53d3e869,L01 Ryan,Ryan_1_Outro,4,Kobold,Mhm! Yine bekleriz.,
 d629b0ed3f97727c,L01 Ryan,Ryan_1_Outro,6,Ryan,Bu mekanı başkalarına da tanıtacağım,
 e12cf68db48908a3,L01 Ryan,Ryan_1_Outro,7,Ryan,Kesinlikle burayı unutmayacağım.,
-29a9062b9b45c6ef,L01 Ryan,Ryan_1_Outro,8,Ryan,Haha. Sana da 'İvit'.,
+29a9062b9b45c6ef,L01 Ryan,Ryan_1_Outro,8,Ryan,Haha. Asıl sana 'İvit!'.,
 0712e97652e51758,L01 Ryan,Ryan_1_Outro,9,Ryan,"Neyse, iyi vakit geçirdim, görüşmek üzere!",
-17f93a33eafe382c,L01 Ryan,Ryan_1_Outro,10,Ryan,Gitmem için bariyeri açabilir misin?,
+17f93a33eafe382c,L01 Ryan,Ryan_1_Outro,10,Ryan,Çıkmam için bariyeri açabilir misin?,
 1aa7b1c1d5fb1fd6,L01 Ryan,Ryan_1_Outro,12,Ryan/Conrad/Kobold/Dragon,Sağ ol!,
 line:b588bf4c,L01 Ryan,Ryan_1_Outro,12,Ryan,Teşekkürler!,
 
@@ -1680,10 +1680,10 @@ d139edc8ffdc22b7,Reaction,DragonAnnoyedByBuzzing,1,Dragon,"Knock that off, we're
 631ef624f4506ea7,Reaction,DragonAnnoyedByBuzzing,2,Kobold,Hehe,
 line:9504ba33,Reaction,DragonAnnoyedByBuzzing,3,Kobold,...,
 # --- DragonColdBalls ---
-e820f3ec0397737f,Reaction,DragonColdBalls,1,Dragon,Oh! That's cold!,
-8408ed2f21e73811,Reaction,DragonColdBalls,2,Dragon,Whoa! Cold!,
-46f3ba9fc7d04fa7,Reaction,DragonColdBalls,3,Dragon,Brrr! Cold water!,
-00221b8a2772003a,Reaction,DragonColdBalls,4,Dragon,Eep!,
+e820f3ec0397737f,Reaction,DragonColdBalls,1,Dragon,Oh! Bayağı soğuktu!,
+8408ed2f21e73811,Reaction,DragonColdBalls,2,Dragon,Off! Soğuk bu!,
+46f3ba9fc7d04fa7,Reaction,DragonColdBalls,3,Dragon,Trrr! Su çok soğuk!,
+00221b8a2772003a,Reaction,DragonColdBalls,4,Dragon,Ayy!,
 # --- DragonConfusedAboutDismissal ---
 9b99cd22a6f3f85a,Reaction,DragonConfusedAboutDismissal,1,Dragon,Oh we're done?,
 7022570f87a73481,Reaction,DragonConfusedAboutDismissal,2,Dragon,I think you missed a few spots still...,
@@ -1924,7 +1924,7 @@ af8d3a1f26de30ef,Unused,RyanMuddy_Intro,13,Ryan,Thanks I'll be waiting!,
 # --- RyanMuddy_Nag3 ---
 c8f453084718c8cc,Unused,RyanMuddy_Nag3,1,Ryan,I've been told it's polite to talk to smaller folk face to face.,
 # --- RyanMuddy_NaughtyTouch ---
-4d13604e28159e56,Unused,RyanMuddy_NaughtyTouch,1,Ryan,Watch where those paws are going would you?,
+4d13604e28159e56,Unused,RyanMuddy_NaughtyTouch,1,Ryan,Patilerine hakim ol!,
 # --- RyanMuddy_Outro ---
 a46a0805bb6a5eda,Unused,RyanMuddy_Outro,1,Ryan,Thank you for the quick clean!,
 168c7d0bb7743dec,Unused,RyanMuddy_Outro,2,Ryan,By the way would you be mad if your partner made a mess at home?,
