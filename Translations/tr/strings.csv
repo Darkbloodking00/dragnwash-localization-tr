@@ -364,58 +364,58 @@ line:3b568c14,L06 Alexander,Alexander_2_Outro,19,Alexander,Teşekkür ederim.
 # ===== Level 7: Ryan (Sunny) =====
 # --- intro: Ryan_3_intro ---
 49e50c5be7d1583e,L07 Ryan,Ryan_3_intro,2,Kobold,Ryan!
-346181d6c9954315,L07 Ryan,Ryan_3_intro,3,Kobold,Welcome back!
-c1cff3dbff6bfce2,L07 Ryan,Ryan_3_intro,4,Ryan,That's me.
-03810482331af8e2,L07 Ryan,Ryan_3_intro,5,Ryan,Happy to be here.
-e1a42aae663ccf1f,L07 Ryan,Ryan_3_intro,6,Ryan,Came in for another wash.
-fc7ed7b68999fdae,L07 Ryan,Ryan_3_intro,7,Ryan,I...
-be0667bb01a8cd65,L07 Ryan,Ryan_3_intro,8,Ryan,Nevermind. Could you get the gate?
-20ed966db540aaaf,L07 Ryan,Ryan_3_intro,9,Kobold,Yeah let me get that for you.
-6c0973b0166d3528,L07 Ryan,Ryan_3_intro,10,Kobold,Ryan? you sure everything is okay...?
-8dff101cb2298f67,L07 Ryan,Ryan_3_intro,12,Ryan,No not really.
-1990b3ec8cd88a48,L07 Ryan,Ryan_3_intro,13,Ryan,I'll tell you in a bit. Could you just get the gate for now?
-85fec70372b092bb,L07 Ryan,Ryan_3_intro,14,Kobold/Conrad,Yeah.
-line:7311dc01,L07 Ryan,Ryan_3_intro,14,Kobold,Yeah.
-33e04b2f805d0e1a,L07 Ryan,Ryan_3_intro,15,Kobold,Okay. I hope you're doing alright though.
-f51bead488e14b65,L07 Ryan,Ryan_3_intro,16,Ryan/Conrad/Alexander,Thanks.
-line:e521db76,L07 Ryan,Ryan_3_intro,16,Ryan,Thanks.
-aac215f048e8ee54,L07 Ryan,Ryan_3_intro,17,Ryan,I'll manage.
+346181d6c9954315,L07 Ryan,Ryan_3_intro,3,Kobold,Tekrar hoş geldin!
+c1cff3dbff6bfce2,L07 Ryan,Ryan_3_intro,4,Ryan,Yine ben.
+03810482331af8e2,L07 Ryan,Ryan_3_intro,5,Ryan,Burada olmaktan mutluyum.
+e1a42aae663ccf1f,L07 Ryan,Ryan_3_intro,6,Ryan,Tekrar yıkanmak için geldim.
+fc7ed7b68999fdae,L07 Ryan,Ryan_3_intro,7,Ryan,Şey...
+be0667bb01a8cd65,L07 Ryan,Ryan_3_intro,8,Ryan,Neyse. Bariyeri açabilir misin?
+20ed966db540aaaf,L07 Ryan,Ryan_3_intro,9,Kobold,"Doğru, hemen gidip açayım."
+6c0973b0166d3528,L07 Ryan,Ryan_3_intro,10,Kobold,Ryan? İyi olduğuna emin... misin?
+8dff101cb2298f67,L07 Ryan,Ryan_3_intro,12,Ryan,Hayır pek de değilim.
+1990b3ec8cd88a48,L07 Ryan,Ryan_3_intro,13,Ryan,Sana birazcık anlatırım. Şimdilik benim için bariyeri açabilir misin?
+85fec70372b092bb,L07 Ryan,Ryan_3_intro,14,Kobold/Conrad,Tabii ki.
+line:7311dc01,L07 Ryan,Ryan_3_intro,14,Kobold,Tamam.
+33e04b2f805d0e1a,L07 Ryan,Ryan_3_intro,15,Kobold,Peki. Umarım gene de iyisindir.
+f51bead488e14b65,L07 Ryan,Ryan_3_intro,16,Ryan/Conrad/Alexander,Sağ ol.
+line:e521db76,L07 Ryan,Ryan_3_intro,16,Ryan,Sağ ol.
+aac215f048e8ee54,L07 Ryan,Ryan_3_intro,17,Ryan,İyi olacağım.
 # --- progress: Ryan_3_required ---
-eb256f4dcddfee94,L07 Ryan,Ryan_3_required,1,Ryan,About earlier.
-1a17d73907f63be1,L07 Ryan,Ryan_3_required,2,Ryan,A few days ago...
-87a781aa9b0c0136,L07 Ryan,Ryan_3_required,3,Ryan,I broke up with my partner...
-f68b8d76138a2a69,L07 Ryan,Ryan_3_required,4,Kobold,Oh... I'm so sorry.
-d6077ef6cdb59db1,L07 Ryan,Ryan_3_required,5,Kobold,"Aw, Ryan."
-d296154ff317814a,L07 Ryan,Ryan_3_required,6,Ryan,It's okay. I needed to. She wasn't making me happy.
-8a2e2803c1bc2ea7,L07 Ryan,Ryan_3_required,7,Ryan,I wasn't making her happy either.
-d9e1edc2e966ec26,L07 Ryan,Ryan_3_required,8,Ryan,No amount of justification makes it feel good though.
-769c31039308d04d,L07 Ryan,Ryan_3_required,9,Kobold,I'm glad you were able to make the choice that was best for you.
-460c50191c964260,L07 Ryan,Ryan_3_required,10,Kobold,It's never easy to end things.
-8825be71018f7f88,L07 Ryan,Ryan_3_required,11,Ryan,Yeah. At least I got to meet you because of it.
-3e43d550d0572c10,L07 Ryan,Ryan_3_required,12,Ryan,Yeah... It really isn't.
-8948d011be56c311,L07 Ryan,Ryan_3_required,13,Ryan,"But, at least I got to meet you!"
-e484863d425a58e8,L07 Ryan,Ryan_3_required,14,Kobold,"Thank you, Ryan. I'm happy I got to meet you too"
-1af4464c602a423a,L07 Ryan,Ryan_3_required,15,Kobold/Conrad,"Aw, thanks."
-line:011f1458,L07 Ryan,Ryan_3_required,15,Kobold,"Aw, thanks."
-e39173e934f56c78,L07 Ryan,Ryan_3_required,16,Ryan,These washes really make things easier.
-94f45fc9f39121cd,L07 Ryan,Ryan_3_required,17,Ryan,Plus they feel really nice.
+eb256f4dcddfee94,L07 Ryan,Ryan_3_required,1,Ryan,Biraz önceki konu hakkında konuşmak istiyorum.
+1a17d73907f63be1,L07 Ryan,Ryan_3_required,2,Ryan,Birkaç gün önce...
+87a781aa9b0c0136,L07 Ryan,Ryan_3_required,3,Ryan,sevgilimden ayrıldım...
+f68b8d76138a2a69,L07 Ryan,Ryan_3_required,4,Kobold,Oh... Çok üzüldüm.
+d6077ef6cdb59db1,L07 Ryan,Ryan_3_required,5,Kobold,"Ah, Ryan."
+d296154ff317814a,L07 Ryan,Ryan_3_required,6,Ryan,Üzülme. Yapmam gerekiyordu. Onunla mutlu değildim.
+8a2e2803c1bc2ea7,L07 Ryan,Ryan_3_required,7,Ryan,O da benimle mutlu değildi.
+d9e1edc2e966ec26,L07 Ryan,Ryan_3_required,8,Ryan,Tabii ki sebebi ne olursa olsun bu kararı almak yine de beni mutlu etmiyor.
+769c31039308d04d,L07 Ryan,Ryan_3_required,9,Kobold,Kendin için en iyi olan seçimi yapmış olduğuna mutluyum.
+460c50191c964260,L07 Ryan,Ryan_3_required,10,Kobold,Sonlar hiçbir zaman kolay değildir.
+8825be71018f7f88,L07 Ryan,Ryan_3_required,11,Ryan,Doğru. En azından bu sayede seninle tanışmış oldum.
+3e43d550d0572c10,L07 Ryan,Ryan_3_required,12,Ryan,Doğru... kolay değiller...
+8948d011be56c311,L07 Ryan,Ryan_3_required,13,Ryan,"ama en azından, seninle tanışmış oldum!"
+e484863d425a58e8,L07 Ryan,Ryan_3_required,14,Kobold,"Teşekkür ederim, Ryan. Ben de seninle tanışmış olduğuma mutluyum."
+1af4464c602a423a,L07 Ryan,Ryan_3_required,15,Kobold/Conrad,"Ah, çok sağ ol."
+line:011f1458,L07 Ryan,Ryan_3_required,15,Kobold,"Ah, çok sağ ol."
+e39173e934f56c78,L07 Ryan,Ryan_3_required,16,Ryan,Beni yıkaman gerçekten üstümdeki yükleri alıyor.
+94f45fc9f39121cd,L07 Ryan,Ryan_3_required,17,Ryan,Ayrıca çok hoşuma gidiyor.
 # --- outro: Ryan_3_Outro ---
-01e6332ab274c6d3,L07 Ryan,Ryan_3_Outro,1,Ryan,Pretty sure that was everything.
-26fef1581467462d,L07 Ryan,Ryan_3_Outro,2,Ryan,Thank you. You make this a whole lot easier to go through.
-021d801f68652852,L07 Ryan,Ryan_3_Outro,3,Kobold,"You're always welcome here, Ryan."
-dc18b85912d460dd,L07 Ryan,Ryan_3_Outro,4,Kobold,You're one of my favorite clients!
-7ee443bc5e93fadb,L07 Ryan,Ryan_3_Outro,5,Ryan,You always make me feel welcomed.
-c851929ab3cd9537,L07 Ryan,Ryan_3_Outro,6,Ryan,Aw... Thanks. Is it weird I consider you...
-e0464d0955af808a,L07 Ryan,Ryan_3_Outro,7,Ryan,A really good friend?
-674d9f74349966ca,L07 Ryan,Ryan_3_Outro,8,Kobold,<size=70%><i>oah-</i> no that's really cool actually.
-e2c8744d410cb6f6,L07 Ryan,Ryan_3_Outro,9,Kobold,I consider you a good friend too
-29fee2ec355f7967,L07 Ryan,Ryan_3_Outro,10,Ryan,Oh- I'm glad!
-51200db7892ee7e1,L07 Ryan,Ryan_3_Outro,11,Ryan,D'aw... thanks.
-91c56a4e9213a4b0,L07 Ryan,Ryan_3_Outro,12,Ryan,Okay. I should probably get out of your scales.
-523791f6550c3508,L07 Ryan,Ryan_3_Outro,13,Ryan,"I'll be back again, yeah?"
-667cadad21e120f0,L07 Ryan,Ryan_3_Outro,14,Kobold,Okay! I'll go get the gate for you.
-18f0197237db4a52,L07 Ryan,Ryan_3_Outro,15,Kobold,Looking forward to seeing ya'
-952d54adb781ab58,L07 Ryan,Ryan_3_Outro,16,Ryan,Thanks. See you soon.
+01e6332ab274c6d3,L07 Ryan,Ryan_3_Outro,1,Ryan,Sanırım hepsi bu kadardı.
+26fef1581467462d,L07 Ryan,Ryan_3_Outro,2,Ryan,Sağ ol. Sayende her şey çok daha kolay.
+021d801f68652852,L07 Ryan,Ryan_3_Outro,3,Kobold,"Her zaman beklerim, Ryan."
+dc18b85912d460dd,L07 Ryan,Ryan_3_Outro,4,Kobold,En sevdiğim müşterilerimden birisin!
+7ee443bc5e93fadb,L07 Ryan,Ryan_3_Outro,5,Ryan,Beni hep evimde hissettiriyorsun.
+c851929ab3cd9537,L07 Ryan,Ryan_3_Outro,6,Ryan,Ah... Çok sağ ol. Sence seni...
+e0464d0955af808a,L07 Ryan,Ryan_3_Outro,7,Ryan,iyi bir dostum olarak görmem tuhaf mı?
+674d9f74349966ca,L07 Ryan,Ryan_3_Outro,8,Kobold,"<size=70%><i>Ha-</i> hayır, bence çok hoş bir şey."
+e2c8744d410cb6f6,L07 Ryan,Ryan_3_Outro,9,Kobold,Ben de seni dostum olarak görüyorum.
+29fee2ec355f7967,L07 Ryan,Ryan_3_Outro,10,Ryan,Oh- Sevindim!
+51200db7892ee7e1,L07 Ryan,Ryan_3_Outro,11,Ryan,Hah... sağ ol.
+91c56a4e9213a4b0,L07 iRyan,Ryan_3_Outro,12,Ryan,Neyse. O pullarını rahat bırakayım artık.
+523791f6550c3508,L07 Ryan,Ryan_3_Outro,13,Ryan,"Yine geleceğim, tamam mı?"
+667cadad21e120f0,L07 Ryan,Ryan_3_Outro,14,Kobold,Tamam! Gidip sana bariyeri açayım.
+18f0197237db4a52,L07 Ryan,Ryan_3_Outro,15,Kobold,Tekrar görüşmek üzere!
+952d54adb781ab58,L07 Ryan,Ryan_3_Outro,16,Ryan,Teşekkürler. Yakında görüşmek üzere.
 
 # ===== Level 8: Conrad (Sunny) | sets DeliveredMountFrame =====
 # --- intro: Conrad_Intro_3 ---
