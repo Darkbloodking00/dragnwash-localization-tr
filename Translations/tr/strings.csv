@@ -419,88 +419,88 @@ e2c8744d410cb6f6,L07 Ryan,Ryan_3_Outro,9,Kobold,Ben de seni dostum olarak görü
 
 # ===== Level 8: Conrad (Sunny) | sets DeliveredMountFrame =====
 # --- intro: Conrad_Intro_3 ---
-c2ce80cda53b3e12,L08 Conrad,Conrad_Intro_3,1,Conrad,'Ey big dog.
-ef92f8b9796dcaad,L08 Conrad,Conrad_Intro_3,2,Kobold,I'm a... kobold.
-3faf8798d815fbcc,L08 Conrad,Conrad_Intro_3,3,Kobold,Hi Conrad.
-fe810d1ef6bbca3f,L08 Conrad,Conrad_Intro_3,4,Conrad,Uh... Yeah.
-fe59e121f203b436,L08 Conrad,Conrad_Intro_3,5,Conrad,Heh. Yeah. That's me.
-a911f2d8e77038c7,L08 Conrad,Conrad_Intro_3,6,Conrad,"Looks like ya' got a shipment, eh?"
-403e617f71fdbd7d,L08 Conrad,Conrad_Intro_3,7,Conrad,What was in those opened crates?
-2fa26a557574f06d,L08 Conrad,Conrad_Intro_3,8,Kobold,I got a mount.
-ba689238087b547e,L08 Conrad,Conrad_Intro_3,9,Kobold,It's the mount you asked for.
-a1d3f8d9c7e16f54,L08 Conrad,Conrad_Intro_3,10,Conrad,<size=160%>HELL YEAH!
-24f5fb4981989960,L08 Conrad,Conrad_Intro_3,11,Conrad,<size=100%>I mean- Cool.
-086c8ec178979d9b,L08 Conrad,Conrad_Intro_3,12,Conrad,"Now, lemme in! I want to try that thing out!"
-8b742c36f3da7059,L08 Conrad,Conrad_Intro_3,13,Kobold,Okay...
-3a1b28ba58f06ac8,L08 Conrad,Conrad_Intro_3,14,Kobold,I'll go get the gate.
-c2ac4efff25192d6,L08 Conrad,Conrad_Intro_3,15,Conrad,Don't... make it sound like that.
+c2ce80cda53b3e12,L08 Conrad,Conrad_Intro_3,1,Conrad,Naber tosun.
+ef92f8b9796dcaad,L08 Conrad,Conrad_Intro_3,2,Kobold,Ben bir... koboldum.
+3faf8798d815fbcc,L08 Conrad,Conrad_Intro_3,3,Kobold,Selam Conrad.
+fe810d1ef6bbca3f,L08 Conrad,Conrad_Intro_3,4,Conrad,Ah... her neyse işte.
+fe59e121f203b436,L08 Conrad,Conrad_Intro_3,5,Conrad,Heh. Doğru. O ben oluyorum.
+a911f2d8e77038c7,L08 Conrad,Conrad_Intro_3,6,Conrad,"Sanki sana bir sipariş gelmiş gibi, değil mi?"
+403e617f71fdbd7d,L08 Conrad,Conrad_Intro_3,7,Conrad,Açtığın o kasalarda ne vardı?
+2fa26a557574f06d,L08 Conrad,Conrad_Intro_3,8,Kobold,Binek gelmiş.
+ba689238087b547e,L08 Conrad,Conrad_Intro_3,9,Kobold,İstediğin binek.
+a1d3f8d9c7e16f54,L08 Conrad,Conrad_Intro_3,10,Conrad,<size=160%>SONUNDA!
+24f5fb4981989960,L08 Conrad,Conrad_Intro_3,11,Conrad,<size=100%>Yani- İyiymiş.
+086c8ec178979d9b,L08 Conrad,Conrad_Intro_3,12,Conrad,"Hadi, beni içeri al! O şeyi denemek istiyorum!"
+8b742c36f3da7059,L08 Conrad,Conrad_Intro_3,13,Kobold,Peki...
+3a1b28ba58f06ac8,L08 Conrad,Conrad_Intro_3,14,Kobold,Gidip bariyeri açayım.
+c2ac4efff25192d6,L08 Conrad,Conrad_Intro_3,15,Conrad,Senin... içine değil.
 line:610824ef,L08 Conrad,Conrad_Intro_3,16,Conrad,...
-faa0b4a641d866a4,L08 Conrad,Conrad_Intro_3,17,Conrad,Let's get going~!
-f030a371b944e9be,L08 Conrad,Conrad_Intro_3,18,Conrad/Ryan,Damn right!
-line:db592d76,L08 Conrad,Conrad_Intro_3,18,Conrad,Damn right!
+faa0b4a641d866a4,L08 Conrad,Conrad_Intro_3,17,Conrad,Devam edelim~!
+f030a371b944e9be,L08 Conrad,Conrad_Intro_3,18,Conrad/Ryan,Kesinlikle!
+line:db592d76,L08 Conrad,Conrad_Intro_3,18,Conrad,Kesinlikle!
 # --- phone: Conrad_3_PhoneTutorial ---
-eb8e96751da9e008,L08 Conrad,Conrad_3_PhoneTutorial,1,Phone,We got your request for the mount!
-4369749a5a3394e9,L08 Conrad,Conrad_3_PhoneTutorial,2,Kobold,Wha..?
-339397c0d1c1f21f,L08 Conrad,Conrad_3_PhoneTutorial,3,Phone,"It arrived this morning, it should be near the gate."
-f1968abec4612ffb,L08 Conrad,Conrad_3_PhoneTutorial,4,Phone,"Use the crowbar to open and place it in storage, would you?"
-435c7e974ca94c84,L08 Conrad,Conrad_3_PhoneTutorial,6,Phone,Wonderful. Have a <i>productive</i> day.
+eb8e96751da9e008,L08 Conrad,Conrad_3_PhoneTutorial,1,Phone,Binek için olan siparişinizi aldık!
+4369749a5a3394e9,L08 Conrad,Conrad_3_PhoneTutorial,2,Kobold,Ne..?
+339397c0d1c1f21f,L08 Conrad,Conrad_3_PhoneTutorial,3,Phone,"Bu sabah geldi, bariyerin yanında olmalı."
+f1968abec4612ffb,L08 Conrad,Conrad_3_PhoneTutorial,4,Phone,"Levye ile açıp içindekileri depoya at, olur mu?"
+435c7e974ca94c84,L08 Conrad,Conrad_3_PhoneTutorial,6,Phone,Muhteşem. <i>Verimli</i> günler.
 # --- idle: Conrad_idle_3_1 ---
-37950c8a8db90865,L08 Conrad,Conrad_idle_3_1,1,Conrad,If ya' place the mount for me I'll have at it.
-8f224115163c0dbe,L08 Conrad,Conrad_idle_3_1,2,Conrad,"Ey, Use your hands on my cock- it feels good!"
-785bfdcdb6a67739,L08 Conrad,Conrad_idle_3_1,3,Conrad,"So uh, mind opening the gate?"
+37950c8a8db90865,L08 Conrad,Conrad_idle_3_1,1,Conrad,Bineği önüme koy da bir güzel sikeyim.
+8f224115163c0dbe,L08 Conrad,Conrad_idle_3_1,2,Conrad,"Hey, Ellerini yarağımın üstüne geri koy- iyi hisettiriyor!"
+785bfdcdb6a67739,L08 Conrad,Conrad_idle_3_1,3,Conrad,"Ah neyse, bariyeri açar mısın?"
 # --- idle: Conrad_idle_3_2 ---
-c1dc3477631255b7,L08 Conrad,Conrad_idle_3_2,1,Conrad,I like the mount you chose. Mind grabbing it?
-4557c47a615d9810,L08 Conrad,Conrad_idle_3_2,2,Conrad,Sooo. You gonna jerk me off?
-7e079188b55eb03d,L08 Conrad,Conrad_idle_3_2,3,Conrad,Thanks for that. Felt pretty damn good.
+c1dc3477631255b7,L08 Conrad,Conrad_idle_3_2,1,Conrad,Binek seçimini takdir ettim. Getirebilir misin?
+4557c47a615d9810,L08 Conrad,Conrad_idle_3_2,2,Conrad,Pekiii. Beni çekicek misin?
+7e079188b55eb03d,L08 Conrad,Conrad_idle_3_2,3,Conrad,Bunun için sağ ol. Fena iyi geldi.
 # --- jerkoff: Conrad_started_jerkoff_3 ---
-ccd88381d07a0b21,L08 Conrad,Conrad_started_jerkoff_3,1,Conrad,"Ah yeah, that's the stuff.. keep at it."
+ccd88381d07a0b21,L08 Conrad,Conrad_started_jerkoff_3,1,Conrad,"Ah harika, işte böyle.. devam et."
 # --- cum: Conrad_finished_jerkoff_3 ---
 10069c101bcc95c1,L08 Conrad,Conrad_finished_jerkoff_3,1,Conrad,...!
-82d37703a9140210,L08 Conrad,Conrad_finished_jerkoff_3,2,Conrad,"Damn, you know how to use your hands."
-95be71f702fae4a6,L08 Conrad,Conrad_finished_jerkoff_3,5,Kobold,Hah... <size=70%> yeah.
-b60c2f975eedb833,L08 Conrad,Conrad_finished_jerkoff_3,6,Kobold,Of course I do. I'm a <i>professional</i>.
-f9e0d3cba1f3548e,L08 Conrad,Conrad_finished_jerkoff_3,7,Conrad,It's always good when a kobold knows what they like.
-0eb2a1e25a35e85e,L08 Conrad,Conrad_finished_jerkoff_3,8,Conrad,So am I.
+82d37703a9140210,L08 Conrad,Conrad_finished_jerkoff_3,2,Conrad,"Fenaydı, ellerini nasıl kullanman gerektiğini biliyorsun."
+95be71f702fae4a6,L08 Conrad,Conrad_finished_jerkoff_3,5,Kobold,Hah... <size=70%> evet.
+b60c2f975eedb833,L08 Conrad,Conrad_finished_jerkoff_3,6,Kobold,Tabii ki biliyorum. İşinin <i>ehli</i> bir koboldum.
+f9e0d3cba1f3548e,L08 Conrad,Conrad_finished_jerkoff_3,7,Conrad,Bir koboldun neyi sevdiğini bilmesi her zaman iyidir.
+0eb2a1e25a35e85e,L08 Conrad,Conrad_finished_jerkoff_3,8,Conrad,Ben de öyleyimdir...
 line:a6531779,L08 Conrad,Conrad_finished_jerkoff_3,9,Conrad,...
-83d081eadc40b86b,L08 Conrad,Conrad_finished_jerkoff_3,10,Conrad,At getting hand jobs.
+83d081eadc40b86b,L08 Conrad,Conrad_finished_jerkoff_3,10,Conrad,sikime dokunulmasında.
 # --- cum: Conrad_Outro_3 | if $conrad_jerked_off_3 $conrad_used_mount_3 ---
-6f64e0cc9b162541,L08 Conrad,Conrad_Outro_3,1,Conrad,"Ey, so. Was thinkin'"
-dd5acacdb6c59489,L08 Conrad,Conrad_Outro_3,2,Conrad,Might seem kinda weird to ask now. Buuuut.
-7f39f874a107d858,L08 Conrad,Conrad_Outro_3,3,Conrad,"Do you know any cool places, people, I could hang around?"
-df48dbfe82678dea,L08 Conrad,Conrad_Outro_3,4,Kobold,"<gradient=""gold""><b> I know a dragon, Ryan. I could get you two in contact? </b></gradient><size=70%>(Unlocks Conrad/Ryan hookup OR Ryan romance)"
-7b870878852ee72d,L08 Conrad,Conrad_Outro_3,5,Kobold,"<gradient=""gold""><b> I wouldn't mind hanging out... </b></gradient><size=70%> (Unlocks Conrad romance)"
-ac6820f366b18b44,L08 Conrad,Conrad_Outro_3,6,Conrad,Another dragon? Usually I don't really get along...
-de6f58682bdaacf9,L08 Conrad,Conrad_Outro_3,7,Kobold,"Oh, no. Ryan is a sweetheart."
-d4185d9f80a34228,L08 Conrad,Conrad_Outro_3,8,Kobold,"Don't worry, he's real nice."
-9df619228ba627fc,L08 Conrad,Conrad_Outro_3,9,Conrad,Okay. Then I think I'd like to try.
-d88679eede302f8e,L08 Conrad,Conrad_Outro_3,10,Kobold,I'll make sure to ask him next time I see him.
-7984d45df6290f6c,L08 Conrad,Conrad_Outro_3,11,Kobold,I think he'd like the new you!
-bf35fcb679c816dd,L08 Conrad,Conrad_Outro_3,12,Conrad,Thank you. I'd really appreciate it
-d32db8ee98680d0f,L08 Conrad,Conrad_Outro_3,13,Conrad,I hope so. I really want a fresh start with someone.
-8623a4b26a9521d8,L08 Conrad,Conrad_Outro_3,14,Conrad,I probably need to head out though.
-30dcd5391100eeba,L08 Conrad,Conrad_Outro_3,15,Conrad,Thanks for the suggestion!
-f1ad7345d30997b4,L08 Conrad,Conrad_Outro_3,16,Kobold,No need for thanks. I'll get the gate.
-404cba15a4acdcfe,L08 Conrad,Conrad_Outro_3,17,Kobold,Of course.
+6f64e0cc9b162541,L08 Conrad,Conrad_Outro_3,1,Conrad,"Bak, şey. Merak ediyordum da..'"
+dd5acacdb6c59489,L08 Conrad,Conrad_Outro_3,2,Conrad,şimdi bunu sormak kulağa biraz garip gelebilir amaaaa...
+7f39f874a107d858,L08 Conrad,Conrad_Outro_3,3,Conrad,"acaba takılabileceğim hiç güzel yerler veya birilerini biliyor musun?"
+df48dbfe82678dea,L08 Conrad,Conrad_Outro_3,4,Kobold,"<gradient=""gold""><b> Bildiğim bir ejder var, ismi Ryan. İkinizi tanıştırmamı ister misin? </b></gradient><size=70%>(Conrad/Ryan sevişme sahnesini açar YA DA Ryan ile ilişki yapmanızı sağlar)"
+7b870878852ee72d,L08 Conrad,Conrad_Outro_3,5,Kobold,"<gradient=""gold""><b> Seninle takılmaya hayır demezdim... </b></gradient><size=70%> (Conrad ile ilişki yapmanızı sağlar)"
+ac6820f366b18b44,L08 Conrad,Conrad_Outro_3,6,Conrad,Başka bir ejder mi? Genelde diğer ejderlerle anlaşamam...
+de6f58682bdaacf9,L08 Conrad,Conrad_Outro_3,7,Kobold,"Oh, hayır. Ryan çok tatlıdır."
+d4185d9f80a34228,L08 Conrad,Conrad_Outro_3,8,Kobold,"Korkma, çok kibar biri."
+9df619228ba627fc,L08 Conrad,Conrad_Outro_3,9,Conrad,Peki. O zaman tanışmayı isterim.
+d88679eede302f8e,L08 Conrad,Conrad_Outro_3,10,Kobold,Sonraki sefer onu gördüğümde sormaya çalışırım.
+7984d45df6290f6c,L08 Conrad,Conrad_Outro_3,11,Kobold,Bence yeni sen'e bayılacak!
+bf35fcb679c816dd,L08 Conrad,Conrad_Outro_3,12,Conrad,Teşekkür ederim. Çok minnettar olurum.
+d32db8ee98680d0f,L08 Conrad,Conrad_Outro_3,13,Conrad,Umarım öyle olur. Biriyle yeni bir sayfa açmak çok istiyorum.
+8623a4b26a9521d8,L08 Conrad,Conrad_Outro_3,14,Conrad,Artık gitsem iyi olur.
+30dcd5391100eeba,L08 Conrad,Conrad_Outro_3,15,Conrad,Tavsiyen için teşekkürler!
+f1ad7345d30997b4,L08 Conrad,Conrad_Outro_3,16,Kobold,Teşekküre gerek yok. Gidip bariyeri açayım.
+404cba15a4acdcfe,L08 Conrad,Conrad_Outro_3,17,Kobold,Tabii ki de.
 8bf9f7d2ecce0105,L08 Conrad,Conrad_Outro_3,18,Conrad,Ooooh.
-8929fe2569ae7455,L08 Conrad,Conrad_Outro_3,19,Conrad,I think I'd like that!
-2358a2257260501f,L08 Conrad,Conrad_Outro_3,20,Conrad,You're pretty hot.
-c650e0aadadba99c,L08 Conrad,Conrad_Outro_3,21,Conrad,...and nice.
-296f2ab03f8676ef,L08 Conrad,Conrad_Outro_3,23,Kobold,I think you're special too.
-17cf3cc7179b6817,L08 Conrad,Conrad_Outro_3,24,Conrad,That's... the first time you've yipped for me.
-c2599750a4dd9247,L08 Conrad,Conrad_Outro_3,25,Kobold,It means you're doing a good job in kobold.
-6f2ff920e860570d,L08 Conrad,Conrad_Outro_3,26,Conrad,Oh... hah. I like that.
-8b7bdfb88553e72f,L08 Conrad,Conrad_Outro_3,27,Conrad,That makes me feel good to hear.
-e8ae0da9edb0a314,L08 Conrad,Conrad_Outro_3,28,Conrad,So. How about a date?
-781cbcfcd7920f3f,L08 Conrad,Conrad_Outro_3,29,Kobold,That's fast... But I think so!
-5f9a2b795615ba6a,L08 Conrad,Conrad_Outro_3,30,Kobold,Yes.
-508f3cf175389841,L08 Conrad,Conrad_Outro_3,31,Conrad,I think I'd like to try!
-c282dd1133ff96d4,L08 Conrad,Conrad_Outro_3,32,Conrad,Okay! I'll be back later then.
-bfc65061708379d6,L08 Conrad,Conrad_Outro_3,33,Kobold,"<size=70%><i> holy shit, I just bagged a date with a dragon."
-cf78ef26075ae223,L08 Conrad,Conrad_Outro_3,34,Kobold,Yep! I'll get the gate.
+8929fe2569ae7455,L08 Conrad,Conrad_Outro_3,19,Conrad,Belki de bu hoşuma gider!
+2358a2257260501f,L08 Conrad,Conrad_Outro_3,20,Conrad,Bayağı yakışıklısın.
+c650e0aadadba99c,L08 Conrad,Conrad_Outro_3,21,Conrad,...ve kibar.
+296f2ab03f8676ef,L08 Conrad,Conrad_Outro_3,23,Kobold,Bence sen de özelsin.
+17cf3cc7179b6817,L08 Conrad,Conrad_Outro_3,24,Conrad,Bu ses... bana ilk defa ivit dedin.
+c2599750a4dd9247,L08 Conrad,Conrad_Outro_3,25,Kobold,"Kobold dilinde bu, iyi iş yapıyorsun, demek."
+6f2ff920e860570d,L08 Conrad,Conrad_Outro_3,26,Conrad,Oh... hah. Hoşuma gitti.
+8b7bdfb88553e72f,L08 Conrad,Conrad_Outro_3,27,Conrad,Sözlerin kulağıma şiir gibi geliyor.
+e8ae0da9edb0a314,L08 Conrad,Conrad_Outro_3,28,Conrad,Peki. Çıkmak ister misin?
+781cbcfcd7920f3f,L08 Conrad,Conrad_Outro_3,29,Kobold,Çok hızlısın... ama sanırım isterim!
+5f9a2b795615ba6a,L08 Conrad,Conrad_Outro_3,30,Kobold,Evet.
+508f3cf175389841,L08 Conrad,Conrad_Outro_3,31,Conrad,Sanırım denemek isterim!
+c282dd1133ff96d4,L08 Conrad,Conrad_Outro_3,32,Conrad,Peki! Daha sonra uğrarım.
+bfc65061708379d6,L08 Conrad,Conrad_Outro_3,33,Kobold,"<size=70%><i> Hassiktir, az önce bir ejderle randevu ayarladım."
+cf78ef26075ae223,L08 Conrad,Conrad_Outro_3,34,Kobold,Olur! Bariyeri açayım.
 6b8aa4fb55221728,L08 Conrad,Conrad_Outro_3,35,Conrad,Hmm?
-c395eb5878798c08,L08 Conrad,Conrad_Outro_3,36,Kobold,Oh! nothing. I'll get the gate.
-102e28eb7d17c7dd,L08 Conrad,Conrad_Outro_3,37,Conrad,"Oh, okay. Thanks."
-ca518354e1f14735,L08 Conrad,Conrad_Outro_3,38,Conrad,"Okay, thanks."
+c395eb5878798c08,L08 Conrad,Conrad_Outro_3,36,Kobold,Oh! boşver. Bariyeri açayım bare.
+102e28eb7d17c7dd,L08 Conrad,Conrad_Outro_3,37,Conrad,"Oh, peki. Sağ ol."
+ca518354e1f14735,L08 Conrad,Conrad_Outro_3,38,Conrad,"Peki, teşekkürler."
 # --- cum: Conrad_finished_jerkoff_3 ---
 5dffcc40132f0ec4,L08 Conrad,Conrad_finished_jerkoff_3,11,Conrad,Now I'm eyeballing the mount...
 45c2b89acdcfd55d,L08 Conrad,Conrad_finished_jerkoff_3,12,Conrad,Let me give it a try!
@@ -509,45 +509,45 @@ ca518354e1f14735,L08 Conrad,Conrad_Outro_3,38,Conrad,"Okay, thanks."
 line:05c673e7,L08 Conrad,Conrad_finished_jerkoff_3,14,Kobold,Sure!
 9e50b8e48f012f1f,L08 Conrad,Conrad_finished_jerkoff_3,15,Conrad,Hell yeah
 # --- mount_start: Conrad_placed_mount_3 ---
-b9778eb1fe076168,L08 Conrad,Conrad_placed_mount_3,1,Conrad,Hah! There's the mount!
-86b1b615d536c6c9,L08 Conrad,Conrad_placed_mount_3,2,Conrad,So<size=90%>o<size=80%>o<size=70%>o<size=60%>o... <size=100%>I 'aint dirty. But I am <i>~dirty~</i> y'know?
-449244744c8bbd8a,L08 Conrad,Conrad_placed_mount_3,3,Kobold,So you came in just to...
-f8c28806b84cad3d,L08 Conrad,Conrad_placed_mount_3,4,Kobold,Yeah. It wasn't too expensive.
-cd4ecc87775c0780,L08 Conrad,Conrad_placed_mount_3,5,Conrad,Fuck something and then get a handjob hopefully.
-01e3f480dfe7930d,L08 Conrad,Conrad_placed_mount_3,6,Conrad,Get a handjob and fuck this mount.
-7f9240260973e0ce,L08 Conrad,Conrad_placed_mount_3,7,Kobold,You're... very forward.
-e0b48878cb57c01f,L08 Conrad,Conrad_placed_mount_3,8,Conrad,Of course I am! I know I'm very...
-1bd882b6a6343777,L08 Conrad,Conrad_placed_mount_3,9,Conrad,Cool.
+b9778eb1fe076168,L08 Conrad,Conrad_placed_mount_3,1,Conrad,Hah! İşte bineğimiz!
+86b1b615d536c6c9,L08 Conrad,Conrad_placed_mount_3,2,Conrad,Şe<size=90%>e<size=80%>e<size=70%>e<size=60%>y... <size=100%>pis sayılmam ama <i>~pisleşebilirim~</i> anlıyor musun?
+449244744c8bbd8a,L08 Conrad,Conrad_placed_mount_3,3,Kobold,Yani buraya sadece şey yapmak için mi...
+f8c28806b84cad3d,L08 Conrad,Conrad_placed_mount_3,4,Kobold,Anlıyorum. Çok da pahalı değildi.
+cd4ecc87775c0780,L08 Conrad,Conrad_placed_mount_3,5,Conrad,Buraya bir şeyleri sikmek ve beni çekmeni umarak geldim.
+01e3f480dfe7930d,L08 Conrad,Conrad_placed_mount_3,6,Conrad,Beni çekmeni ve bu bineği sikmek istiyorum.
+7f9240260973e0ce,L08 Conrad,Conrad_placed_mount_3,7,Kobold,Çok... açık sözlüsün.
+e0b48878cb57c01f,L08 Conrad,Conrad_placed_mount_3,8,Conrad,Doğam gereği! Biliyorum ben çok şeyim...
+1bd882b6a6343777,L08 Conrad,Conrad_placed_mount_3,9,Conrad,havalı.
 line:045f5836,L08 Conrad,Conrad_placed_mount_3,10,Conrad,...
-557321787688acff,L08 Conrad,Conrad_placed_mount_3,11,Conrad,Anyways. Gonna use this thing now!
-78e9c032e409d82d,L08 Conrad,Conrad_placed_mount_3,12,Conrad,"Hah, good. Let's break this thing in!"
+557321787688acff,L08 Conrad,Conrad_placed_mount_3,11,Conrad,Neyse. Artık şu şeyi kullanayım!
+78e9c032e409d82d,L08 Conrad,Conrad_placed_mount_3,12,Conrad,"Hah, güzel. Artık şu şeyin içine girelim bare!"
 # --- mount_finish: Conrad_finished_mount_3 ---
-81b18a3cc2f69ea7,L08 Conrad,Conrad_finished_mount_3,1,Conrad,Sheesh.
-748b06c5c3f0552b,L08 Conrad,Conrad_finished_mount_3,2,Conrad,That.
-e92da2c203110197,L08 Conrad,Conrad_finished_mount_3,3,Conrad,That felt <i>good</i>.
-bcd00a8f7b94c7f1,L08 Conrad,Conrad_finished_mount_3,4,Kobold,You were really going at it.
-67d7d2492d388d84,L08 Conrad,Conrad_finished_mount_3,5,Kobold,You seemed to enjoy yourself.
-65e7a40050eb4acf,L08 Conrad,Conrad_finished_mount_3,6,Conrad,I always do~
-5c9126f1405a306c,L08 Conrad,Conrad_finished_mount_3,7,Conrad,Hell yeah I did!
-d45c21a765584d3b,L08 Conrad,Conrad_finished_mount_3,8,Kobold,That's good... Now what?
-ae7bb31b012d1f51,L08 Conrad,Conrad_finished_mount_3,9,Conrad,"Now, round two!"
-18b0b44df315e792,L08 Conrad,Conrad_finished_mount_3,10,Kobold,Again...?
-f395d053e5dcf326,L08 Conrad,Conrad_finished_mount_3,11,Conrad,"No no, you're a certified cleaner yeah?"
-5117686f8d936e47,L08 Conrad,Conrad_finished_mount_3,12,Conrad,Means you know how to get hands on!
-a441237f7aea8d53,L08 Conrad,Conrad_finished_mount_3,13,Kobold,oah. <size=70%>okay.
-d2e773775c5bf598,L08 Conrad,Conrad_finished_mount_3,14,Kobold,Right. I'll get to it.
-d126a37255fb8144,L08 Conrad,Conrad_finished_mount_3,15,Conrad,Hah. Yeah. <size=70%><i>It's cool that you learn to jerk off dragons in cleaning school...
-fba1924f5f79713e,L08 Conrad,Conrad_finished_mount_3,16,Conrad,"Well, good luck getting your hands around all of me."
+81b18a3cc2f69ea7,L08 Conrad,Conrad_finished_mount_3,1,Conrad,Haaah.
+748b06c5c3f0552b,L08 Conrad,Conrad_finished_mount_3,2,Conrad,Bu...
+e92da2c203110197,L08 Conrad,Conrad_finished_mount_3,3,Conrad,bayağı <i>iyi</i> hissettirdi.
+bcd00a8f7b94c7f1,L08 Conrad,Conrad_finished_mount_3,4,Kobold,Kendini kaptırmış duruyordun.
+67d7d2492d388d84,L08 Conrad,Conrad_finished_mount_3,5,Kobold,Kendini tatmin etmiş duruyordun.
+65e7a40050eb4acf,L08 Conrad,Conrad_finished_mount_3,6,Conrad,Her zaman kaptırırım~
+5c9126f1405a306c,L08 Conrad,Conrad_finished_mount_3,7,Conrad,Fena hem de!
+d45c21a765584d3b,L08 Conrad,Conrad_finished_mount_3,8,Kobold,İyi... Şimdi ne olacak?
+ae7bb31b012d1f51,L08 Conrad,Conrad_finished_mount_3,9,Conrad,"Şimdi, ikinci posta var!"
+18b0b44df315e792,L08 Conrad,Conrad_finished_mount_3,10,Kobold,Gene mi...?
+f395d053e5dcf326,L08 Conrad,Conrad_finished_mount_3,11,Conrad,"Yok hayır, lisanslı temizlikçi olan sen değil misin?"
+5117686f8d936e47,L08 Conrad,Conrad_finished_mount_3,12,Conrad,Yani elini kullanmayı bilen!
+a441237f7aea8d53,L08 Conrad,Conrad_finished_mount_3,13,Kobold,Oha. <size=70%>peki.
+d2e773775c5bf598,L08 Conrad,Conrad_finished_mount_3,14,Kobold,Doğru öyleyim. İşe koyulayım.
+d126a37255fb8144,L08 Conrad,Conrad_finished_mount_3,15,Conrad,Hah. Doğru. <size=70%><i>Temizlik okulunda ejderleri çekmeyi öğrenmeniz iyi bir şey...
+fba1924f5f79713e,L08 Conrad,Conrad_finished_mount_3,16,Conrad,"Neyse, her yerimi ellemede iyi şanslar."
 # --- mount_finish: Conrad_OutroDirty ---
-9b363afaa9dc8a5f,L08 Conrad,Conrad_OutroDirty,1,Conrad,I'm all dirty still!
-44aa54eec876d22e,L08 Conrad,Conrad_OutroDirty,2,Kobold,Oh my bad
-85d8ae405abc5722,L08 Conrad,Conrad_OutroDirty,3,Kobold,Whoops
+9b363afaa9dc8a5f,L08 Conrad,Conrad_OutroDirty,1,Conrad,Hala leş gibiyim!
+44aa54eec876d22e,L08 Conrad,Conrad_OutroDirty,2,Kobold,Pardon benim hatam
+85d8ae405abc5722,L08 Conrad,Conrad_OutroDirty,3,Kobold,Hay aksi
 # --- mount_finish: Conrad_OutroSoapy ---
-d7bb84bfc322967e,L08 Conrad,Conrad_OutroSoapy,1,Conrad,I'm all soapy still!
+d7bb84bfc322967e,L08 Conrad,Conrad_OutroSoapy,1,Conrad,Her tarafım sabun!
 # --- mount_finish: ErrorHasOccurred ---
-9241fa9324783298,L08 Conrad,ErrorHasOccurred,1,ErrorHasOccurred,Oh fcuk something went wrong
-fbc99d34c317d087,L08 Conrad,ErrorHasOccurred,2,ErrorHasOccurred,if you're seeing this please grab nael or submit a bug report
-be7e08152c8d1556,L08 Conrad,ErrorHasOccurred,3,ErrorHasOccurred,sorry!
+9241fa9324783298,L08 Conrad,ErrorHasOccurred,1,ErrorHasOccurred,Hassiktir oyun çöktü
+fbc99d34c317d087,L08 Conrad,ErrorHasOccurred,2,ErrorHasOccurred,eğer bu yazıyı görüyorsanız ya kendinize bir kahve alın ya da bug report yollayın
+be7e08152c8d1556,L08 Conrad,ErrorHasOccurred,3,ErrorHasOccurred,çok pardon!
 # --- mount_finish: Conrad_Outro | if $conrad_jerked_off_3 $conrad_used_mount_3 ---
 f16474a9900a4418,L08 Conrad,Conrad_Outro,1,Conrad/Alexander/Ryan,==
 line:a8e2f13e,L08 Conrad,Conrad_Outro,1,Conrad,==
