@@ -172,6 +172,15 @@ foreach ($art in 'icon.png', 'ModsButton0.png', 'ModsButton1.png') {
         Copy-Item -LiteralPath $FrameworkArt -Destination (Join-Path $Stage 'BepInEx/plugins/DragNWash.ModFramework')
     }
 }
+# The framework's crash reporter (Windows), next to the core DLL, when the
+# framework checkout has it (ModFramework after 1.2.1). Built deterministically.
+$ReporterProject = Join-Path $FrameworkPath 'crashreporter/DragNWash.CrashReporter.csproj'
+if (Test-Path -LiteralPath $ReporterProject) {
+    Write-Host "Building the crash reporter ..."
+    dotnet build $ReporterProject -c Release
+    if ($LASTEXITCODE -ne 0) { throw 'Build of the crash reporter failed.' }
+    Copy-Item -LiteralPath (Join-Path $FrameworkPath 'crashreporter/bin/Release/CrashReporter.exe') -Destination (Join-Path $Stage 'BepInEx/plugins/DragNWash.ModFramework')
+}
 # This mod's icon on the Mods screen (the logo by Mister ERIO).
 Copy-Item -LiteralPath (Join-Path $Root 'src/DragNWashLocalization/icon.png') -Destination $PluginDir
 Copy-Item -LiteralPath (Join-Path $Root 'FlagCatalog.csv') -Destination $PluginDir
@@ -195,16 +204,26 @@ Get-ChildItem -LiteralPath $SrcTranslations -Directory |
         Copy-Item -LiteralPath (Join-Path $_.FullName 'strings.csv') -Destination $dest
         $nameFile = Join-Path $_.FullName 'name.txt'
         if (Test-Path -LiteralPath $nameFile) { Copy-Item -LiteralPath $nameFile -Destination $dest }
+        # Translated pictures (docs/TRANSLATED_TEXTURES.md): the PNGs, their credits and the fallback list.
+        $textures = Join-Path $_.FullName 'textures'
+        if (Test-Path -LiteralPath $textures) {
+            $destTextures = Join-Path $dest 'textures'
+            New-Item -ItemType Directory -Force -Path $destTextures | Out-Null
+            Get-ChildItem -LiteralPath $textures -File |
+                Where-Object { $_.Extension -eq '.png' -or $_.Name -eq 'credits.csv' -or $_.Name -eq 'fallback.txt' } |
+                ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination $destTextures }
+        }
     }
 
 # Both READMEs ship: the user most likely to be stuck is looking at the extracted
 # folder offline, and most of them read Japanese.
 Copy-Item -LiteralPath (Join-Path $Root 'README.md') -Destination $Stage
 Copy-Item -LiteralPath (Join-Path $Root 'README.ja.md') -Destination $Stage
+Copy-Item -LiteralPath (Join-Path $Root 'CREDITS.txt') -Destination $Stage
 
 # The installers: Drag'n Wash ModFramework's shared Install.exe and
 # install-steamdeck.sh, the same files every mod ships (see the framework's
-# docs/INSTALLER.md). Install.exe is built deterministically, so its hash and the
+# https://github.com/TomXV/dragnwash-modframework/wiki/Installer). Install.exe is built deterministically, so its hash and the
 # antivirus reputation that follows it stay the same from release to release.
 $InstallerProject = Join-Path $FrameworkPath 'installer/DragNWash.Installer.csproj'
 Remove-Item -Recurse -Force -ErrorAction SilentlyContinue (Join-Path $FrameworkPath 'installer/bin'), (Join-Path $FrameworkPath 'installer/obj')

@@ -1,0 +1,52 @@
+name: Commit checker
+
+# The history of this repository is written in one voice: a commit message
+# names the people who decided what the commit should say - the translators and
+# the maintainer - not the editor, the assistant or the IDE that typed it. A
+# human co-author is welcome, and a translator's credit belongs here; a tool's
+# attribution does not, and this check refuses it before it can reach main.
+#
+# It looks only at the commits a push or a pull request brings, never at the
+# whole history. A range it cannot resolve - a brand-new branch, or a push that
+# followed a rewrite - is reported and passed, not failed.
+#
+# A failure's reason is an annotation on the run, and it says how to fix it.
+# The same check runs locally:
+#   python tools/check-commits.py
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  packages: read
+
+jobs:
+  commits:
+    runs-on: ubuntu-latest
+    steps:
+      # The whole history: the check walks from the base to the head.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      # The same image the other checks run in (docs/DOCKER.md). The sign-in is
+      # allowed to fail: a pull request from a fork has no reach into the
+      # package, and docker/ci-image.sh then builds the image itself.
+      - name: Sign in to the container registry
+        uses: docker/login-action@v3
+        continue-on-error: true
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: The checks' image
+        id: image
+        run: echo "tag=$(docker/ci-image.sh)" >> "$GITHUB_OUTPUT"
+      - name: No tool's attribution in the commit messages
+        env:
+          BASE: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+          HEAD: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+        run: |
+          docker run --rm -v "$PWD":/work -w /work -e BASE -e HEAD \
+            "${{ steps.image.outputs.tag }}" python tools/check-commits.py "$BASE" "$HEAD"

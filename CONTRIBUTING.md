@@ -4,6 +4,8 @@
 
 Drag'n Wash Localization lets you contribute a translation by **editing CSV files only**, with no code. This guide is for translators. Build and release steps for the plugin itself are in [docs/RELEASING.md](docs/RELEASING.md).
 
+Everyone taking part follows the [code of conduct](CODE_OF_CONDUCT.md). A security problem goes to the private form in [SECURITY.md](SECURITY.md), not into a pull request or a public issue.
+
 ## What you need
 
 - Drag'n Wash (Steam) with this mod installed (BepInEx)
@@ -109,10 +111,11 @@ Rebuild the published `strings.csv` before opening a pull request. It is generat
 
 - In the game: **F1 → Translation → Hash for commit** (rewrites the current language's file)
 - `tools/hash-strings.ps1` with no arguments (all languages)
+- With Docker, on any system and with nothing of your own installed: `docker compose run --rm hash ja` (one language) or `docker compose run --rm hash` (all of them). See [docs/DOCKER.md](docs/DOCKER.md).
 
 `-Path` is different: it converts exactly the files given, in place, and does **not** look for a working copy. Use it on a published `strings.csv`; passing a working copy overwrites it with the published form, losing its `source_en` column and every untranslated row.
 
-**A `strings.csv` that still contains English is not accepted.** Every pull request is checked automatically, and when the format is wrong a comment explains why in English. Push a fix and the same comment is updated.
+**A `strings.csv` that still contains English is not accepted.** Every pull request is checked automatically, and when the format is wrong a comment explains why in English. Push a fix and the same comment is updated. To run those checks before you push, with Docker: `docker compose run --rm checks`.
 
 Wrap fields containing commas, quotes or line breaks in `"` (escape quotes as `""`), per [RFC 4180](https://datatracker.ietf.org/doc/html/rfc4180).
 
@@ -206,9 +209,13 @@ The check does not compare formatting tags with the source; reviewers look at th
 
 **Spreadsheet apps can break the file on save.** Excel may turn keys that look like numbers (for example `12345e6789012345`) into scientific notation, change the encoding, or change quoting. Prefer a text editor such as VS Code, or LibreOffice with every column set to *Text*, and save as UTF-8 CSV.
 
+## Translated pictures
+
+Some text is in pictures (menu buttons, signs). A translated picture goes in `Translations/<locale>/textures/<game texture name>.png`, with a row in `textures/credits.csv` (`file,author,note`). Draw it by hand, or change the game's picture; never commit the game's picture unchanged ([content policy](https://github.com/TomXV/dragnwash-modframework/blob/main/docs/CONTENT_POLICY.md)). The steps are in [docs/TRANSLATED_TEXTURES.md](docs/TRANSLATED_TEXTURES.md#for-translators).
+
 ## Rules
 
-- Never commit the game's assets or code (copyright).
+- Never commit the game's assets or code unchanged ([content policy](https://github.com/TomXV/dragnwash-modframework/blob/main/docs/CONTENT_POLICY.md)). Pictures you drew or changed are welcome (see above).
 - Never commit `Translations/_discovered/`.
 - Translations are credited to their translators (see [LICENSE](LICENSE)).
 

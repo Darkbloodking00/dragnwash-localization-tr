@@ -6,6 +6,10 @@ Drag'n Wash Localization は、コードを書かずに **CSV を編集するだ
 Mod です。この文書は翻訳に参加したい方向けのガイドです。プラグイン本体の開発者向けの
 ビルド・配布手順は [docs/RELEASING.ja.md](docs/RELEASING.ja.md) を参照してください。
 
+参加するみなさんには[行動規範](docs/CODE_OF_CONDUCT.ja.md)に沿ってもらいます。
+セキュリティの問題は、プルリクエストや公開の Issue ではなく
+[SECURITY.ja.md](SECURITY.ja.md) の非公開のフォームへお願いします。
+
 ## 必要なもの
 
 - Drag'n Wash（Steam版）と本 Mod の導入（BepInEx）
@@ -125,14 +129,15 @@ line:ab423ac7,L15 Alexander,Alexander_5_required,19,Alexander,Wonderful!,
 ### コミット前にハッシュ化する
 
 PR を送る前に、公開用の `strings.csv` を作り直してください。作業ファイル（`_discovered/<locale>.working.csv`）が
-あればそこから、なければ `strings.csv` 自身の `source_en` 行から生成されます。方法は2つ：
+あればそこから、なければ `strings.csv` 自身の `source_en` 行から生成されます。方法は3つ：
 
 - ゲーム内 **F1 → Translation → Hash for commit**（現在の言語のファイルを書き換えます）
 - `tools/hash-strings.ps1` を引数なしで実行（全言語）
+- Docker があれば、どの OS でも、手元に何も入れずに: `docker compose run --rm hash ja`（1 言語）、`docker compose run --rm hash`（全部）。[docs/DOCKER.ja.md](docs/DOCKER.ja.md) を見てください。
 
 `-Path` はこれとは別の動きをします。**渡したファイルをその場で変換するだけ**で、作業ファイルを探しません。公開用の `strings.csv` に対して使ってください。作業ファイルを渡すと公開形式で上書きされ、`source_en` 列と未翻訳の行がすべて失われます。
 
-**英語原文が残った `strings.csv` は PR で受け付けません。** PR ごとに自動チェックが走り、形式が違う場合は理由を英語でコメントします。直してプッシュすれば同じコメントが更新されます。
+**英語原文が残った `strings.csv` は PR で受け付けません。** PR ごとに自動チェックが走り、形式が違う場合は理由を英語でコメントします。直してプッシュすれば同じコメントが更新されます。プッシュする前に同じチェックを回すなら、Docker で `docker compose run --rm checks` です。
 
 カンマ・引用符・改行を含む場合は、フィールドを `"` で囲んでください（引用符は `""` と
 エスケープ）。詳細は [RFC 4180](https://datatracker.ietf.org/doc/html/rfc4180) 準拠です。
@@ -245,9 +250,13 @@ python tools/check-translations.py
 
 **表計算ソフトは、保存するときにファイルを壊すことがあります。** Excel は、数字に見える key（例: `12345e6789012345`）を指数表記に変えたり、文字コードやクォートを変えたりすることがあります。VS Code などのテキストエディタか、すべての列を「テキスト」にした LibreOffice を使い、UTF-8 の CSV で保存してください。
 
+## 絵の翻訳
+
+文字の一部は絵になっています（メニューのボタン、看板）。訳した絵は `Translations/<locale>/textures/<ゲームのテクスチャ名>.png` に置き、`textures/credits.csv`（`file,author,note`）に行を足します。手で描くか、ゲームの絵に手を加えてください。ゲームの絵をそのままコミットしてはいけません（[コンテンツポリシー](https://github.com/TomXV/dragnwash-modframework/blob/main/docs/CONTENT_POLICY.ja.md)）。手順は [docs/TRANSLATED_TEXTURES.ja.md](docs/TRANSLATED_TEXTURES.ja.md#翻訳する人の手順) にあります。
+
 ## ルール
 
-- ゲーム本体のアセット・コードはコミットしない（著作権保護のため）。
+- ゲーム本体のアセット・コードを、手を加えずにそのままコミットしない（[コンテンツポリシー](https://github.com/TomXV/dragnwash-modframework/blob/main/docs/CONTENT_POLICY.ja.md)）。自分で描いた絵や手を加えた絵は歓迎します（上を参照）。
 - `Translations/_discovered/` はコミットしない。
 - 翻訳文はそれぞれの翻訳者の貢献として扱います（ライセンスは [LICENSE](LICENSE) 参照）。
 
