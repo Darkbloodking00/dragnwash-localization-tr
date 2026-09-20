@@ -17,7 +17,7 @@ line:6046bedf,L01 Ryan,Ryan_1_intro,9,Ryan,Harika!
 0f3f0b7e817061e6,L01 Ryan,Ryan_1_intro,12,Kobold,"Bekle bir saniye, bariyeri açmam lazım."
 b8a4a2d6c54c16d8,L01 Ryan,Ryan_1_intro,13,Kobold,İvit!
 273533e355fd12cf,L01 Ryan,Ryan_1_intro,14,Ryan,Ne dedin...?
-3faa3f1d46e0e544,L01 Ryan,Ryan_1_intro,15,Kobold,"Ah- şey... bariyeri açacağım!,"
+3faa3f1d46e0e544,L01 Ryan,Ryan_1_intro,15,Kobold,"Ah- şey... bariyeri açacağım!"
 ce6db45f1866ad91,L01 Ryan,Ryan_1_intro,16,Ryan,"Ha, şimdi çözdüm! İçerideki tuşu yeni görüyorum"
 425d9584e840b683,L01 Ryan,Ryan_1_intro,17,Ryan,"Peki, burada bekliyor olacağım. Teşekkürler."
 # --- phone: Ryan_1_PhoneTutorial ---
@@ -88,7 +88,7 @@ daac14e0bc00f0ad,L02 Conrad,Conrad_required_1,7,Kobold,Ha- Ne- <size=80%>oha. <s
 175ccc13192756d4,L02 Conrad,Conrad_required_1,11,Conrad,"O halde bir tane alsanız iyi olur!"
 fcc67c51c62fb4e9,L02 Conrad,Conrad_required_1,12,Conrad,En azından hala ellerin iş görebilir. Heh.
 a29919179016a4e8,L02 Conrad,Conrad_required_1,13,Conrad,Öyle mi? Binek bile görmüyorum ben buradan.
-6ec80eb8deb5afd8,L02 Conrad,Conrad_required_1,14,Kobold,"Ya... ni, bizde ondan yok.,"
+6ec80eb8deb5afd8,L02 Conrad,Conrad_required_1,14,Kobold,"Ya... ni, bizde ondan yok."
 22706d3faee3b165,L02 Conrad,Conrad_required_1,15,Kobold,"Hayır, burada o tarz şeyler sunmuyoruz."
 4a8d1297fbe8f246,L02 Conrad,Conrad_required_1,16,Conrad,Ah be yazık oldu. Bunu değiştirseniz iyi olur.
 # --- jerkoff: Conrad_1_JerkOff_Start ---
@@ -186,8 +186,8 @@ a1dd2ff2d1ef6beb,L04 Ryan,Ryan_2_required,4,Ryan,Sana bir soru sorabilir miyim?
 c10c037156053bfe,L04 Ryan,Ryan_2_required,6,Kobold,Olur.
 4f6d869aa239596c,L04 Ryan,Ryan_2_required,7,Ryan,"Oh, doğru. Pardon."
 0fa0dff561f86016,L04 Ryan,Ryan_2_required,8,Ryan,"Şey, ilişkilerlerde... ."
-9a38b89ed035e464,L04 Ryan,Ryan_2_required,9,Ryan,"Eğer bir ilişki <i>çok</i> inişli çıkışlıysa ve biteceğine eminsen,"
-9b943020b9ae2658,L04 Ryan,Ryan_2_required,10,Ryan,"onu kurtarmak için her şeyi denediysen,"
+9a38b89ed035e464,L04 Ryan,Ryan_2_required,9,Ryan,"Eğer bir ilişki <i>çok</i> inişli çıkışlıysa ve biteceğine eminsen"
+9b943020b9ae2658,L04 Ryan,Ryan_2_required,10,Ryan,"onu kurtarmak için her şeyi denediysen"
 line:695ef750,L04 Ryan,Ryan_2_required,11,Ryan,...
 954ba66a076849a5,L04 Ryan,Ryan_2_required,12,Ryan,o ilişkiye ne zaman son vereceğini nereden bilirsin?
 f173e528733bb05a,L04 Ryan,Ryan_2_required,13,Kobold,Ah- Ryan...
@@ -944,7 +944,7 @@ be118711068118d5,L11 Conrad,Conrad_Intro_4,13,Kobold,"Hah. Conrad, you look good
 a4008861bf24c47d,L11 Conrad,Conrad_Intro_4,14,Kobold,That's not a thing... But thank you!
 a951e05bf8506af1,L11 Conrad,Conrad_Intro_4,15,Conrad,Berries.
 line:d6483230,L11 Conrad,Conrad_Intro_4,16,Conrad,...
-765af85f1bd7eafe,L11 Conrad,Conrad_Intro_4,17,Conrad,"Anyways,"
+765af85f1bd7eafe,L11 Conrad,Conrad_Intro_4,17,Conrad,"Anyways"
 199e91c738a75b4c,L11 Conrad,Conrad_Intro_4,18,Conrad,Damn right I do!
 926069483fd35835,L11 Conrad,Conrad_Intro_4,19,Conrad,Haha... Yeah. I'm not really used to complimenting.
 8c9dc9229a7630ce,L11 Conrad,Conrad_Intro_4,20,Conrad,I Just need a quick wash... Maybe the mount would be nice too.
@@ -1689,7 +1689,7 @@ e820f3ec0397737f,Reaction,DragonColdBalls,1,Dragon,Of! Bayağı soğuktu!
 7022570f87a73481,Reaction,DragonConfusedAboutDismissal,2,Dragon,I think you missed a few spots still...
 27db29faa5e11bb6,Reaction,DragonConfusedAboutDismissal,3,Kobold,"Oops, my bad."
 4fff64bb7aeed72f,Reaction,DragonConfusedAboutDismissal,4,Kobold,I didn't know what the button did.
-b0869fc4ea46c5bd,Reaction,DragonConfusedAboutDismissal,5,Dragon,"No worries,"
+b0869fc4ea46c5bd,Reaction,DragonConfusedAboutDismissal,5,Dragon,"No worries"
 cb554196ac99a428,Reaction,DragonConfusedAboutDismissal,6,Dragon,Yeah it go BRRT haha.
 345b04bed8d1a7e0,Reaction,DragonConfusedAboutDismissal,7,Dragon,"Anyway glad you're not finished, lets keep at it!"
 # --- DragonSatisfiedAndLeaves ---
@@ -1839,7 +1839,7 @@ ff74b82dcb8a11d3,Unused,RyanDate_3,2,Kobold,"Wow, it's an experience seeing you 
 # --- RyanDate_Idle1 ---
 bcda1f48383d915f,Unused,RyanDate_Idle1,1,Ryan,"Hehe, I'm excited to get into the dating scene again."
 # --- RyanDate_Intro ---
-d5be54b666b3d38f,Unused,RyanDate_Intro,2,Ryan,"I was thinking about what you said,"
+d5be54b666b3d38f,Unused,RyanDate_Intro,2,Ryan,"I was thinking about what you said"
 ffcaf369ac8b1a74,Unused,RyanDate_Intro,3,Ryan,you know about getting back into the dating scene...
 89f52a0dc3d757c1,Unused,RyanDate_Intro,4,Kobold,Yeah
 ecab929d37109ab0,Unused,RyanDate_Intro,5,Ryan,"I knew you were too busy, so I figured I'd bring the date to you!"
@@ -1891,7 +1891,7 @@ bcee068ce8220b8e,Unused,RyanMuddy_Idle2,1,Ryan,Thanks for cleaning me!
 e304ea7f521df3f2,Unused,RyanMuddy_Idle3,1,Ryan,When you're done go ahead and hit the button.
 ac51ca95656fffdd,Unused,RyanMuddy_Idle3,2,Ryan,"The button on the wall, I mean."
 # --- RyanMuddy_Idle4 ---
-8fd85e09be693fbf,Unused,RyanMuddy_Idle4,1,Ryan,"Max says I'm a clumsy dragon,"
+8fd85e09be693fbf,Unused,RyanMuddy_Idle4,1,Ryan,"Max says I'm a clumsy dragon"
 d2261edb51b885d9,Unused,RyanMuddy_Idle4,2,Ryan,I hope that you'll help me prove them wrong!
 # --- RyanMuddy_Idle5 ---
 9df1eb0e35a5d36a,Unused,RyanMuddy_Idle5,1,Ryan,"Soap, then rinse!"
@@ -1912,7 +1912,7 @@ c65b5342f0285c16,Unused,RyanMuddy_Idle8,3,Ryan,"Only realized how much of a mess
 299e9d1e919c3a49,Unused,RyanMuddy_Intro,4,Ryan,I heard there was kobolds down here that could wash me up?
 05d9cdcce06b0c12,Unused,RyanMuddy_Intro,6,Kobold,I am THE kobold. Yip!
 d12499a3f17512de,Unused,RyanMuddy_Intro,7,Kobold,"Yes, welcome to Drag'N Wash!"
-213c112ac748eb9e,Unused,RyanMuddy_Intro,9,Ryan,"Great, so uh,"
+213c112ac748eb9e,Unused,RyanMuddy_Intro,9,Ryan,"Great, so uh"
 44beadf6316d890e,Unused,RyanMuddy_Intro,12,Ryan,"Oh I see the button there, gotcha!"
 af8d3a1f26de30ef,Unused,RyanMuddy_Intro,13,Ryan,Thanks I'll be waiting!
 # --- RyanMuddy_Nag1 ---
