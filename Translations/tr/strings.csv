@@ -559,155 +559,155 @@ e374c1b3adfa0cf8,L08 Conrad,Conrad_Outro,5,Conrad,"Thanks mate, see you tomorrow
 
 # ===== Level 9: Alexander (Sunny) =====
 # --- intro: Alexander_3_intro ---
-36cd0d2b83086eeb,L09 Alexander,Alexander_3_intro,1,Alexander/Conrad,Hey there.
-line:5dacf226,L09 Alexander,Alexander_3_intro,1,Alexander,Hey there.
+36cd0d2b83086eeb,L09 Alexander,Alexander_3_intro,1,Alexander/Conrad,Hey merhaba.
+line:5dacf226,L09 Alexander,Alexander_3_intro,1,Alexander,Hey merhaba.
 bc15783521246457,L09 Alexander,Alexander_3_intro,2,Kobold/Alexander,Alexander!
 line:fe3996b8,L09 Alexander,Alexander_3_intro,2,Kobold,Alexander!
-3cbf350078abb1bf,L09 Alexander,Alexander_3_intro,3,Kobold,"Hey, welcome back!"
-516ad83185e96dfb,L09 Alexander,Alexander_3_intro,4,Alexander,"Haha, yes. Happy to see you."
-f1d9c9797985d9a2,L09 Alexander,Alexander_3_intro,5,Alexander,Happy to be back.
-9f59b5e841a0d2ad,L09 Alexander,Alexander_3_intro,6,Alexander,I seem to have gotten myself covered in ink!
-fda3c419d5174cb2,L09 Alexander,Alexander_3_intro,7,Alexander,"Truly terrible, no?"
-b5d76009b084e709,L09 Alexander,Alexander_3_intro,8,Kobold,"Well, That's why I'm here!"
-4f921c2b968fe884,L09 Alexander,Alexander_3_intro,9,Kobold,"Oh wow, you're really covered in it!"
-256ae0739ddd2dbc,L09 Alexander,Alexander_3_intro,10,Alexander,Indeed! You're the only kobold I wish to wash me now.
-f114f26d23d53dc1,L09 Alexander,Alexander_3_intro,11,Kobold,"Aw, thank you Alexander."
-1f01b93ae3777189,L09 Alexander,Alexander_3_intro,12,Kobold,What about your private washers?
-92b7fef7172975fa,L09 Alexander,Alexander_3_intro,13,Alexander,Of course! You run a fine establishment.
-df2a4df0381808af,L09 Alexander,Alexander_3_intro,14,Alexander,You needn't worry. The washer's union is... More powerful than I.
-1bdc19a56262fbc5,L09 Alexander,Alexander_3_intro,15,Alexander,<size=70%>They're still on my payroll.
-b0134babb7e75550,L09 Alexander,Alexander_3_intro,16,Alexander,A rather good excuse to see my favorite kobold.
-7d926d6395419270,L09 Alexander,Alexander_3_intro,17,Kobold,Aw... Thanks!
+3cbf350078abb1bf,L09 Alexander,Alexander_3_intro,3,Kobold,"Hey, tekrar hoş geldin!"
+516ad83185e96dfb,L09 Alexander,Alexander_3_intro,4,Alexander,"Haha, evet benim. Seni de görmek güzel."
+f1d9c9797985d9a2,L09 Alexander,Alexander_3_intro,5,Alexander,Tekrar gelebildiğime mutluyum.
+9f59b5e841a0d2ad,L09 Alexander,Alexander_3_intro,6,Alexander,Üstümü başımı boya ettim!
+fda3c419d5174cb2,L09 Alexander,Alexander_3_intro,7,Alexander,"Gerçekten batırmışım, değil mi?"
+b5d76009b084e709,L09 Alexander,Alexander_3_intro,8,Kobold,"Eh, benim işim zaten seni temizlemek!"
+4f921c2b968fe884,L09 Alexander,Alexander_3_intro,9,Kobold,"Vay be, gerçekten her yerine bulaşmış!"
+256ae0739ddd2dbc,L09 Alexander,Alexander_3_intro,10,Alexander,Öyle duruyor! Beni yıkamasını istediğim tek kobold sensin.
+f114f26d23d53dc1,L09 Alexander,Alexander_3_intro,11,Kobold,"Ah, çok sağ ol Alexander."
+1f01b93ae3777189,L09 Alexander,Alexander_3_intro,12,Kobold,Özel temizlikçilerin yok muydu senin?
+92b7fef7172975fa,L09 Alexander,Alexander_3_intro,13,Alexander,Rica ederim! Hoş bir işletme yürütüyorsun.
+df2a4df0381808af,L09 Alexander,Alexander_3_intro,14,Alexander,Endişelenecek bir şey yok. Temizlikçi sendikası... benden bile daha güçlü.
+1bdc19a56262fbc5,L09 Alexander,Alexander_3_intro,15,Alexander,<size=70%>Benden maaş almaya devam ediyorlar.
+b0134babb7e75550,L09 Alexander,Alexander_3_intro,16,Alexander,En sevdiğim koboldu görmek için iyi mi iyi bir bahane.
+7d926d6395419270,L09 Alexander,Alexander_3_intro,17,Kobold,Ah... Çok naziksin!
 line:20f96302,L09 Alexander,Alexander_3_intro,18,Kobold,Alexander!
-6ad0fe6dcc2efa30,L09 Alexander,Alexander_3_intro,19,Alexander,"Of course, you run a fine establishment."
-f38b3b8fcf6bf031,L09 Alexander,Alexander_3_intro,20,Alexander,What? There is no harm caused by a genuine compliment!
-350955b9410d95a5,L09 Alexander,Alexander_3_intro,21,Kobold,I never expected you to be the type to be so messy!
-3cf6fd8e7e50386c,L09 Alexander,Alexander_3_intro,22,Kobold,How come you're covered in ink?
-5d2cee363540fc7a,L09 Alexander,Alexander_3_intro,23,Alexander,I... hm.
-26b3089f5ee4a463,L09 Alexander,Alexander_3_intro,24,Alexander,I <i>think </i> I must've spilled an inkwell <i>on the way here</i>. Rather clumsy of me!
-7f1cf0605a577a0a,L09 Alexander,Alexander_3_intro,25,Kobold,"'think', 'On the way here'? Then you weren't covered in ink before..."
+6ad0fe6dcc2efa30,L09 Alexander,Alexander_3_intro,19,Alexander,"Rica ederim, hoş bir işletme yürütüyorsun."
+f38b3b8fcf6bf031,L09 Alexander,Alexander_3_intro,20,Alexander,Ama ne? Sahi bir iltifatın kimseye zararı yok!
+350955b9410d95a5,L09 Alexander,Alexander_3_intro,21,Kobold,Senin gibi birinin hiç bu kadar pasaklı olmasını beklemezdim!
+3cf6fd8e7e50386c,L09 Alexander,Alexander_3_intro,22,Kobold,Her yerin boya nasıl oldu?
+5d2cee363540fc7a,L09 Alexander,Alexander_3_intro,23,Alexander,Şey... hm.
+26b3089f5ee4a463,L09 Alexander,Alexander_3_intro,24,Alexander,Ben <i>galiba </i>yolda <i>buraya gelirken</i> mürekkepliği üstüme döktüm. Ne kadar da sakarım!
+7f1cf0605a577a0a,L09 Alexander,Alexander_3_intro,25,Kobold,"'galiba' mı, 'buraya gelirken' mi? O zaman buraya yürürken üzerine mürekkep bulaşmamıştı..."
 b356a126e4318643,L09 Alexander,Alexander_3_intro,26,Alexander/Kobold/Ryan,Oh.
 line:8441bf7b,L09 Alexander,Alexander_3_intro,26,Alexander,Oh.
-cd5592e5e3140daa,L09 Alexander,Alexander_3_intro,27,Alexander,Right.
+cd5592e5e3140daa,L09 Alexander,Alexander_3_intro,27,Alexander,Haklısın.
 line:759a495e,L09 Alexander,Alexander_3_intro,28,Alexander,...
-2a0200c46ee1b662,L09 Alexander,Alexander_3_intro,29,Alexander,"Truth be told, I got dirty to come here."
-b4d680dde83d7847,L09 Alexander,Alexander_3_intro,30,Kobold,Awww. You don't need to be coverd in ink to say hi!
-42d72aa4b0b39750,L09 Alexander,Alexander_3_intro,31,Kobold,Oh! Then I better let you in. I'll go get the gate.
-9eb8cd756595cf24,L09 Alexander,Alexander_3_intro,32,Alexander,Really?
-5f9846717183dcc1,L09 Alexander,Alexander_3_intro,33,Alexander,I'll keep that in mind. I'm used to things being transactional.
-2ea5b920a0a9a519,L09 Alexander,Alexander_3_intro,34,Kobold,I'm always happy to see you. I'll go get the gate for you.
-line:d60f2dc0,L09 Alexander,Alexander_3_intro,35,Alexander,Thank you.
+2a0200c46ee1b662,L09 Alexander,Alexander_3_intro,29,Alexander,"Doğrusu, buraya gelmek için üstümü kirlettim."
+b4d680dde83d7847,L09 Alexander,Alexander_3_intro,30,Kobold,Ne şekersin. Selam vermek için mürekkeple kaplı olmana gerek yok!
+42d72aa4b0b39750,L09 Alexander,Alexander_3_intro,31,Kobold,Oh! O zaman seni daha bekletmeyeyim. Gidip bariyeri açacağım.
+9eb8cd756595cf24,L09 Alexander,Alexander_3_intro,32,Alexander,Cidden mi?
+5f9846717183dcc1,L09 Alexander,Alexander_3_intro,33,Alexander,Aklımda bulundururum. İşlerin karşılıklı olmasına alışmışım sadece.
+2ea5b920a0a9a519,L09 Alexander,Alexander_3_intro,34,Kobold,Seni her zaman beklerim. Gidip bariyeri açayım.
+line:d60f2dc0,L09 Alexander,Alexander_3_intro,35,Alexander,Teşekkür ederim.
 # --- progress: Alexander_3_required ---
-a59f7f35644dcdbb,L09 Alexander,Alexander_3_required,1,Alexander,Professor Igwyx- My colleague who self-immolated earlier.
-10b4110dad07d576,L09 Alexander,Alexander_3_required,2,Alexander,He's already back to work. Thanks for helping with all that.
-b8baebdff88a847f,L09 Alexander,Alexander_3_required,3,Kobold,"Yeah, that was scary at first."
-a2aff5b173ae96bb,L09 Alexander,Alexander_3_required,4,Kobold,Oh that's good. I'm happy he's okay.
-4b29556a255aea95,L09 Alexander,Alexander_3_required,5,Alexander,Luckily death via spontaneous combustion is a concept we have thoroughly curtailed in the modern world.
-ababfd6e7703460e,L09 Alexander,Alexander_3_required,6,Alexander,Indeed. I'm glad you were able to help.
-69f278cd5a2eb111,L09 Alexander,Alexander_3_required,7,Alexander,...It's odd being able to speak so freely with someone.
-6221337862dcba2c,L09 Alexander,Alexander_3_required,8,Alexander,I feel as I could say anything to you.
-cecec36c55a564ee,L09 Alexander,Alexander_3_required,9,Kobold,Anything?
-7dbde0758389bd7b,L09 Alexander,Alexander_3_required,11,Alexander,Yes. It's invigorating to be so candid.
-9bc918ab274337a8,L09 Alexander,Alexander_3_required,12,Alexander,Somehow that feels more honest than anything anyone else says.
-35af415ffcb7f757,L09 Alexander,Alexander_3_required,13,Alexander,Say...
-c66fb72552f1fa4c,L09 Alexander,Alexander_3_required,14,Alexander,I have a question.
-bbff7b98d6da7061,L09 Alexander,Alexander_3_required,15,Kobold,What is it?
-834032dfb827138e,L09 Alexander,Alexander_3_required,16,Kobold,What's up?
-71291e2e0c7ce300,L09 Alexander,Alexander_3_required,17,Alexander,Could you ask <i>me</i> a question?
-c8ac7dce03b1b9b7,L09 Alexander,Alexander_3_required,18,Kobold,What do you mean?
-10f232e68c0c0443,L09 Alexander,Alexander_3_required,19,Kobold,What kind of question?
-5956cbc43e2c8c2b,L09 Alexander,Alexander_3_required,20,Alexander,I just wish for you to ask me a question. Any question.
-7bf3b1fff483809e,L09 Alexander,Alexander_3_required,21,Alexander,Anything. I'm just curious.
+a59f7f35644dcdbb,L09 Alexander,Alexander_3_required,1,Alexander,Daha önce anlattığım kendini kurban eden meslektaşım- Profesör Igwyx.
+10b4110dad07d576,L09 Alexander,Alexander_3_required,2,Alexander,İşe tekrar başladı bile. O zaman yardım ettiğin için teşekkürler.
+b8baebdff88a847f,L09 Alexander,Alexander_3_required,3,Kobold,"Önemli değil, ilk başta beni korkutmadın değil."
+a2aff5b173ae96bb,L09 Alexander,Alexander_3_required,4,Kobold,Oh çok iyi. Sapasağlam olduğunu mutluyum.
+4b29556a255aea95,L09 Alexander,Alexander_3_required,5,Alexander,Şanslıyız ki rastgele kendiliğinden yanma fenomenini modern dünyada artık tamamen çözmüş haldeyiz.
+ababfd6e7703460e,L09 Alexander,Alexander_3_required,6,Alexander,Tek parça evet. Yardım ettiğine minnettarım.
+69f278cd5a2eb111,L09 Alexander,Alexander_3_required,7,Alexander,...Biriyle bu kadar rahat konuşabilmek tuhaf geliyor.
+6221337862dcba2c,L09 Alexander,Alexander_3_required,8,Alexander,Sana her şeyi anlatabilir mişim gibi hissediyorum.
+cecec36c55a564ee,L09 Alexander,Alexander_3_required,9,Kobold,Her şeyi mi?
+7dbde0758389bd7b,L09 Alexander,Alexander_3_required,11,Alexander,Evet. Bu kadar samimi olabilmek içimi kıpır kıpır yapıyor.
+9bc918ab274337a8,L09 Alexander,Alexander_3_required,12,Alexander,Nedense bu diğer herkesin dediği her şeyden bile daha içten geldi.
+35af415ffcb7f757,L09 Alexander,Alexander_3_required,13,Alexander,"Şey, bir sorum olduğunu..."
+c66fb72552f1fa4c,L09 Alexander,Alexander_3_required,14,Alexander,varsaysak.
+bbff7b98d6da7061,L09 Alexander,Alexander_3_required,15,Kobold,Sorun ne?
+834032dfb827138e,L09 Alexander,Alexander_3_required,16,Kobold,Hayrola?
+71291e2e0c7ce300,L09 Alexander,Alexander_3_required,17,Alexander,<i>Bana</i> bir soru sorabilir misin?
+c8ac7dce03b1b9b7,L09 Alexander,Alexander_3_required,18,Kobold,Nasıl yani?
+10f232e68c0c0443,L09 Alexander,Alexander_3_required,19,Kobold,Ne tür bir soru?
+5956cbc43e2c8c2b,L09 Alexander,Alexander_3_required,20,Alexander,Sadece bana soru sormanı istiyorum. Herhangi bir soru.
+7bf3b1fff483809e,L09 Alexander,Alexander_3_required,21,Alexander,Her çeşit. Sadece merak ediyorum.
 # --- progress: Alexander_questions ---
-9da08a79c3f86ee0,L09 Alexander,Alexander_questions,1,Kobold,What's teaching like?
-337d9f85511815eb,L09 Alexander,Alexander_questions,2,Kobold/Alexander,Do you like purple?
-line:daa040eb,L09 Alexander,Alexander_questions,2,Kobold,Do you like purple?
-70523c9a506d9676,L09 Alexander,Alexander_questions,3,Kobold,Do you like being big?
-3fbd83d375d6fa05,L09 Alexander,Alexander_questions,4,Kobold,What does the number 7 taste like?
-767b6d6bdc5b806a,L09 Alexander,Alexander_questions,5,Kobold,What do you think of me?
-8ed9fdad93b0f690,L09 Alexander,Alexander_questions,6,Kobold,Are you happy?
-e5263ec7185a5166,L09 Alexander,Alexander_questions,7,Kobold,Your crest is cool. What is it?
-bc116106c2929c42,L09 Alexander,Alexander_questions,8,Kobold,That's all I want to ask.
-a04d5511812a415b,L09 Alexander,Alexander_questions,9,Alexander,It's my dream.
-6861f7c274e3de2c,L09 Alexander,Alexander_questions,10,Alexander,I enjoy being a part of so many individuals lives in a positive way.
-8743d170a315e668,L09 Alexander,Alexander_questions,11,Alexander,...It's intimidating knowing how much they look up to me.
-7aebce70febcfb8c,L09 Alexander,Alexander_questions,12,Alexander,And not just physically.
-0ad864ff0c0b3f21,L09 Alexander,Alexander_questions,13,Kobold,What kinds of classes do you teach?
-24244e96851180ca,L09 Alexander,Alexander_questions,14,Kobold,You set a good example.
-f58328ac8301872f,L09 Alexander,Alexander_questions,15,Alexander,Primarily alchemy. Occasionally world history.
-771e997edf959694,L09 Alexander,Alexander_questions,16,Alexander,I've been trying to get into the social sciences aswell.
-9986ef8860d34d9e,L09 Alexander,Alexander_questions,17,Alexander,That's what's terrifying.
-e947bbc260ec1dad,L09 Alexander,Alexander_questions,18,Alexander,I enjoy that I do not fear failure around you.
-818a4fe04a76ce19,L09 Alexander,Alexander_questions,19,Alexander,Do you ask because I'm lavender?
-54a1b0b8e5f6fa32,L09 Alexander,Alexander_questions,20,Kobold,Ya.
-046427d028c69e4b,L09 Alexander,Alexander_questions,21,Kobold,Nah.
-b849ed1e855cd6f5,L09 Alexander,Alexander_questions,22,Alexander,"Well, I do enjoy the color. But I believe that is unrelated to my hue."
-bbb1e1b8cec716b3,L09 Alexander,Alexander_questions,23,Alexander,I do enjoy the color. Though I believe its unrelated to my own hue.
-line:ef052302,L09 Alexander,Alexander_questions,24,Alexander,Do you like purple?
-525ba3c4a2511183,L09 Alexander,Alexander_questions,27,Alexander,Oh. good.
+9da08a79c3f86ee0,L09 Alexander,Alexander_questions,1,Kobold,Ders vermek nasıl bir his?
+337d9f85511815eb,L09 Alexander,Alexander_questions,2,Kobold/Alexander,Mor rengi seviyor musun?
+line:daa040eb,L09 Alexander,Alexander_questions,2,Kobold,Mor rengi seviyor musun?
+70523c9a506d9676,L09 Alexander,Alexander_questions,3,Kobold,Cüsseli olmak hoşuna gidiyor mu?
+3fbd83d375d6fa05,L09 Alexander,Alexander_questions,4,Kobold,7 sayısının tadı sence nasıldır?
+767b6d6bdc5b806a,L09 Alexander,Alexander_questions,5,Kobold,Benim hakkımda ne düşünüyorsun?
+8ed9fdad93b0f690,L09 Alexander,Alexander_questions,6,Kobold,Mutlu musun?
+e5263ec7185a5166,L09 Alexander,Alexander_questions,7,Kobold,Sorgucun çok havalı. Anlamı ne?
+bc116106c2929c42,L09 Alexander,Alexander_questions,8,Kobold,Sormak istediğim her şey bu kadardı.
+a04d5511812a415b,L09 Alexander,Alexander_questions,9,Alexander,O benim hayalim.
+6861f7c274e3de2c,L09 Alexander,Alexander_questions,10,Alexander,Bir sürü kişinin hayatına pozitif yönde dokunabilmek hoşuma gidiyor.
+8743d170a315e668,L09 Alexander,Alexander_questions,11,Alexander,...Gözümün içine baktıklarını bilmek bende biraz telaş uyandırıyor.
+7aebce70febcfb8c,L09 Alexander,Alexander_questions,12,Alexander,Sadece fiziksel olarak da değil.
+0ad864ff0c0b3f21,L09 Alexander,Alexander_questions,13,Kobold,Ne çeşit dersler veriyorsun?
+24244e96851180ca,L09 Alexander,Alexander_questions,14,Kobold,Onlara iyi bir örnek oluyorsun.
+f58328ac8301872f,L09 Alexander,Alexander_questions,15,Alexander,Çoğunlukla simya. Bazen dünya tarihi.
+771e997edf959694,L09 Alexander,Alexander_questions,16,Alexander,Kendimi sosyal bilimlere de atmaya çalışıyorum.
+9986ef8860d34d9e,L09 Alexander,Alexander_questions,17,Alexander,Beni telaşa sokan da işte tam olarak bu.
+e947bbc260ec1dad,L09 Alexander,Alexander_questions,18,Alexander,Seninleyken hata yapma korkum olmamasına mutluyum.
+818a4fe04a76ce19,L09 Alexander,Alexander_questions,19,Alexander,Lavanta gibi olduğum için mi soruyorsun bunu bana?
+54a1b0b8e5f6fa32,L09 Alexander,Alexander_questions,20,Kobold,Hehe.
+046427d028c69e4b,L09 Alexander,Alexander_questions,21,Kobold,Yoo.
+b849ed1e855cd6f5,L09 Alexander,Alexander_questions,22,Alexander,"Yani, o rengi seviyorum ama sanırım kendi renk tonumla pek de alakası yok."
+bbb1e1b8cec716b3,L09 Alexander,Alexander_questions,23,Alexander,O rengi de severim ama pek de kendi renk tonumla alakası yok sanırsam.
+line:ef052302,L09 Alexander,Alexander_questions,24,Alexander,Sen moru sever misin?
+525ba3c4a2511183,L09 Alexander,Alexander_questions,27,Alexander,Oh. Güzel.
 line:7e189c92,L09 Alexander,Alexander_questions,28,Alexander,...
-3885f7429496059d,L09 Alexander,Alexander_questions,29,Alexander,Oh. Okay.
+3885f7429496059d,L09 Alexander,Alexander_questions,29,Alexander,Ah. Peki.
 line:b7f0551c,L09 Alexander,Alexander_questions,30,Alexander,...
-8133434681c5d0c2,L09 Alexander,Alexander_questions,31,Alexander,That's a tricky question to answer.
-a3e6072e41a2ff07,L09 Alexander,Alexander_questions,32,Alexander,I enjoy parts of it. The respect is pleasant...
-b1ca0efdea534b71,L09 Alexander,Alexander_questions,33,Alexander,"However, that respect comes with an expectation to act as I look. It's incredibly stressful."
-186edb7d24ea9459,L09 Alexander,Alexander_questions,34,Kobold,You can act however you like around me.
-1a6be1fd03e5ae6f,L09 Alexander,Alexander_questions,35,Kobold,I like you for who you are.
-08063aff652b7108,L09 Alexander,Alexander_questions,36,Alexander,That's rather nice of you to say.
-4f9390dd28090827,L09 Alexander,Alexander_questions,37,Alexander,I want to be more open. It feels good.
-b38834ce4594ad5c,L09 Alexander,Alexander_questions,38,Alexander,Yellow lime.
-5f6bb166b079c336,L09 Alexander,Alexander_questions,39,Kobold,No way.
-aac4af2b645cf88e,L09 Alexander,Alexander_questions,40,Kobold,Like... a lemon?
-0ee250681eda1a08,L09 Alexander,Alexander_questions,41,Alexander,"'Yes way', There is nothing I am more certain of."
-b83a1658171971d7,L09 Alexander,Alexander_questions,42,Alexander,No. A lime that is yellow.
-a87e0094e62cb429,L09 Alexander,Alexander_questions,43,Kobold,You're the professor here. Must be correct.
+8133434681c5d0c2,L09 Alexander,Alexander_questions,31,Alexander,Bunu cevaplamak biraz zor olacak.
+a3e6072e41a2ff07,L09 Alexander,Alexander_questions,32,Alexander,Bazı kısımları hoşuma gidiyor. Saygı görmek bunlardan biri...
+b1ca0efdea534b71,L09 Alexander,Alexander_questions,33,Alexander,"ancak, bu saygı beraberinde göründüğüm gibi davranmam gerektiği beklentisini doğuruyor. Bu durum beni fazlasıyla strese sokuyor."
+186edb7d24ea9459,L09 Alexander,Alexander_questions,34,Kobold,Benimleyken istediğin gibi davranabilirsin.
+1a6be1fd03e5ae6f,L09 Alexander,Alexander_questions,35,Kobold,Seni olduğun gibi seviyorum.
+08063aff652b7108,L09 Alexander,Alexander_questions,36,Alexander,Ne kadar da kibarsın.
+4f9390dd28090827,L09 Alexander,Alexander_questions,37,Alexander,Daha açık olmak istiyorum. Böylesi daha iyi.
+b38834ce4594ad5c,L09 Alexander,Alexander_questions,38,Alexander,Sarı misket limonu.
+5f6bb166b079c336,L09 Alexander,Alexander_questions,39,Kobold,Yok artık.
+aac4af2b645cf88e,L09 Alexander,Alexander_questions,40,Kobold,Yani... düz limon mu?
+0ee250681eda1a08,L09 Alexander,Alexander_questions,41,Alexander,"'Var artık', tadının öyle olduğuna adım gibi eminim."
+b83a1658171971d7,L09 Alexander,Alexander_questions,42,Alexander,Hayır. Misket limonu ama sarı.
+a87e0094e62cb429,L09 Alexander,Alexander_questions,43,Kobold,Doktor olan sensin. Yanılmış olamazsın.
 e154199e27c1d4a3,L09 Alexander,Alexander_questions,45,Alexander,"That's an appeal to authority fallacy. But, yes. I'm correct."
-0c137b35abd3f637,L09 Alexander,Alexander_questions,47,Alexander,You're...
-d4efe0db738b52b5,L09 Alexander,Alexander_questions,48,Alexander,An anomaly.
-55c3e5daec20a64d,L09 Alexander,Alexander_questions,49,Kobold,Huh?
-2c291db1ddbe2b9d,L09 Alexander,Alexander_questions,50,Kobold,Is that a good thing...?
-df2bc10ba434d57e,L09 Alexander,Alexander_questions,51,Alexander,As in you're unique.
-019d328b739d99e6,L09 Alexander,Alexander_questions,52,Kobold,In a good way?
-c2667b3b3dc54c1a,L09 Alexander,Alexander_questions,53,Kobold,In a bad way?
-4f9b4a3cd9b0261a,L09 Alexander,Alexander_questions,54,Alexander,Of course! You're wonderful.
-ebb1884c75b23e27,L09 Alexander,Alexander_questions,55,Alexander,By the stars! No no. You're excellent.
-3b2c32e616b24822,L09 Alexander,Alexander_questions,56,Alexander,Indeed. You're an excellent person to be around.
-7e6a62b6d8659273,L09 Alexander,Alexander_questions,57,Alexander,You're the first person I've met who's only expectation is for me to be...
-c48241cd21bb0d91,L09 Alexander,Alexander_questions,58,Alexander,Me.
-5a4d28241178ab01,L09 Alexander,Alexander_questions,59,Alexander,I am.
-216bb6e650af4cfc,L09 Alexander,Alexander_questions,60,Alexander,I believe that's in part because of you.
-91ff270d6aaba6a4,L09 Alexander,Alexander_questions,61,Kobold,But I'm only your washer?
-f06f453ab3d6251f,L09 Alexander,Alexander_questions,62,Kobold,That's very sweet.
-8c2bdfa25fbde4ed,L09 Alexander,Alexander_questions,63,Alexander,"I know. But the ability to open up to someone, even occasionally-"
-61639ef55caefda4,L09 Alexander,Alexander_questions,64,Alexander,It does wonders.
-line:bc6cc4d2,L09 Alexander,Alexander_questions,65,Alexander,You're very sweet.
-22c1ab2eb72e5b44,L09 Alexander,Alexander_questions,66,Alexander,"The ability to open up to someone, even occasionally..."
-439d8da114ab9162,L09 Alexander,Alexander_questions,68,Alexander,Thank you for that.
-33d3f6495bad4d3c,L09 Alexander,Alexander_questions,69,Alexander,"Oh, the crest around my head?"
-91d69b4f1f9739cb,L09 Alexander,Alexander_questions,70,Alexander,Many think it's part of my body.
-dd0f2ff5e303f61a,L09 Alexander,Alexander_questions,71,Alexander,"However, it's ornamental! My family crest. You see..."
-7271f9e9b21e5401,L09 Alexander,Alexander_questions,72,Alexander,"Dragon history is complex. Ornamental crest <size=85%> are often <size=70%> worn by dragons to <size=55%>signify what family they belong to! <size=40%> It's an interesting mark of their culutral <size=35%> and familial heritage. I've often wondered if I should continue to wear mine. <size=20%> But culutural and familiar ties are considered important within the lore of dragons! so I must adhere to such things. <size=10%> Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then everything changed when the Fire Nation attacked."
+0c137b35abd3f637,L09 Alexander,Alexander_questions,47,Alexander,Sen bir..
+d4efe0db738b52b5,L09 Alexander,Alexander_questions,48,Alexander,sapmasın.
+55c3e5daec20a64d,L09 Alexander,Alexander_questions,49,Kobold,Ha?
+2c291db1ddbe2b9d,L09 Alexander,Alexander_questions,50,Kobold,Bu iyi bir şey mi...?
+df2bc10ba434d57e,L09 Alexander,Alexander_questions,51,Alexander,"Demek istediğim, farklısın."
+019d328b739d99e6,L09 Alexander,Alexander_questions,52,Kobold,İyi anlamda mı?
+c2667b3b3dc54c1a,L09 Alexander,Alexander_questions,53,Kobold,Kötü anlamda mı?
+4f9b4a3cd9b0261a,L09 Alexander,Alexander_questions,54,Alexander,Tabii ki! Harikasın.
+ebb1884c75b23e27,L09 Alexander,Alexander_questions,55,Alexander,"Yıldızlar aşkına! Yok yok, mükemmelsin."
+3b2c32e616b24822,L09 Alexander,Alexander_questions,56,Alexander,"Hatta, yanında olması harikulade olan birisin"
+7e6a62b6d8659273,L09 Alexander,Alexander_questions,57,Alexander,Kim olduğum konusunda bana karşı tek beklentisi kendim olan tanıştığım kişiler arasında yalnızca sen...
+c48241cd21bb0d91,L09 Alexander,Alexander_questions,58,Alexander,varsın.
+5a4d28241178ab01,L09 Alexander,Alexander_questions,59,Alexander,Öyleyim.
+216bb6e650af4cfc,L09 Alexander,Alexander_questions,60,Alexander,Bunda senin de bir payın olduğuna inanıyorum.
+91ff270d6aaba6a4,L09 Alexander,Alexander_questions,61,Kobold,Ben ama yalnızca temizlikçiyim.
+f06f453ab3d6251f,L09 Alexander,Alexander_questions,62,Kobold,Çok tatlısın.
+8c2bdfa25fbde4ed,L09 Alexander,Alexander_questions,63,Alexander,"Biliyorum ama birine açılabilme şansı, kısa aralıklarla da olsa-"
+61639ef55caefda4,L09 Alexander,Alexander_questions,64,Alexander,harikalar yaratıyor.
+line:bc6cc4d2,L09 Alexander,Alexander_questions,65,Alexander,Sen çok tatlısın.
+22c1ab2eb72e5b44,L09 Alexander,Alexander_questions,66,Alexander,"Birine içini açabilme şansın, kısa aralıklarla da olsa..."
+439d8da114ab9162,L09 Alexander,Alexander_questions,68,Alexander,Bunun için sana teşekkür ederim.
+33d3f6495bad4d3c,L09 Alexander,Alexander_questions,69,Alexander,"Oh, başımın etrafında olan sorguç mu?"
+91d69b4f1f9739cb,L09 Alexander,Alexander_questions,70,Alexander,Çoğu kişi onun vücudumun bir parçası olduğunu zannediyor...
+dd0f2ff5e303f61a,L09 Alexander,Alexander_questions,71,Alexander,"ancak o sadece bir süs! Aile sürgücüm. Anlarsın ya..."
+7271f9e9b21e5401,L09 Alexander,Alexander_questions,72,Alexander,"Ejder tarihi çok karmaşıktır. Süs sorguçları <size=85%>çoğunlukla<size=70%> <size=55%>hangi aileye mensup olduklarını belli etmek için<size=40%> ejderler tarafında giyilirler! Kültürel ve ailevi soylarınını<size=35%> işaret eden ilginç bir damgadır. Her zaman giymeye devam etmeli miyim diye düşünmüşümdür ama<size=20%> kültürel ve ailevi bağlar ejder destanlarında her zaman baş üstünde tutulmuştur! Yani ben de böyle şeylere bağlıyım. <size=10%> Su. Toprak. Ateş. Hava. Evval zaman içinde, bu dört ulus huzur içine yaşarmış ama sonra Ateş ulusu saldırdığında her şey değişti."
 line:e90fee8e,L09 Alexander,Alexander_questions,73,Kobold,Oh.
-0006b6926947b91b,L09 Alexander,Alexander_questions,74,Kobold,Can you repeat that?
-b6d573339ec0b66b,L09 Alexander,Alexander_questions,75,Alexander,"Ah, sorry, I'm passionate about such things."
-9909f3ea3dffb93e,L09 Alexander,Alexander_questions,76,Alexander,I'm glad you enjoy my crest.
-e5bccc3a053371ce,L09 Alexander,Alexander_questions,77,Alexander,...No
+0006b6926947b91b,L09 Alexander,Alexander_questions,74,Kobold,Bir daha söyler misin?
+b6d573339ec0b66b,L09 Alexander,Alexander_questions,75,Alexander,"Ah, pardon, böyle şeylere karşı çok hırslı olabiliyorum."
+9909f3ea3dffb93e,L09 Alexander,Alexander_questions,76,Alexander,Sorgucumu beğendiğine sevindim.
+e5bccc3a053371ce,L09 Alexander,Alexander_questions,77,Alexander,...Olmaz
 # --- progress: Alexander_3_required_end | if $has_asked_question ---
-c225b2626bb24d2c,L09 Alexander,Alexander_3_required_end,1,Alexander,Thanks for asking. It's enjoyable to be asked personal questions.
+c225b2626bb24d2c,L09 Alexander,Alexander_3_required_end,1,Alexander,Soruların için sağ ol. Kişisel sorular sorulması zevkli geliyor.
 # --- jerkoff: Alexander_3_JerkOff_Start ---
-8342e51e14980481,L09 Alexander,Alexander_3_JerkOff_Start,1,Alexander,Oh my- I didn't expect you to be so... hands on
-ce664ef00487ef78,L09 Alexander,Alexander_3_JerkOff_Start,2,Alexander,<size=70%><i>feel free to continue-</i>
+8342e51e14980481,L09 Alexander,Alexander_3_JerkOff_Start,1,Alexander,Ah aman- Bu kadar hırslı olduğunu... beklemiyordum.
+ce664ef00487ef78,L09 Alexander,Alexander_3_JerkOff_Start,2,Alexander,<size=70%><i>rahatına bak-</i>
 # --- cum: Alexander_3_Cum ---
-85503a54fcc74839,L09 Alexander,Alexander_3_Cum,1,Alexander,Uunf. T-that was... Rather undignified.
-afa89c59eece65b9,L09 Alexander,Alexander_3_Cum,2,Alexander,<size=70%><i>but it was nice... Thank you.
+85503a54fcc74839,L09 Alexander,Alexander_3_Cum,1,Alexander,Uuuf. B-bu biraz... onur kırıcıydı.
+afa89c59eece65b9,L09 Alexander,Alexander_3_Cum,2,Alexander,<size=70%><i>ama hoşuma gitti... Sağ ol.
 # --- outro: Alexander_3_Outro ---
-d96b34ffac75e750,L09 Alexander,Alexander_3_Outro,1,Alexander,I'm <i>spotless</i>.
-6dae153117be9e8a,L09 Alexander,Alexander_3_Outro,2,Kobold,I never miss a spot.
-941f66ab23bc1b9b,L09 Alexander,Alexander_3_Outro,4,Alexander,I'm well aware. A deep clean has a distinct feel!
-4598878b44333749,L09 Alexander,Alexander_3_Outro,5,Alexander,That's what I like to hear.
-7ea92f17440d2fae,L09 Alexander,Alexander_3_Outro,6,Alexander,I'll be back again. It's nice having you as a friend.
-7bbef8475c6cdff7,L09 Alexander,Alexander_3_Outro,7,Kobold,Looking forward to seeing you soon.
-17d54d35bc089567,L09 Alexander,Alexander_3_Outro,8,Kobold,I'm happy you feel comfy here.
+d96b34ffac75e750,L09 Alexander,Alexander_3_Outro,1,Alexander,Ben <i>tertemizim</i>.
+6dae153117be9e8a,L09 Alexander,Alexander_3_Outro,2,Kobold,Tek bir leke bile kaçırmam.
+941f66ab23bc1b9b,L09 Alexander,Alexander_3_Outro,4,Alexander,Gayet farkındayım. Derin temizliğin kendine has bir hissi var!
+4598878b44333749,L09 Alexander,Alexander_3_Outro,5,Alexander,İşte duymak istediğim şey.
+7ea92f17440d2fae,L09 Alexander,Alexander_3_Outro,6,Alexander,Tekrar geleceğim. Arkadaşım olarak yanımda olman güzel bir şey.
+7bbef8475c6cdff7,L09 Alexander,Alexander_3_Outro,7,Kobold,Tekrar görüşmeyi iple çekiyorum.
+17d54d35bc089567,L09 Alexander,Alexander_3_Outro,8,Kobold,Burada evinde hissetmene mutluyum.
 
 # ===== Level 10: Ryan (Sunny) | ends PicnicCompleted =====
 # --- intro: Ryan_4_intro ---
