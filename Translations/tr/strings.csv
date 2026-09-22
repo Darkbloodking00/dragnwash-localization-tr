@@ -1102,82 +1102,82 @@ c5cace2191af6925,L11 Conrad,Conrad_Outro_4_Ryan_Romanced,8,Conrad,İkiniz ne kad
 0248808ddaa3479e,L12 Alexander,Alexander_4_intro,1,Alexander,İyi akşamlar!
 d3d306a15d158e29,L12 Alexander,Alexander_4_intro,2,Kobold,Merhabaaa! Merhaba!
 68094c643e49d3c6,L12 Alexander,Alexander_4_intro,3,Kobold,"Hey, Alexander!"
-e8c921ab9051f110,L12 Alexander,Alexander_4_intro,4,Alexander,"Hah, eager as always."
-3b767556f3eeaa3b,L12 Alexander,Alexander_4_intro,5,Alexander,It's wonderful to be back!
-96ed1471d1f86a4d,L12 Alexander,Alexander_4_intro,6,Alexander,The rain has been unrelenting today!
-429d93ef0fafbe8a,L12 Alexander,Alexander_4_intro,7,Alexander,The ambiance is nice.
-a9945cd0cd165325,L12 Alexander,Alexander_4_intro,8,Kobold,The rain is nice.
-7259414f82b0b97a,L12 Alexander,Alexander_4_intro,9,Kobold,I've always hated the rain.
-bfad19e22f9652cc,L12 Alexander,Alexander_4_intro,10,Alexander,"Agreed, though I'd still like to be let in as soon as convenient."
+e8c921ab9051f110,L12 Alexander,Alexander_4_intro,4,Alexander,"Hah, her zamanki gibi heveslisin."
+3b767556f3eeaa3b,L12 Alexander,Alexander_4_intro,5,Alexander,Tekrar gelebilmek muhteşem!
+96ed1471d1f86a4d,L12 Alexander,Alexander_4_intro,6,Alexander,Yağmur bugün pek acımasız!
+429d93ef0fafbe8a,L12 Alexander,Alexander_4_intro,7,Alexander,Etraf çok güzel.
+a9945cd0cd165325,L12 Alexander,Alexander_4_intro,8,Kobold,Yağmuru severim.
+7259414f82b0b97a,L12 Alexander,Alexander_4_intro,9,Kobold,Yağmurdan her zaman nefret etmişimdir.
+bfad19e22f9652cc,L12 Alexander,Alexander_4_intro,10,Alexander,"Katılıyorum, tabii gene de en kısa sürede, müsaitse, içeri girmek istiyorum."
 line:fd8d786a,L12 Alexander,Alexander_4_intro,11,Alexander,Oh?
-91a5c27ef059ab24,L12 Alexander,Alexander_4_intro,12,Alexander,I suppose I understand disliking the mess it may cause.
-882df59f0a75b295,L12 Alexander,Alexander_4_intro,13,Alexander,But that is why I am here!
-990e43e4f2687cdf,L12 Alexander,Alexander_4_intro,14,Kobold,Alright! I'll go get you the gate.
-846b613e707ce00d,L12 Alexander,Alexander_4_intro,15,Kobold,Yip! <size=70%>(Gate)
+91a5c27ef059ab24,L12 Alexander,Alexander_4_intro,12,Alexander,Sanırım yağmurun yaratacağı pislikten hoşlanmadığını anlıyorum...
+882df59f0a75b295,L12 Alexander,Alexander_4_intro,13,Alexander,ama zaten pis olduğum için burada değil miyim!
+990e43e4f2687cdf,L12 Alexander,Alexander_4_intro,14,Kobold,Tamam! Gidip bariyeri açayım.
+846b613e707ce00d,L12 Alexander,Alexander_4_intro,15,Kobold,İvit! <size=70%>(Bariyer)
 line:e449156d,L12 Alexander,Alexander_4_intro,16,Alexander,Thank you!
-1ceb64d9cf6889fd,L12 Alexander,Alexander_4_intro,17,Alexander,"Mmm, I understand that to mean you'll get the gate?"
-56deaef9d6b92a31,L12 Alexander,Alexander_4_intro,18,Kobold,Yip! <size=70%>(Yes)
-fd0d3e3077aaf4ce,L12 Alexander,Alexander_4_intro,19,Alexander,I'm not certain why I suddenly understand your 'Yips'
-7a919cef111fe275,L12 Alexander,Alexander_4_intro,20,Kobold,Yip! <size=70%>(It's because the dormant part of your draconic mind is remembering the deep set language bridge between your kind and mine. Which carries the deep meaning and intention of kobold 'Yips' within it. This sudden understanding of yours is simply from our connection growing over time and activating that part of your mind.)
-6d8c462224bca1b5,L12 Alexander,Alexander_4_intro,21,Kobold,Yip! <size=70%>(idk)
+1ceb64d9cf6889fd,L12 Alexander,Alexander_4_intro,17,Alexander,"Mmm, bu bariyeri açacağın anlamına mı geliyor?"
+56deaef9d6b92a31,L12 Alexander,Alexander_4_intro,18,Kobold,İvit! <size=70%>(Evet)
+fd0d3e3077aaf4ce,L12 Alexander,Alexander_4_intro,19,Alexander,Neden 'ivitlerini' bir anda anlamaya başladığımı bilmiyorum.
+7a919cef111fe275,L12 Alexander,Alexander_4_intro,20,Kobold,İvit! <size=70%>(çünkü ejdervari aklının beklenmedik bir parçası sen ve benim türümün arasındaki derin dil köprüsünü hatırlamakta. O da içerisinde 'ivitlerin' engin anlamlarını ve işaretlerini beraberinde taşımaktadır. Bu sendeki anlık evrekalar yalnızca aramızda giderek kuvvetlenen bağın ve bunun sonucunda aklının bir bölümünün faliyete geçmesinin sonucu.)
+6d8c462224bca1b5,L12 Alexander,Alexander_4_intro,21,Kobold,İvit! <size=70%>(bilmem)
 line:848f5cd8,L12 Alexander,Alexander_4_intro,23,Alexander,...
-8e7ead434fce5609,L12 Alexander,Alexander_4_intro,24,Alexander,Could you get the gate...?
-19be549c91d82ff3,L12 Alexander,Alexander_4_intro,25,Alexander,Fair enough. I'll be waiting!
+8e7ead434fce5609,L12 Alexander,Alexander_4_intro,24,Alexander,Bariyeri açar mısın...?
+19be549c91d82ff3,L12 Alexander,Alexander_4_intro,25,Alexander,Gayet makul. Bekliyor olacağım!
 # --- progress: Alexander_4_required ---
-c19ca0647cc1a583,L12 Alexander,Alexander_4_required,1,Alexander,I've been thinking...
-6d9630067757f781,L12 Alexander,Alexander_4_required,2,Alexander,I couldn't help but notice the... device over there.
-7bd6925025a24288,L12 Alexander,Alexander_4_required,3,Alexander,"That's a mount, no?"
-54b9fbcd575cd0a7,L12 Alexander,Alexander_4_required,4,Kobold,Sure is!
-1f5aad5cbae1a020,L12 Alexander,Alexander_4_required,5,Kobold,Do you want to use it?
-36a85b3430aa6639,L12 Alexander,Alexander_4_required,6,Alexander,I'm... wondering...
-d2b8ae469c604bfb,L12 Alexander,Alexander_4_required,7,Alexander,If I could uhm...
-577e4edfcd4fa53d,L12 Alexander,Alexander_4_required,8,Alexander,Maybe like...
-4caa8162834de434,L12 Alexander,Alexander_4_required,9,Alexander,Just possibly...
-d89de41838a75fa0,L12 Alexander,Alexander_4_required,10,Kobold,If you want to use it that's fine!
-68ad27123e1df879,L12 Alexander,Alexander_4_required,11,Kobold,"No need to be nervous, Alexander!"
-6dece6f0ec399d4e,L12 Alexander,Alexander_4_required,12,Alexander,I think I'd like to?
-08ab3092d83ed1d3,L12 Alexander,Alexander_4_required,13,Alexander,I know. I know.
-81a4fcd2541ac990,L12 Alexander,Alexander_4_required,14,Alexander,I think I'd like to use it?
+c19ca0647cc1a583,L12 Alexander,Alexander_4_required,1,Alexander,Aklıma takıldı da...
+6d9630067757f781,L12 Alexander,Alexander_4_required,2,Alexander,şurada duran bir... alete gözüm çarptı.
+7bd6925025a24288,L12 Alexander,Alexander_4_required,3,Alexander,"O bir binek, değil mi?"
+54b9fbcd575cd0a7,L12 Alexander,Alexander_4_required,4,Kobold,Evet öyle!
+1f5aad5cbae1a020,L12 Alexander,Alexander_4_required,5,Kobold,Binmek mi istiyorsun?
+36a85b3430aa6639,L12 Alexander,Alexander_4_required,6,Alexander,Ben... merak ettim de...
+d2b8ae469c604bfb,L12 Alexander,Alexander_4_required,7,Alexander,acaba aaa...
+577e4edfcd4fa53d,L12 Alexander,Alexander_4_required,8,Alexander,belki işte...
+4caa8162834de434,L12 Alexander,Alexander_4_required,9,Alexander,mümkünse...
+d89de41838a75fa0,L12 Alexander,Alexander_4_required,10,Kobold,Binmek istiyorsan hiç sorun değil!
+68ad27123e1df879,L12 Alexander,Alexander_4_required,11,Kobold,"Utanmana gerek yok, Alexander!"
+6dece6f0ec399d4e,L12 Alexander,Alexander_4_required,12,Alexander,Sanırım istiyorum.
+08ab3092d83ed1d3,L12 Alexander,Alexander_4_required,13,Alexander,Haklısın. Haklısın.
+81a4fcd2541ac990,L12 Alexander,Alexander_4_required,14,Alexander,Sanırım ona binmek istiyorum.
 line:ebd9b4d3,L12 Alexander,Alexander_4_required,15,Alexander,Oh.
-67c0f2a71f4ff613,L12 Alexander,Alexander_4_required,16,Alexander,Uh... uhm...
-4640c27322f55d8c,L12 Alexander,Alexander_4_required,17,Alexander,Possibly...?
-9739b879143b91cf,L12 Alexander,Alexander_4_required,18,Alexander,Only If that's alright-
-e2dce2bed173fba0,L12 Alexander,Alexander_4_required,20,Kobold,Sure it is. Thanks to Conrad for having me get it.
-f12929f0cef567d7,L12 Alexander,Alexander_4_required,21,Alexander,Alright alright... Then I think I'd like to use it?
-76ea754cd53f21dc,L12 Alexander,Alexander_4_required,22,Alexander,Conrad...?
+67c0f2a71f4ff613,L12 Alexander,Alexander_4_required,16,Alexander,Uh... aaa...
+4640c27322f55d8c,L12 Alexander,Alexander_4_required,17,Alexander,mümkünse-
+9739b879143b91cf,L12 Alexander,Alexander_4_required,18,Alexander,ve sakıncası yoksa?
+e2dce2bed173fba0,L12 Alexander,Alexander_4_required,20,Kobold,Tabii ki yok. Conrad sağ olsun o bana aldırdı.
+f12929f0cef567d7,L12 Alexander,Alexander_4_required,21,Alexander,Peki peki... O zaman binmek istiyorum.
+76ea754cd53f21dc,L12 Alexander,Alexander_4_required,22,Alexander,Conrad... mi?
 line:d9516fdd,L12 Alexander,Alexander_4_required,23,Alexander,...
-18b51cf572e4b49a,L12 Alexander,Alexander_4_required,25,Kobold,Fine with me!
-334a54e73cf69dc1,L12 Alexander,Alexander_4_required,26,Kobold,I'll happily get that for you.
-7bd62126f382f565,L12 Alexander,Alexander_4_required,27,Alexander,Mhm... Thank you.
-d2c15503eb28631b,L12 Alexander,Alexander_4_required,28,Alexander,Okay- Thanks.
+18b51cf572e4b49a,L12 Alexander,Alexander_4_required,25,Kobold,Bana uyar!
+334a54e73cf69dc1,L12 Alexander,Alexander_4_required,26,Kobold,Senin için zevkle getiririm onu.
+7bd62126f382f565,L12 Alexander,Alexander_4_required,27,Alexander,Mhm... Sağ ol.
+d2c15503eb28631b,L12 Alexander,Alexander_4_required,28,Alexander,Peki- Teşekkürler.
 # --- jerkoff: Alexander_4_JerkOff_Start ---
-47122b215cc11a2b,L12 Alexander,Alexander_4_JerkOff_Start,1,Alexander,Oh... I suppose this is alright~
+47122b215cc11a2b,L12 Alexander,Alexander_4_JerkOff_Start,1,Alexander,Oh... Sanırım sakıncası olmaz~
 # --- cum: Alexander_4_Cum ---
-ed6a9612f44b19ea,L12 Alexander,Alexander_4_Cum,1,Alexander,huff... Thank you for that.
+ed6a9612f44b19ea,L12 Alexander,Alexander_4_Cum,1,Alexander,Huff... Bunun için teşekkür ederim.
 # --- mount_start: Alexander_4_Mount_Start ---
-1db0bf44f69526fc,L12 Alexander,Alexander_4_Mount_Start,1,Alexander,The mount? I... suppose!
+1db0bf44f69526fc,L12 Alexander,Alexander_4_Mount_Start,1,Alexander,Sanırsam... bu bir binek!
 # --- mount_finish: Alexander_4_Mount_Finish ---
-76527d719ccc95a3,L12 Alexander,Alexander_4_Mount_Finish,1,Alexander,That was... Nicer than I expected.
+76527d719ccc95a3,L12 Alexander,Alexander_4_Mount_Finish,1,Alexander,Beklediğimden... Çok daha hoştu.
 # --- outro: Alexander_4_Outro ---
-35278dc46019f9b9,L12 Alexander,Alexander_4_Outro,1,Alexander,I feel much better.
-5547ec33b10091a2,L12 Alexander,Alexander_4_Outro,2,Alexander,I... Know this is unprompted.
-3ce3dec2bd740757,L12 Alexander,Alexander_4_Outro,3,Alexander,"But, I think you've taught me something."
+35278dc46019f9b9,L12 Alexander,Alexander_4_Outro,1,Alexander,Çok daha iyi hissediyorum.
+5547ec33b10091a2,L12 Alexander,Alexander_4_Outro,2,Alexander,Şey... biliyorum bu biraz ani olacak ama
+3ce3dec2bd740757,L12 Alexander,Alexander_4_Outro,3,Alexander,"sanırım bana bir şey öğrettin."
 line:21c46e75,L12 Alexander,Alexander_4_Outro,4,Kobold,Oh?
-5eca8560307cac86,L12 Alexander,Alexander_4_Outro,5,Kobold,But you're the teacher dragon.
-419ecbf32abefda1,L12 Alexander,Alexander_4_Outro,6,Alexander,"Professor, but yes. You have."
-0b1b8529d2c3c5fc,L12 Alexander,Alexander_4_Outro,7,Alexander,I think I like being taken care of?
-4df2487e01509478,L12 Alexander,Alexander_4_Outro,8,Kobold,Most people do!
-c9f8ba59379bb60a,L12 Alexander,Alexander_4_Outro,9,Kobold,I like taking care of you.
-93786b06bef36348,L12 Alexander,Alexander_4_Outro,10,Alexander,"Well, yes. I mean more... Primally?"
-b868cb066c4b572d,L12 Alexander,Alexander_4_Outro,11,Alexander,"That nice to hear... But, I mean being taken care of more... Primally?"
-565a3630f0cfbcc5,L12 Alexander,Alexander_4_Outro,12,Alexander,I enjoy when you tell me what to do with a pat of your hand.
-1161a29c118dbaa6,L12 Alexander,Alexander_4_Outro,13,Alexander,I like how sure of yourself you are. Even if it just has to do with washing.
-32c31015075eeede,L12 Alexander,Alexander_4_Outro,14,Alexander,"It's nice to relinquish control, even for a moment."
-1651e2418c22d0c0,L12 Alexander,Alexander_4_Outro,15,Kobold,<size=70%> A big dragon giving me control. Woah.
-bd051341e68cc04e,L12 Alexander,Alexander_4_Outro,16,Kobold,I'm happy to give you a place you can relax.
-2e1f723e42b149be,L12 Alexander,Alexander_4_Outro,17,Alexander,It is rather novel isn't it?
-8212cbdd05d21f37,L12 Alexander,Alexander_4_Outro,18,Alexander,"I'll be back soon, yeah? Thanks for the wash."
-b5f8ec9a6918d554,L12 Alexander,Alexander_4_Outro,19,Alexander,"It's freeing. I'll be back, yeah?"
+5eca8560307cac86,L12 Alexander,Alexander_4_Outro,5,Kobold,Öğretmen ejder olan ama sensin.
+419ecbf32abefda1,L12 Alexander,Alexander_4_Outro,6,Alexander,"Öğretim görevlisi ama evet. Öğrettin."
+0b1b8529d2c3c5fc,L12 Alexander,Alexander_4_Outro,7,Alexander,Sanırım ilgilenilmek hoşuma gidiyor.
+4df2487e01509478,L12 Alexander,Alexander_4_Outro,8,Kobold,Çoğunun hoşuna gider!
+c9f8ba59379bb60a,L12 Alexander,Alexander_4_Outro,9,Kobold,Sana bakmak hoşuma gidiyor.
+93786b06bef36348,L12 Alexander,Alexander_4_Outro,10,Alexander,"Yani, şey. Kastım daha çok... hayvani yönlerimleydi."
+b868cb066c4b572d,L12 Alexander,Alexander_4_Outro,11,Alexander,"Bunu duymak güzel... ama kastım daha çok... hayvani yönlerimleydi."
+565a3630f0cfbcc5,L12 Alexander,Alexander_4_Outro,12,Alexander,Bana elini dokundurarak neyi yapmam gerektiğini söylemen hoşuma gidiyor.
+1161a29c118dbaa6,L12 Alexander,Alexander_4_Outro,13,Alexander,Kendinden bu denli emin olmana bayılıyorum. Yaptığın iş sadece yıkamak olsa bile.
+32c31015075eeede,L12 Alexander,Alexander_4_Outro,14,Alexander,"Bir an için dahi olsa, kontrolü elimden alman iyi hissettiriyor."
+1651e2418c22d0c0,L12 Alexander,Alexander_4_Outro,15,Kobold,<size=70%> Büyük ejder kontrolü bana mı veriyor. Vaay.
+bd051341e68cc04e,L12 Alexander,Alexander_4_Outro,16,Kobold,Sana rahatlayabileceğin bir yer sunduğum için mutluyum.
+2e1f723e42b149be,L12 Alexander,Alexander_4_Outro,17,Alexander,Masal gibi değil mi?
+8212cbdd05d21f37,L12 Alexander,Alexander_4_Outro,18,Alexander,"Yine görüşeceğiz, tamam mı? Yıkadığın için teşekkürler."
+b5f8ec9a6918d554,L12 Alexander,Alexander_4_Outro,19,Alexander,"Burada özgür hissediyorum. Yine geleceğim, tamam mı?"
 
 # ===== Level 13: Ryan (Sunny) =====
 # --- intro: Ryan_5_intro ---
