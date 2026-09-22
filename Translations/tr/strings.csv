@@ -711,218 +711,218 @@ d96b34ffac75e750,L09 Alexander,Alexander_3_Outro,1,Alexander,Ben <i>tertemizim</
 
 # ===== Level 10: Ryan (Sunny) | ends PicnicCompleted =====
 # --- intro: Ryan_4_intro ---
-379060351b7eda00,L10 Ryan,Ryan_4_intro,1,Ryan,<b><i><size=130%>Did you suggest Ryan to Conrad?
-8a798890fe938171,L10 Ryan,Ryan_4_intro,2,Kobold,yes
-9390298f3fb0c5b1,L10 Ryan,Ryan_4_intro,3,Kobold,no
-578f5563ae25f1ce,L10 Ryan,Ryan_4_intro,4,Kobold,Woah... What is that in your mouth?
-c03386d6c9efb92a,L10 Ryan,Ryan_4_intro,5,Kobold,"Hey Ryan, what do you have there?"
-d85dcd17cab55fde,L10 Ryan,Ryan_4_intro,6,Ryan,Picnic bathket-
-b9c2f8ae41c83ebe,L10 Ryan,Ryan_4_intro,7,Ryan,Can't sthpeak well.
-696058e475fae76a,L10 Ryan,Ryan_4_intro,8,Ryan,lemme in?
-1f843189eaccc2b6,L10 Ryan,Ryan_4_intro,9,Kobold,Oh! Okay. I'll get the gate!
-9cc8b0255238b35e,L10 Ryan,Ryan_4_intro,10,Kobold,"Right, I'll get that for you ASAP."
-1facde273315d636,L10 Ryan,Ryan_4_intro,11,Ryan,Thankth!
+379060351b7eda00,L10 Ryan,Ryan_4_intro,1,Ryan,<b><i><size=130%>Ryan'ı Conrad'e sen mi tavsiye ettin?
+8a798890fe938171,L10 Ryan,Ryan_4_intro,2,Kobold,evet
+9390298f3fb0c5b1,L10 Ryan,Ryan_4_intro,3,Kobold,yo
+578f5563ae25f1ce,L10 Ryan,Ryan_4_intro,4,Kobold,Oha... Ağzındaki ne öyle?
+c03386d6c9efb92a,L10 Ryan,Ryan_4_intro,5,Kobold,"Hey Ryan, o ne öyle?"
+d85dcd17cab55fde,L10 Ryan,Ryan_4_intro,6,Ryan,Piknik fepeti-
+b9c2f8ae41c83ebe,L10 Ryan,Ryan_4_intro,7,Ryan,Fu an konussammyorum.
+696058e475fae76a,L10 Ryan,Ryan_4_intro,8,Ryan,geliyim mi?
+1f843189eaccc2b6,L10 Ryan,Ryan_4_intro,9,Kobold,Oh! Tabii. Bariyeri açayım!
+9cc8b0255238b35e,L10 Ryan,Ryan_4_intro,10,Kobold,"Haklısın, hemen gidip açmam lazım."
+1facde273315d636,L10 Ryan,Ryan_4_intro,11,Ryan,Fah ol!
 # --- picnic: Ryan_egg_dialog | if $food_number ---
-ff7696a47d0cd4ed,L10 Ryan,Ryan_egg_dialog,1,Kobold,ohmygod I thought the egg was decorative.
-76dddaed85a8d844,L10 Ryan,Ryan_egg_dialog,2,Kobold,What kind of egg was that?
-9fe69182b150b8b1,L10 Ryan,Ryan_egg_dialog,3,Ryan,Huh? ofcourse not!
-f5d2571561dba2b0,L10 Ryan,Ryan_egg_dialog,4,Ryan,OH. You're not used to eating them whole.
-718beb6db0dae659,L10 Ryan,Ryan_egg_dialog,5,Ryan,That's the best way to eat'em!
+ff7696a47d0cd4ed,L10 Ryan,Ryan_egg_dialog,1,Kobold,"Amanın, yumurtayı süs sanmıştım."
+76dddaed85a8d844,L10 Ryan,Ryan_egg_dialog,2,Kobold,O nasıl bir yumurtaydı?
+9fe69182b150b8b1,L10 Ryan,Ryan_egg_dialog,3,Ryan,Ha? Tabii ki değildi!
+f5d2571561dba2b0,L10 Ryan,Ryan_egg_dialog,4,Ryan,"Oh. Onları tek lokmada yemeye alışık değilsin, şimdi anladım."
+718beb6db0dae659,L10 Ryan,Ryan_egg_dialog,5,Ryan,Onların yemenin en iyi yolu mideye indirmek!
 c03f60d1d7bd67e5,L10 Ryan,Ryan_egg_dialog,6,Ryan,Uhm...
-4a7cf2bb1bd01e0b,L10 Ryan,Ryan_egg_dialog,7,Ryan,Blue...?
-640cee0646ecb66c,L10 Ryan,Ryan_egg_dialog,8,Ryan,I'm not too sure. It was on sale at WingCo.
-f887a50c6f7d1edc,L10 Ryan,Ryan_egg_dialog,9,Ryan,Tasted real good though!
+4a7cf2bb1bd01e0b,L10 Ryan,Ryan_egg_dialog,7,Ryan,Mavi mi...?
+640cee0646ecb66c,L10 Ryan,Ryan_egg_dialog,8,Ryan,Emin değilim. WingCo'da indirimdeydiler...
+f887a50c6f7d1edc,L10 Ryan,Ryan_egg_dialog,9,Ryan,ama bayağı lezizdi!
 # --- picnic: ryan_food_dialogue ---
-8b555a411ea346ec,L10 Ryan,ryan_food_dialogue,1,Ryan,So... I was thinking about my relationships.
-03e1d33ec4a7f6e8,L10 Ryan,ryan_food_dialogue,2,Kobold,How so?
-f1676448791feef6,L10 Ryan,ryan_food_dialogue,3,Ryan,"Like, the future of my relationships."
-9d2e28c9ae2ed8b4,L10 Ryan,ryan_food_dialogue,4,Ryan,I'm kind of excited.
-91b32d6180935501,L10 Ryan,ryan_food_dialogue,5,Kobold,"Well, you are one hell of a catch."
-e5d632fba39e2f0f,L10 Ryan,ryan_food_dialogue,6,Kobold,I'm excited for you!
-d228097b23b352e6,L10 Ryan,ryan_food_dialogue,7,Ryan,Oh you. Gonna make me blush.
-line:30f1f583,L10 Ryan,ryan_food_dialogue,8,Ryan,Thanks!
-d94d7310f7d31a45,L10 Ryan,ryan_food_dialogue,9,Ryan,Really looking forward to finding new people.
-1121175da09c0008,L10 Ryan,ryan_food_dialogue,10,Ryan,"Now, more food?"
+8b555a411ea346ec,L10 Ryan,ryan_food_dialogue,1,Ryan,Şey... ilişkileri düşünüyordum.
+03e1d33ec4a7f6e8,L10 Ryan,ryan_food_dialogue,2,Kobold,Nasıl yani?
+f1676448791feef6,L10 Ryan,ryan_food_dialogue,3,Ryan,"Yani, ilişkilerimin geleceğini."
+9d2e28c9ae2ed8b4,L10 Ryan,ryan_food_dialogue,4,Ryan,Biraz heyecanlıyım doğrusu.
+91b32d6180935501,L10 Ryan,ryan_food_dialogue,5,Kobold,"Aslında, ilişki pazarındaki en fena balıklardan birisin."
+e5d632fba39e2f0f,L10 Ryan,ryan_food_dialogue,6,Kobold,Senin adına ben de heyecanlandım!
+d228097b23b352e6,L10 Ryan,ryan_food_dialogue,7,Ryan,Sen var ya- Beni utandıracaksın.
+line:30f1f583,L10 Ryan,ryan_food_dialogue,8,Ryan,Teşekkürler!
+d94d7310f7d31a45,L10 Ryan,ryan_food_dialogue,9,Ryan,Yeni kişilerle tanışmak için sabırsızlanıyorum.
+1121175da09c0008,L10 Ryan,ryan_food_dialogue,10,Ryan,"Neyse, beni besler misin?"
 6ebac8131d5267ac,L10 Ryan,ryan_food_dialogue,11,Ryan,Hmm...
-d2c7e6789d89f523,L10 Ryan,ryan_food_dialogue,13,Ryan,I was thinking.
-67c0ce6aff865e1c,L10 Ryan,ryan_food_dialogue,14,Ryan,It's difficult to find folks that are outside of my current bubble.
-d7f23a9907b74860,L10 Ryan,ryan_food_dialogue,15,Ryan,"Like, I love those around me, but there's a lot of baggage there."
-99daac47d7b305f6,L10 Ryan,ryan_food_dialogue,16,Ryan,Y'know?
-1b4b607607b8c988,L10 Ryan,ryan_food_dialogue,17,Kobold,Makes sense.
-dfcb7cbdb552d8f5,L10 Ryan,ryan_food_dialogue,18,Kobold,"I get how you'd feel that way after a breakup, yeah."
-f574c59b56179de8,L10 Ryan,ryan_food_dialogue,19,Ryan,"Yeah, ever since the breakup I've been looking for something new."
-0febbd04cce87646,L10 Ryan,ryan_food_dialogue,20,Ryan,Maybe someone?
-b7fca6004f2d5325,L10 Ryan,ryan_food_dialogue,22,Ryan,Yeah. It's hard to unwind groups after something like that.
-8da113ef266e587f,L10 Ryan,ryan_food_dialogue,23,Ryan,I'm willing to do it. But I'd like something new.
-baf0df26ea4f2e81,L10 Ryan,ryan_food_dialogue,24,Ryan,Maybe someone new...
-03ccd297eb346729,L10 Ryan,ryan_food_dialogue,25,Ryan,...About what I said earlier.
-1032684d93c794bf,L10 Ryan,ryan_food_dialogue,26,Kobold,Yeah?
-ace8c62e60ec2197,L10 Ryan,ryan_food_dialogue,27,Ryan,Do you know anyone I could talk to? Y'know... about relationship stuffs?
-0a7119cfe1246546,L10 Ryan,ryan_food_dialogue,28,Kobold,"<gradient=""gold""><b>I know this one red dragon. I think you'd like him! </b></gradient><size=70%> (Hooks up Ryan with Conrad!)"
-4a3b65400e54f8ff,L10 Ryan,ryan_food_dialogue,29,Kobold,"<gradient=""gold""><b>Oh. Uhm. <size=70%> I wouldn't mind... If I was that someone. </b></gradient><size=70%> (Locks in Ryan romance!)"
-bb7a6be711206298,L10 Ryan,ryan_food_dialogue,30,Kobold,"<gradient=""gold""><b>I don't have anyone off the top of my head.</b></gradient><size=70%> (Locks in Conrad romance!)"
+d2c7e6789d89f523,L10 Ryan,ryan_food_dialogue,13,Ryan,Düşünüyordum da...
+67c0ce6aff865e1c,L10 Ryan,ryan_food_dialogue,14,Ryan,Kendi konfor alanımın dışından birilerini bulmak ne zormuş.
+d7f23a9907b74860,L10 Ryan,ryan_food_dialogue,15,Ryan,"Mesela, etrafımdakileri seviyorum ama bir yandan da bana yük oluyorlar."
+99daac47d7b305f6,L10 Ryan,ryan_food_dialogue,16,Ryan,Anlıyorsun değil mi?
+1b4b607607b8c988,L10 Ryan,ryan_food_dialogue,17,Kobold,"Evet, mantıklı geliyor."
+dfcb7cbdb552d8f5,L10 Ryan,ryan_food_dialogue,18,Kobold,"Evet, ilişkin bitince neden böyle hissettiğini anlıyorum."
+f574c59b56179de8,L10 Ryan,ryan_food_dialogue,19,Ryan,"Evet, ilişkim bittiğinden beri yeni şeyler arıyorum."
+0febbd04cce87646,L10 Ryan,ryan_food_dialogue,20,Ryan,Belki de yeni birini.
+b7fca6004f2d5325,L10 Ryan,ryan_food_dialogue,22,Ryan,Evet. Bu olaydan beridir çalacak kapım yok.
+8da113ef266e587f,L10 Ryan,ryan_food_dialogue,23,Ryan,Eski çevremden uzaklaşmaya niyetliyim ama bu sefer yeni şeyler de denemek istiyorum.
+baf0df26ea4f2e81,L10 Ryan,ryan_food_dialogue,24,Ryan,Belki de yeni birisini...
+03ccd297eb346729,L10 Ryan,ryan_food_dialogue,25,Ryan,...Daha önce sorduğum şeyi hatırlıyor musun?
+1032684d93c794bf,L10 Ryan,ryan_food_dialogue,26,Kobold,"Evet, ne oldu?"
+ace8c62e60ec2197,L10 Ryan,ryan_food_dialogue,27,Ryan,Tanışabileceğim birini biliyor musun? Yani şey için... ilişki?
+0a7119cfe1246546,L10 Ryan,ryan_food_dialogue,28,Kobold,"<gradient=""gold""><b>Bildiğim bir kızıl ejder var. Bence hoşuna gidecek! </b></gradient><size=70%> (Ryan'ı Conrad'a ayarla!)"
+4a3b65400e54f8ff,L10 Ryan,ryan_food_dialogue,29,Kobold,"<gradient=""gold""><b>Oh. aaa. <size=70%> O kişi... ben olsam fena olmazdı. </b></gradient><size=70%> (Yalnızca Ryan ile ilişki yap!)"
+bb7a6be711206298,L10 Ryan,ryan_food_dialogue,30,Kobold,"<gradient=""gold""><b>Şu an aklımda hiç öyle biri yok.</b></gradient><size=70%> (Conrad ile ilişkide kal!)"
 a6a744d6d60ec400,L10 Ryan,ryan_food_dialogue,31,Ryan/Alexander/Kobold,Oh?
 line:1d491283,L10 Ryan,ryan_food_dialogue,31,Ryan,Oh?
-cbe8e4adc9ca52df,L10 Ryan,ryan_food_dialogue,32,Ryan,Who's that?
-ca545deecbd9950d,L10 Ryan,ryan_food_dialogue,33,Kobold,He's this REALLY cute red drake who goes to the wash!
-4a94ef80ae21582a,L10 Ryan,ryan_food_dialogue,34,Kobold,He's a red dragon. I think you two would like eachother!
-0ea02ee3f0c5673d,L10 Ryan,ryan_food_dialogue,35,Ryan,"Oh! I think I've seen him. The tiny one, yeah?"
-58b69c47fed8b38f,L10 Ryan,ryan_food_dialogue,36,Kobold,He prefers 'vertically challenged'... But yes.
-3ae2d547c997ca01,L10 Ryan,ryan_food_dialogue,37,Kobold,Mhm! he's trying to meet new people.
+cbe8e4adc9ca52df,L10 Ryan,ryan_food_dialogue,32,Ryan,O da kim?
+ca545deecbd9950d,L10 Ryan,ryan_food_dialogue,33,Kobold,Yıkanmaya gelen BAYAĞI tatlı kızıl bir drake!
+4a94ef80ae21582a,L10 Ryan,ryan_food_dialogue,34,Kobold,O bir kızıl ejder. Bence birbirinizden hoşlanacaksınız!
+0ea02ee3f0c5673d,L10 Ryan,ryan_food_dialogue,35,Ryan,"Oh! Sanırım onu gördüm. Ufak olandan bahsediyorsun, değil mi?"
+58b69c47fed8b38f,L10 Ryan,ryan_food_dialogue,36,Kobold,'dikey olarak' özel biri denmesini tercih ediyor... ama evet o.
+3ae2d547c997ca01,L10 Ryan,ryan_food_dialogue,37,Kobold,Hıhı! o da yeni birileriyle tanışmaya çalışıyor.
 474246952e0d1e50,L10 Ryan,ryan_food_dialogue,38,Ryan,Oh...
-ed2ece6040ec8b40,L10 Ryan,ryan_food_dialogue,39,Ryan,That's really cute.
-c0fb8d4f93270198,L10 Ryan,ryan_food_dialogue,40,Ryan,"Oh, wonderful. Seem's we're similar."
-82767de7e3e22a4a,L10 Ryan,ryan_food_dialogue,41,Ryan,I think I'd like to meet him!
-b423c91f4f75add4,L10 Ryan,ryan_food_dialogue,42,Kobold,I'll get you two in contact then.
-80c500f9c426d4cc,L10 Ryan,ryan_food_dialogue,43,Kobold,I'm so excited. I'll get you two in contact!
-line:70190774,L10 Ryan,ryan_food_dialogue,44,Ryan,Thanks!
-ec786c9a7656b0f9,L10 Ryan,ryan_food_dialogue,45,Ryan,"Me too, thanks!"
+ed2ece6040ec8b40,L10 Ryan,ryan_food_dialogue,39,Ryan,Çok tatlıymış.
+c0fb8d4f93270198,L10 Ryan,ryan_food_dialogue,40,Ryan,"Oh, harika. Ne çok ortak noktamız varmış."
+82767de7e3e22a4a,L10 Ryan,ryan_food_dialogue,41,Ryan,Onunla buluşmak isterim gibi!
+b423c91f4f75add4,L10 Ryan,ryan_food_dialogue,42,Kobold,O zaman ikinizi tanıştırayım.
+80c500f9c426d4cc,L10 Ryan,ryan_food_dialogue,43,Kobold,Çok heyecanlıyım. ikinizi tanıştıracağım!
+line:70190774,L10 Ryan,ryan_food_dialogue,44,Ryan,Teşekkürler!
+ec786c9a7656b0f9,L10 Ryan,ryan_food_dialogue,45,Ryan,"Ben de öyleyim, sağ ol!"
 line:3b6d644d,L10 Ryan,ryan_food_dialogue,46,Ryan,Oh.
 028dbc8d077c611f,L10 Ryan,ryan_food_dialogue,47,Ryan,<i>Oh...
-ae590830c4c03fd1,L10 Ryan,ryan_food_dialogue,48,Ryan,I think I'd like you to be that someone aswell.
-b4066b4e58df8005,L10 Ryan,ryan_food_dialogue,49,Kobold,So is this like... our first date?
-8c7e5a49ec8fd685,L10 Ryan,ryan_food_dialogue,50,Kobold,If I'm honest. I've had a crush on you for a bit.
-710ea0057247cb51,L10 Ryan,ryan_food_dialogue,51,Ryan,I guess so!
-de4d091acdb6059c,L10 Ryan,ryan_food_dialogue,52,Ryan,"Really? Aw, That's really sweet."
-35e3561cd36f36d6,L10 Ryan,ryan_food_dialogue,53,Ryan,I didn't know anyone could like me that much so easily.
-f05160456925af3f,L10 Ryan,ryan_food_dialogue,54,Ryan,You're cute by the way.
-a01d64fcb9d7d3a5,L10 Ryan,ryan_food_dialogue,55,Kobold,Yeah. <size=90%>Oh- <size=80%>you know. I'm like... <size=70%>Haha. Yeah. Mhm!
-65691ff38c85e57c,L10 Ryan,ryan_food_dialogue,56,Kobold,You are too!
-d323e565ed8ea749,L10 Ryan,ryan_food_dialogue,57,Ryan,I didn't mean to fluster you!
-145e6a2d848267cb,L10 Ryan,ryan_food_dialogue,58,Ryan,I'm just... Happy.
-0cc014df7d89d3e1,L10 Ryan,ryan_food_dialogue,59,Ryan,"Aw, thanks. I only look so good 'cause of your washes!"
-eea7bdf3ab3f251c,L10 Ryan,ryan_food_dialogue,60,Ryan,I'm... Happy.
-d619413abc4a1de1,L10 Ryan,ryan_food_dialogue,61,Ryan,That's fine!
-c2acc8d962a0c936,L10 Ryan,ryan_food_dialogue,62,Ryan,How about you though? have you been seeing anyone?
-2374bdd10aea40ba,L10 Ryan,ryan_food_dialogue,63,Kobold,"There's this one red dragon, Conrad. He's... Hot headed, but cute."
-58a5e5a5a9482e96,L10 Ryan,ryan_food_dialogue,64,Kobold,"Yeah! Conrad, he's adorable. Though he'd hate I said that."
-3d14bcafbc3f21c6,L10 Ryan,ryan_food_dialogue,65,Ryan,"Oh huh, that's the tiny drake I saw coming in a bit back yeah?"
-882d8b921688234c,L10 Ryan,ryan_food_dialogue,66,Kobold,Hey! He's just... 'vertically challenged'.
-1ce76f0141c9f53b,L10 Ryan,ryan_food_dialogue,67,Kobold,Mhm! that's him.
-eeedcdd5eaa13110,L10 Ryan,ryan_food_dialogue,68,Ryan,"Oh, sorry."
-dcfc67b1e58c5a49,L10 Ryan,ryan_food_dialogue,69,Ryan,They seem cute!
-94ff2c4b836f0aef,L10 Ryan,ryan_food_dialogue,70,Ryan,"That's wonderful, he's cute!"
-abe281ce74304803,L10 Ryan,ryan_food_dialogue,71,Ryan,"Hey uhm, thanks once again."
-9144d5ad20e5a9e8,L10 Ryan,ryan_food_dialogue,72,Kobold,No problem! Can't wait for you to meet Conrad.
-e39b086d1bff71b1,L10 Ryan,ryan_food_dialogue,73,Kobold,"No, thank you. I'm... Really excited."
-1f50e1361eaeacbf,L10 Ryan,ryan_food_dialogue,74,Kobold,Of course! Thank you for the food.
-489184ee3c2573f9,L10 Ryan,ryan_food_dialogue,75,Ryan,"Hah, yeah. He sounds fun."
-28f3547a6af39629,L10 Ryan,ryan_food_dialogue,76,Ryan,"I'll make sure to tell you how it goes, yeah?"
-fcd75c87b326482c,L10 Ryan,ryan_food_dialogue,77,Kobold,I'm excited to hear about it!
-a66a9f98f63d5aaf,L10 Ryan,ryan_food_dialogue,78,Kobold,Yeah. You two will be cute.
-39619dc71b15dfde,L10 Ryan,ryan_food_dialogue,79,Ryan,This was nice...
-b2d03d0e5222d95c,L10 Ryan,ryan_food_dialogue,80,Ryan,"See you again soon, yeah?"
-17c800776b082018,L10 Ryan,ryan_food_dialogue,81,Kobold,Hopefully! I'll go get the gate.
-56372773e401e131,L10 Ryan,ryan_food_dialogue,82,Kobold,Yeah! Thanks for the food. I'll go get the gate.
-97cffb9a377004b2,L10 Ryan,ryan_food_dialogue,83,Ryan,Yeah... I've never gone on a date with a kobold before.
-50ce0561192b6b01,L10 Ryan,ryan_food_dialogue,84,Ryan,But I already know I'm liking this a lot.
-e823adcc22fd50c2,L10 Ryan,ryan_food_dialogue,85,Kobold,I like you a lot.
-62e851c911a254bb,L10 Ryan,ryan_food_dialogue,86,Kobold,"Yeah, this has been super nice."
-773c0ce37ffbb546,L10 Ryan,ryan_food_dialogue,87,Ryan,Heh. Yeah. I like you too.
-1c6058ce1c7242cf,L10 Ryan,ryan_food_dialogue,88,Ryan,It really has been. You're wonderful.
-32e4e8851f8ac398,L10 Ryan,ryan_food_dialogue,89,Ryan,Thanks for sharing food with me...
-0a94f0c3b65c425c,L10 Ryan,ryan_food_dialogue,90,Ryan,I'm looking forward to seeing you again
-8c39f31ac476e20e,L10 Ryan,ryan_food_dialogue,91,Kobold,I always look forward to seeing you. I'll go get the gate.
-db8848bda5df285f,L10 Ryan,ryan_food_dialogue,92,Kobold,You too! I'll go get the gate.
-f0394a2181ae8df6,L10 Ryan,ryan_food_dialogue,93,Ryan,Okay! I'll see you soon.
-d48a9423f250312c,L10 Ryan,ryan_food_dialogue,94,Ryan,"So this Conrad guy, seems like you like him?"
-6eb520b95e8c6388,L10 Ryan,ryan_food_dialogue,95,Kobold,Hehe yeah.
-c97f0b6b1b436f26,L10 Ryan,ryan_food_dialogue,96,Kobold,"He's a lot. But, I like it."
-6525ecb4cd0f0eea,L10 Ryan,ryan_food_dialogue,97,Ryan,That's cute!
-6943d0645de48850,L10 Ryan,ryan_food_dialogue,98,Ryan,Whats your favorite part about him?
-a695d517f16d1719,L10 Ryan,ryan_food_dialogue,99,Kobold,He's like. SUPER hung.
-dbeb304df456a424,L10 Ryan,ryan_food_dialogue,100,Kobold,"He's snappy, but tender too!"
-3c29c25f0a23d26a,L10 Ryan,ryan_food_dialogue,101,Kobold,"He's tiny, I like being eye level with him."
-0911d52bc2d9f70b,L10 Ryan,ryan_food_dialogue,102,Kobold,I like... him.
-4aa9ae5f4bbb8541,L10 Ryan,ryan_food_dialogue,103,Ryan,"Oh... Yeah, tinier dragons tend to... Compensate."
-7859d5c981752171,L10 Ryan,ryan_food_dialogue,104,Ryan,"Mmm, Yeah I know the type."
-d8c70d62d0457935,L10 Ryan,ryan_food_dialogue,105,Ryan,Makes sense! Yeah tiny drakes are fun.
-97a18e09f3f990c5,L10 Ryan,ryan_food_dialogue,106,Ryan,Aw... That's really sweet
-fac3f85c3c835445,L10 Ryan,ryan_food_dialogue,107,Ryan,You'll have to tell me how you two work out!
-37e125daa86112bd,L10 Ryan,ryan_food_dialogue,108,Ryan,"Thanks for sharing food with me, You're a great friend."
-120807e0d30c65d5,L10 Ryan,ryan_food_dialogue,109,Kobold,Thanks for the food! I'll go get the gate.
-94ddf87d22b36d07,L10 Ryan,ryan_food_dialogue,110,Kobold,"You're a good friend too, I'll go get the gate."
-02ca8c073be8669d,L10 Ryan,ryan_food_dialogue,111,Ryan,"Okay, I'll see you later!"
+ae590830c4c03fd1,L10 Ryan,ryan_food_dialogue,48,Ryan,O kişini sen olmasını ben de isterim gibi.
+b4066b4e58df8005,L10 Ryan,ryan_food_dialogue,49,Kobold,Yani o zaman bu bizim... ilk randevumuz mu?
+8c7e5a49ec8fd685,L10 Ryan,ryan_food_dialogue,50,Kobold,Dürüst olayım. Sana biraz düşmedim değil.
+710ea0057247cb51,L10 Ryan,ryan_food_dialogue,51,Ryan,Sanırım öyle!
+de4d091acdb6059c,L10 Ryan,ryan_food_dialogue,52,Ryan,"Cidden mi? Ah, ne şekersin."
+35e3561cd36f36d6,L10 Ryan,ryan_food_dialogue,53,Ryan,Beni birinin o kadar çabuk sevebileceğini düşünmemiştim.
+f05160456925af3f,L10 Ryan,ryan_food_dialogue,54,Ryan,Tatlı birisin.
+a01d64fcb9d7d3a5,L10 Ryan,ryan_food_dialogue,55,Kobold,Evet. <size=90%>Oh- <size=80%>yani şey. Ben de... <size=70%>Haha. İşte. Hıhı!
+65691ff38c85e57c,L10 Ryan,ryan_food_dialogue,56,Kobold,Sen de tatlısın!
+d323e565ed8ea749,L10 Ryan,ryan_food_dialogue,57,Ryan,Yüzünü kızartmak istemiştim!
+145e6a2d848267cb,L10 Ryan,ryan_food_dialogue,58,Ryan,Sadece... mutluyum.
+0cc014df7d89d3e1,L10 Ryan,ryan_food_dialogue,59,Ryan,"Ah, sağ ol. Senin temizliklerin sayesinde öyleyim"
+eea7bdf3ab3f251c,L10 Ryan,ryan_food_dialogue,60,Ryan,Ben... Mutluyum.
+d619413abc4a1de1,L10 Ryan,ryan_food_dialogue,61,Ryan,Sorun değil!
+c2acc8d962a0c936,L10 Ryan,ryan_food_dialogue,62,Ryan,Senin görüştüğün biri var mı peki?
+2374bdd10aea40ba,L10 Ryan,ryan_food_dialogue,63,Kobold,"Tanıdığım bir kızıl ejder var, ismi Conrad. O şey... biraz yaramaz ama tatlıdır."
+58a5e5a5a9482e96,L10 Ryan,ryan_food_dialogue,64,Kobold,"Evet var! ismi Conrad, çok sevimli biri. Ona sevimli dediğimi duysa beni yakar."
+3d14bcafbc3f21c6,L10 Ryan,ryan_food_dialogue,65,Ryan,"Oh huh, o daha önce gelirken gördüğüm şu küçük Drake mi?"
+882d8b921688234c,L10 Ryan,ryan_food_dialogue,66,Kobold,Hey! O sadece... 'dikey olarak' özel biri.
+1ce76f0141c9f53b,L10 Ryan,ryan_food_dialogue,67,Kobold,Hıhı! o işte.
+eeedcdd5eaa13110,L10 Ryan,ryan_food_dialogue,68,Ryan,"Oh, pardon."
+dcfc67b1e58c5a49,L10 Ryan,ryan_food_dialogue,69,Ryan,Tatlı biri gibi duruyor!
+94ff2c4b836f0aef,L10 Ryan,ryan_food_dialogue,70,Ryan,"Harika, ne tatlıymış!"
+abe281ce74304803,L10 Ryan,ryan_food_dialogue,71,Ryan,"Hey şey, her şey için tekrar sağ ol."
+9144d5ad20e5a9e8,L10 Ryan,ryan_food_dialogue,72,Kobold,Sorun değil! Conrad ile buluşmanı sabırsızlıkla bekliyorum.
+e39b086d1bff71b1,L10 Ryan,ryan_food_dialogue,73,Kobold,"Öyle deme, asıl ben teşekkür ederim. Çok... heyecanlıyım."
+1f50e1361eaeacbf,L10 Ryan,ryan_food_dialogue,74,Kobold,Rica ederim! Yemek için sağ ol.
+489184ee3c2573f9,L10 Ryan,ryan_food_dialogue,75,Ryan,"Hah, evet. Eğlenceli biri gibi duruyor."
+28f3547a6af39629,L10 Ryan,ryan_food_dialogue,76,Ryan,"Nasıl geçtiğini anlatırım sana da, olur mu?"
+fcd75c87b326482c,L10 Ryan,ryan_food_dialogue,77,Kobold,Zevkle bekliyor olacağım!
+a66a9f98f63d5aaf,L10 Ryan,ryan_food_dialogue,78,Kobold,Evet. İki aşk kuşu gibi duracaksınız.
+39619dc71b15dfde,L10 Ryan,ryan_food_dialogue,79,Ryan,Piknik hoştu...
+b2d03d0e5222d95c,L10 Ryan,ryan_food_dialogue,80,Ryan,"Görüşmek üzere, tamam mı?"
+17c800776b082018,L10 Ryan,ryan_food_dialogue,81,Kobold,Umarım! Gidip bariyeri açayım.
+56372773e401e131,L10 Ryan,ryan_food_dialogue,82,Kobold,Görüşürüz! Yemek için sağ ol. Gidip bariyeri açayım.
+97cffb9a377004b2,L10 Ryan,ryan_food_dialogue,83,Ryan,Şey... Daha önce hiç bir koboldla çıkmamıştım...
+50ce0561192b6b01,L10 Ryan,ryan_food_dialogue,84,Ryan,ama şimdiden bu fikir çok hoşuma gidiyor.
+e823adcc22fd50c2,L10 Ryan,ryan_food_dialogue,85,Kobold,Sana bayılıyorum.
+62e851c911a254bb,L10 Ryan,ryan_food_dialogue,86,Kobold,"Evet, tüm bu her şey çok hoş."
+773c0ce37ffbb546,L10 Ryan,ryan_food_dialogue,87,Ryan,Heh. Ben de sana bayılıyorum.
+1c6058ce1c7242cf,L10 Ryan,ryan_food_dialogue,88,Ryan,Gerçekten öyle. Muhteşemsin.
+32e4e8851f8ac398,L10 Ryan,ryan_food_dialogue,89,Ryan,Benimle yemeğini paylaştığın için sağ ol...
+0a94f0c3b65c425c,L10 Ryan,ryan_food_dialogue,90,Ryan,Tekrar görüşmek üzere.
+8c39f31ac476e20e,L10 Ryan,ryan_food_dialogue,91,Kobold,Seni her zaman beklerim. Gidip bariyeri açayım.
+db8848bda5df285f,L10 Ryan,ryan_food_dialogue,92,Kobold,Sana da görüşürüz! Gidip kapıyı açayım.
+f0394a2181ae8df6,L10 Ryan,ryan_food_dialogue,93,Ryan,Olur! Görüşürüz.
+d48a9423f250312c,L10 Ryan,ryan_food_dialogue,94,Ryan,"Conrad denilen şu çocuk, onu sevdin herhalde değil mi?"
+6eb520b95e8c6388,L10 Ryan,ryan_food_dialogue,95,Kobold,Hehe evet.
+c97f0b6b1b436f26,L10 Ryan,ryan_food_dialogue,96,Kobold,"Benim için büyük bir lokma ama bu hoşuma gidiyor."
+6525ecb4cd0f0eea,L10 Ryan,ryan_food_dialogue,97,Ryan,Ne sevimli!
+6943d0645de48850,L10 Ryan,ryan_food_dialogue,98,Ryan,Onun en sevdiğin yönü ne?
+a695d517f16d1719,L10 Ryan,ryan_food_dialogue,99,Kobold,Onunki şey. KOCAMAN asılıyor.
+dbeb304df456a424,L10 Ryan,ryan_food_dialogue,100,Kobold,"Asabidir ama aynı zamanda yumuşak kalpli!"
+3c29c25f0a23d26a,L10 Ryan,ryan_food_dialogue,101,Kobold,"Ufak biri, onunla göz hizasında olabilmek hoşuma gidiyor."
+0911d52bc2d9f70b,L10 Ryan,ryan_food_dialogue,102,Kobold,Ondan... hoşlanıyorum.
+4aa9ae5f4bbb8541,L10 Ryan,ryan_food_dialogue,103,Ryan,"Oh... doğru, küçük ejderler başka yollarla... telafi ediyor."
+7859d5c981752171,L10 Ryan,ryan_food_dialogue,104,Ryan,"Mmm, evet o tipleri biliyorum."
+d8c70d62d0457935,L10 Ryan,ryan_food_dialogue,105,Ryan,Hiç şaşırmadım! Küçük drakeler zevklidir.
+97a18e09f3f990c5,L10 Ryan,ryan_food_dialogue,106,Ryan,Ah... ne tatlı.
+fac3f85c3c835445,L10 Ryan,ryan_food_dialogue,107,Ryan,Daha sonra bu ilişkiyi nasıl becerdiğinizi bana anlatmalısın!
+37e125daa86112bd,L10 Ryan,ryan_food_dialogue,108,Ryan,"Benimle yemeğini paylaştığın için sağ ol, iyi bir arkadaşsın."
+120807e0d30c65d5,L10 Ryan,ryan_food_dialogue,109,Kobold,Yemek için sağ ol! Gidip bariyeri açayım.
+94ddf87d22b36d07,L10 Ryan,ryan_food_dialogue,110,Kobold,"Sen de iyi bir arkadaşsın, gidip bariyeri açayım."
+02ca8c073be8669d,L10 Ryan,ryan_food_dialogue,111,Ryan,"Olur, görüşmek üzere!"
 # --- picnic: Ryan_grab_basket ---
-3276ca6f923e3a2e,L10 Ryan,Ryan_grab_basket,1,Ryan,Bleh. Thank you for grabbing that.
-1790d1bc285d158f,L10 Ryan,Ryan_grab_basket,2,Kobold,You brought food in?
-fab7cff668586c9b,L10 Ryan,Ryan_grab_basket,3,Kobold,Ryan! this is so sweet.
-3f519f6990d85e4d,L10 Ryan,Ryan_grab_basket,4,Ryan,Yeah! It has food that should be good for both of us.
-38953523aa1d8dc9,L10 Ryan,Ryan_grab_basket,5,Ryan,"Hehe, thanks. It has stuff that should be good for both of us."
-f44e62ce0d92a9c3,L10 Ryan,Ryan_grab_basket,6,Ryan,"Although, the portions might be a bit... dragon sized."
-dbe7ccbf37aed06a,L10 Ryan,Ryan_grab_basket,7,Kobold,How come you brought this all in?
-96082d9f598cc1db,L10 Ryan,Ryan_grab_basket,8,Kobold,Do you even need a wash?
-5be9d07e2e19a321,L10 Ryan,Ryan_grab_basket,9,Ryan,For you!
-eea2772cf2ab51f9,L10 Ryan,Ryan_grab_basket,10,Ryan,<size=70%> And for me.
-5da686787e870bc2,L10 Ryan,Ryan_grab_basket,11,Ryan,"No, I don't think I do."
-dfdd49c96bf70312,L10 Ryan,Ryan_grab_basket,12,Ryan,I'm just here to bring you food!
-7efd9697b321d608,L10 Ryan,Ryan_grab_basket,13,Ryan,Figured I'd bring in something nice after all you've done.
-414c0f3bb81740f3,L10 Ryan,Ryan_grab_basket,14,Ryan,Hope that's alright?
-097832ea20a37b63,L10 Ryan,Ryan_grab_basket,15,Kobold,Of course it is!
-460dbc14c8f22914,L10 Ryan,Ryan_grab_basket,17,Ryan,"Awesome, I'm glad."
-6e1aac9408968a3c,L10 Ryan,Ryan_grab_basket,18,Ryan,That must mean it is! I'm glad.
-fe3e5d4e4925ddb6,L10 Ryan,Ryan_grab_basket,19,Ryan,Now... Food?
+3276ca6f923e3a2e,L10 Ryan,Ryan_grab_basket,1,Ryan,Mleeh. Tuttuğun için sağ ol.
+1790d1bc285d158f,L10 Ryan,Ryan_grab_basket,2,Kobold,Yemek mi getirdin?
+fab7cff668586c9b,L10 Ryan,Ryan_grab_basket,3,Kobold,Ryan! Çok tatlısın.
+3f519f6990d85e4d,L10 Ryan,Ryan_grab_basket,4,Ryan,Hehe! İçinde ikimiz için de bir şeyler var.
+38953523aa1d8dc9,L10 Ryan,Ryan_grab_basket,5,Ryan,"Hehe, bir şey değil. İkimiz için de bir şeyler getirdim."
+f44e62ce0d92a9c3,L10 Ryan,Ryan_grab_basket,6,Ryan,"Yalnız, boyutları biraz... ejderlere göre olabilir."
+dbe7ccbf37aed06a,L10 Ryan,Ryan_grab_basket,7,Kobold,Bütün bunları niçin buraya getirdin?
+96082d9f598cc1db,L10 Ryan,Ryan_grab_basket,8,Kobold,Yıkanmaya ihtiyacın bile var mı ki senin?
+5be9d07e2e19a321,L10 Ryan,Ryan_grab_basket,9,Ryan,Senin için getirdim...
+eea2772cf2ab51f9,L10 Ryan,Ryan_grab_basket,10,Ryan,<size=70%> ve de benim!
+5da686787e870bc2,L10 Ryan,Ryan_grab_basket,11,Ryan,"Yok, ihtiyacım olduğunu zannetmiyorum."
+dfdd49c96bf70312,L10 Ryan,Ryan_grab_basket,12,Ryan,Sadece sana mama getirmek için geldim!
+7efd9697b321d608,L10 Ryan,Ryan_grab_basket,13,Ryan,Bana yaptığın tüm iyiliklere karşılık güzel bir şeyler getireyim dedim.
+414c0f3bb81740f3,L10 Ryan,Ryan_grab_basket,14,Ryan,Sakıncası yok değil mi?
+097832ea20a37b63,L10 Ryan,Ryan_grab_basket,15,Kobold,Tabii ki de yok!
+460dbc14c8f22914,L10 Ryan,Ryan_grab_basket,17,Ryan,"Harika, sevindim."
+6e1aac9408968a3c,L10 Ryan,Ryan_grab_basket,18,Ryan,Bu herhalde yok demek! Sevindim.
+fe3e5d4e4925ddb6,L10 Ryan,Ryan_grab_basket,19,Ryan,Neyse... yiyelim mi?
 # --- picnic: Ryan_grapes_dialog | if $food_number ---
-46ca5d912bed1dcc,L10 Ryan,Ryan_grapes_dialog,1,Kobold,Those grapes looked good.
-33f099ac348159d4,L10 Ryan,Ryan_grapes_dialog,2,Kobold,"Ryan, you're not supposed to eat the stems-"
-174343e1e975e68b,L10 Ryan,Ryan_grapes_dialog,3,Ryan,They were! The stem is my favorite part though.
-976fdc62e4cbffcf,L10 Ryan,Ryan_grapes_dialog,4,Kobold,Isn't that... Wood?
-8e4f1f66ab3b3860,L10 Ryan,Ryan_grapes_dialog,5,Kobold,Never tried it.
-d053df82397c2f86,L10 Ryan,Ryan_grapes_dialog,6,Ryan,"Yeah, taste good!"
-c994875a9f5c8520,L10 Ryan,Ryan_grapes_dialog,7,Ryan,Though you probably shouldn't eat them.
-025e9c74601a1a65,L10 Ryan,Ryan_grapes_dialog,8,Ryan,Dragon stomachs are a bit more... robust than yours.
-b689b40a79b968df,L10 Ryan,Ryan_grapes_dialog,9,Ryan,You probably shouldn't.
-8d834797bd163119,L10 Ryan,Ryan_grapes_dialog,10,Ryan,You'd need a dragon stomach first!
-27935fd7477eba77,L10 Ryan,Ryan_grapes_dialog,11,Ryan,Says who?
-0b71d27200d13a33,L10 Ryan,Ryan_grapes_dialog,12,Kobold,Me?
-47252f2c75dea9ef,L10 Ryan,Ryan_grapes_dialog,13,Kobold,Biology...? <size=70%> <i>I think?
-5af35db6f8fe39ad,L10 Ryan,Ryan_grapes_dialog,14,Ryan,Well...
-79436a008466d243,L10 Ryan,Ryan_grapes_dialog,15,Ryan,I'm a rule breaker!
-49e7a64aec55ff2a,L10 Ryan,Ryan_grapes_dialog,16,Ryan,"Don't worry, dragons are made to eat anything."
-5f82b968ccbb4aaa,L10 Ryan,Ryan_grapes_dialog,17,Ryan,I can digest pretty much anything.
-f9a3f85545840310,L10 Ryan,Ryan_grapes_dialog,18,Ryan,The stem is just extra food.
-53494acb38981cff,L10 Ryan,Ryan_grapes_dialog,19,Ryan,Although grapes have always hit a specific craving.
-77e53d1b1d33b9f0,L10 Ryan,Ryan_grapes_dialog,20,Ryan,"Oh, and seems I got some on my face. woops."
+46ca5d912bed1dcc,L10 Ryan,Ryan_grapes_dialog,1,Kobold,Üzümler bayağı iyi duruyordu.
+33f099ac348159d4,L10 Ryan,Ryan_grapes_dialog,2,Kobold,"Ryan, dallarını yememen gerekiyordu-"
+174343e1e975e68b,L10 Ryan,Ryan_grapes_dialog,3,Ryan,Öylelerdi! Dalları en sevdiğim kısmı.
+976fdc62e4cbffcf,L10 Ryan,Ryan_grapes_dialog,4,Kobold,Sadece... tahtadan oluşmuyorlar mı?
+8e4f1f66ab3b3860,L10 Ryan,Ryan_grapes_dialog,5,Kobold,Hiç denememiştim.
+d053df82397c2f86,L10 Ryan,Ryan_grapes_dialog,6,Ryan,"Hehe, çok lezizler!"
+c994875a9f5c8520,L10 Ryan,Ryan_grapes_dialog,7,Ryan,Gene de muhtemelen senin yememen lazım.
+025e9c74601a1a65,L10 Ryan,Ryan_grapes_dialog,8,Ryan,Ejder mideleri sizinkilerden biraz daha... sağlamdır.
+b689b40a79b968df,L10 Ryan,Ryan_grapes_dialog,9,Ryan,Muhtemelen denememelisin bile.
+8d834797bd163119,L10 Ryan,Ryan_grapes_dialog,10,Ryan,Önce bir ejderin iştahı lazım sende!
+27935fd7477eba77,L10 Ryan,Ryan_grapes_dialog,11,Ryan,Kim demiş onu?
+0b71d27200d13a33,L10 Ryan,Ryan_grapes_dialog,12,Kobold,Ben
+47252f2c75dea9ef,L10 Ryan,Ryan_grapes_dialog,13,Kobold,Biyoloji mi...? <size=70%> <i>Herhalde
+5af35db6f8fe39ad,L10 Ryan,Ryan_grapes_dialog,14,Ryan,Yani...
+79436a008466d243,L10 Ryan,Ryan_grapes_dialog,15,Ryan,kurallar <i<çiğnenmek</i> için var!
+49e7a64aec55ff2a,L10 Ryan,Ryan_grapes_dialog,16,Ryan,"Endişelenme, ejderlerin doğasında var bu."
+5f82b968ccbb4aaa,L10 Ryan,Ryan_grapes_dialog,17,Ryan,Neredeyse her şeyi sindirebilirim.
+f9a3f85545840310,L10 Ryan,Ryan_grapes_dialog,18,Ryan,Sapı da vitaminli.
+53494acb38981cff,L10 Ryan,Ryan_grapes_dialog,19,Ryan,Üzümler özellikle iştahımı kabartıyor.
+77e53d1b1d33b9f0,L10 Ryan,Ryan_grapes_dialog,20,Ryan,"Oh, sanırım yüzüme de bulaştırmışım, hay aksi."
 # --- picnic: Ryan_ham_dialog | if $food_number ---
-cb2d2f80636d8a49,L10 Ryan,Ryan_ham_dialog,1,Kobold,RYAN THE BONE!
-523a9690a00a7803,L10 Ryan,Ryan_ham_dialog,2,Kobold,You really ate that entire thing... Woah.
+cb2d2f80636d8a49,L10 Ryan,Ryan_ham_dialog,1,Kobold,RYAN KEMİK NE OLACAK!
+523a9690a00a7803,L10 Ryan,Ryan_ham_dialog,2,Kobold,Oha... cidden bütün hepsini yuttun.
 618839c9ee1f8a65,L10 Ryan,Ryan_ham_dialog,3,Ryan,Mmph- Hm?
-5b917e0078e6beb0,L10 Ryan,Ryan_ham_dialog,4,Ryan,"Oh, that's my favorite part!"
-7a41a3b5d6e1acf7,L10 Ryan,Ryan_ham_dialog,5,Kobold,How do you even digest that?
-846f850b875979d4,L10 Ryan,Ryan_ham_dialog,6,Kobold,<size=60%> that's hot.
-f7d4b26ff67eee38,L10 Ryan,Ryan_ham_dialog,7,Ryan,I'm a dragon.
-b86257f47d85426e,L10 Ryan,Ryan_ham_dialog,8,Ryan,Pretty sure I can digest anything.
-a165524a35a75706,L10 Ryan,Ryan_ham_dialog,9,Ryan,It is? Good to know...
-db22d9512845d515,L10 Ryan,Ryan_ham_dialog,10,Ryan,It's the best way to enjoy food.
-a5af381d1ec66e2a,L10 Ryan,Ryan_ham_dialog,11,Ryan,It's interesting; you bipeds tend to savor your meals.
-180983e0a4f4e327,L10 Ryan,Ryan_ham_dialog,12,Ryan,But nothing beats a large gulp!
+5b917e0078e6beb0,L10 Ryan,Ryan_ham_dialog,4,Ryan,"Oh, en sevdiğim kısım orası zaten!"
+7a41a3b5d6e1acf7,L10 Ryan,Ryan_ham_dialog,5,Kobold,Nasıl sindiriyorsun ki?
+846f850b875979d4,L10 Ryan,Ryan_ham_dialog,6,Kobold,<size=60%> aklımı başımdan aldın.
+f7d4b26ff67eee38,L10 Ryan,Ryan_ham_dialog,7,Ryan,Ben bir ejderim.
+b86257f47d85426e,L10 Ryan,Ryan_ham_dialog,8,Ryan,Her şeyi sindirebildiğime eminim.
+a165524a35a75706,L10 Ryan,Ryan_ham_dialog,9,Ryan,Öyle mi? Bunu bilmek güzel...
+db22d9512845d515,L10 Ryan,Ryan_ham_dialog,10,Ryan,Yemekten öyle haz alıyorum.
+a5af381d1ec66e2a,L10 Ryan,Ryan_ham_dialog,11,Ryan,İlginçtir; siz iki ayaklılar yemeğin tadını çıkartıyorsunuz...
+180983e0a4f4e327,L10 Ryan,Ryan_ham_dialog,12,Ryan,ama hiçbir şey çiğnemeden yutmak kadar iyi olamaz!
 # --- picnic: Ryan_melon_dialog | if $food_number ---
-e1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,That one was almost too big-
-8725851a4492f86f,L10 Ryan,Ryan_melon_dialog,2,Kobold,You didn't even open the watermelon.
-991947f3461b26a7,L10 Ryan,Ryan_melon_dialog,3,Kobold,How did it taste?
-7d20121dc2fa0757,L10 Ryan,Ryan_melon_dialog,4,Ryan,Yeaaah.
-41f87d2c55073e29,L10 Ryan,Ryan_melon_dialog,5,Ryan,Woops.
-4fafd5a0c9f29d5f,L10 Ryan,Ryan_melon_dialog,6,Ryan,Was still good though! I like how it feels sliding down.
-dc8488830f9d7192,L10 Ryan,Ryan_melon_dialog,7,Ryan,I forgot to bite into it so... Nothing?
-7dedd07a7558afa9,L10 Ryan,Ryan_melon_dialog,8,Ryan,Felt good sliding down though!
-8b4a775ae776722a,L10 Ryan,Ryan_melon_dialog,9,Kobold,<size=70%> woah.
-ef03f59f06da8fa4,L10 Ryan,Ryan_melon_dialog,10,Kobold,It's crazy how much your neck can handle.
-4fc09f2d61d5cc43,L10 Ryan,Ryan_melon_dialog,11,Ryan,Kobolds always seem enamored by me eating.
-032ea150ccdf88be,L10 Ryan,Ryan_melon_dialog,12,Ryan,It's endearing!
-aad3715a2f685dc3,L10 Ryan,Ryan_melon_dialog,13,Ryan,It's made for eating things whole.
-b0a73a78b7d9045b,L10 Ryan,Ryan_melon_dialog,14,Kobold,<size=70%><i>Yeah?
-30ff5a696a0def56,L10 Ryan,Ryan_melon_dialog,16,Ryan,Mhm!
+Üze1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,Neredeyse ağzıma sığmıyordu-
+8725851a4492f86f,L10 Ryan,Ryan_melon_dialog,2,Kobold,Karpuzu soymadın bile.
+991947f3461b26a7,L10 Ryan,Ryan_melon_dialog,3,Kobold,Tadı nasıldı?
+7d20121dc2fa0757,L10 Ryan,Ryan_melon_dialog,4,Ryan,Yaaani.
+41f87d2c55073e29,L10 Ryan,Ryan_melon_dialog,5,Ryan,Hay aksi.
+4fafd5a0c9f29d5f,L10 Ryan,Ryan_melon_dialog,6,Ryan,Gene de güzeldi! Boğazımdan kaymasını hissetmek haz vericiydi.
+dc8488830f9d7192,L10 Ryan,Ryan_melon_dialog,7,Ryan,Isırmayı unuttum... yani benim için tatsızdı.
+7dedd07a7558afa9,L10 Ryan,Ryan_melon_dialog,8,Ryan,Boğazımdan aşağı kaymasını hissetmek ama haz vericiydi!
+8b4a775ae776722a,L10 Ryan,Ryan_melon_dialog,9,Kobold,<size=70%> Oha.
+ef03f59f06da8fa4,L10 Ryan,Ryan_melon_dialog,10,Kobold,Boğazına o kadar büyük şeyleri alabilmen tam bir çılgınlık.
+4fc09f2d61d5cc43,L10 Ryan,Ryan_melon_dialog,11,Ryan,Koboldlar nedense yemek yiyişime hep hasta oluyor.
+032ea150ccdf88be,L10 Ryan,Ryan_melon_dialog,12,Ryan,Tepkilerini görünce ben de onlar gibi hissediyorum!
+aad3715a2f685dc3,L10 Ryan,Ryan_melon_dialog,13,Ryan,Boğazım bir şeyleri tek lokmada yutmak için yapıldı.
+b0a73a78b7d9045b,L10 Ryan,Ryan_melon_dialog,14,Kobold,<size=70%><i>Harbiden mi?
+30ff5a696a0def56,L10 Ryan,Ryan_melon_dialog,16,Ryan,Hıhı!
 line:812700a5,L10 Ryan,Ryan_melon_dialog,17,Ryan,...
-901c77872c53d308,L10 Ryan,Ryan_melon_dialog,18,Ryan,Yeah! its useful.
+901c77872c53d308,L10 Ryan,Ryan_melon_dialog,18,Ryan,Evet! İşime geliyor.
 # --- jerkoff: Ryan_4_JerkOff_Start ---
-2d434662c42f6a6c,L10 Ryan,Ryan_4_JerkOff_Start,1,Ryan,Are you sure...? In front of the food?
-031703a96ac0df8c,L10 Ryan,Ryan_4_JerkOff_Start,2,Ryan,Heh... alright.
+2d434662c42f6a6c,L10 Ryan,Ryan_4_JerkOff_Start,1,Ryan,Emin misin...? Yemeğin önünde mi cidden?
+031703a96ac0df8c,L10 Ryan,Ryan_4_JerkOff_Start,2,Ryan,Heh... peki.
 # --- cum: Ryan_4_Cum ---
-3b1c48772bd5889e,L10 Ryan,Ryan_4_Cum,1,Ryan,Huff... That was nice... Made a bit of a mess though.
+3b1c48772bd5889e,L10 Ryan,Ryan_4_Cum,1,Ryan,Uuff... Güzeldi... ama birazcık etrafı kirlettim.
 # --- mount_start: Ryan_4_Mount_Start ---
-2f31dcbcaa980550,L10 Ryan,Ryan_4_Mount_Start,1,Ryan,Woah... You want me to use that? Even with the food? Alright!
+2f31dcbcaa980550,L10 Ryan,Ryan_4_Mount_Start,1,Ryan,Oha... Ona mı binmemi istiyorsun? Yemekler varken bile mi? Peki!
 # --- mount_finish: Ryan_4_Mount_Finish ---
-833d21b8cd952764,L10 Ryan,Ryan_4_Mount_Finish,1,Ryan,Made a bit of a mess... Still worth it.
+833d21b8cd952764,L10 Ryan,Ryan_4_Mount_Finish,1,Ryan,Etrafı birazcık pislettim ... ama değdi.
 
 # ===== Level 11: Conrad (Sunny) =====
 # --- intro: Conrad_Intro_4 ---
