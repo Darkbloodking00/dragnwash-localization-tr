@@ -897,7 +897,7 @@ db22d9512845d515,L10 Ryan,Ryan_ham_dialog,10,Ryan,Yemekten öyle haz alıyorum.
 a5af381d1ec66e2a,L10 Ryan,Ryan_ham_dialog,11,Ryan,İlginçtir; siz iki ayaklılar yemeğin tadını çıkartıyorsunuz...
 180983e0a4f4e327,L10 Ryan,Ryan_ham_dialog,12,Ryan,ama hiçbir şey çiğnemeden yutmak kadar iyi olamaz!
 # --- picnic: Ryan_melon_dialog | if $food_number ---
-ze1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,Neredeyse ağzıma sığmıyordu-
+e1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,Neredeyse ağzıma sığmıyordu-
 8725851a4492f86f,L10 Ryan,Ryan_melon_dialog,2,Kobold,Karpuzu soymadın bile.
 991947f3461b26a7,L10 Ryan,Ryan_melon_dialog,3,Kobold,Tadı nasıldı?
 7d20121dc2fa0757,L10 Ryan,Ryan_melon_dialog,4,Ryan,Yaaani.
@@ -926,64 +926,64 @@ line:812700a5,L10 Ryan,Ryan_melon_dialog,17,Ryan,...
 
 # ===== Level 11: Conrad (Sunny) =====
 # --- intro: Conrad_Intro_4 ---
-a67959dc39353129,L11 Conrad,Conrad_Intro_4,1,Conrad/Ryan/Alexander,Something went wrong with flags!
-line:8f64adc0,L11 Conrad,Conrad_Intro_4,1,Conrad,Something went wrong with flags!
-c1a949184675fa92,L11 Conrad,Conrad_Intro_4,2,Conrad/Ryan/Alexander,Help the developers out please..
-line:1954aab7,L11 Conrad,Conrad_Intro_4,2,Conrad,Help the developers out please..
-60f8f02dd7a80d00,L11 Conrad,Conrad_Intro_4,3,Kobold,conrad hooked up with ryan
-6e98155abad655c3,L11 Conrad,Conrad_Intro_4,4,Kobold,player hooked up with conrad
-9cf9d4fc71363f68,L11 Conrad,Conrad_Intro_4,5,Kobold,player hooked up with ryan
+a67959dc39353129,L11 Conrad,Conrad_Intro_4,1,Conrad/Ryan/Alexander,Flaglerle ilgili bir hata oluştu!
+line:8f64adc0,L11 Conrad,Conrad_Intro_4,1,Conrad,Flaglerle ilgili bir hata oluştu!
+c1a949184675fa92,L11 Conrad,Conrad_Intro_4,2,Conrad/Ryan/Alexander,Geliştiricilere lütfen yardım et..
+line:1954aab7,L11 Conrad,Conrad_Intro_4,2,Conrad,Geliştiricilere lütfen yardım et..
+60f8f02dd7a80d00,L11 Conrad,Conrad_Intro_4,3,Kobold,"conrad, ryan ile çıktı"
+6e98155abad655c3,L11 Conrad,Conrad_Intro_4,4,Kobold,"oyuncu, conrad ile çıktı"
+9cf9d4fc71363f68,L11 Conrad,Conrad_Intro_4,5,Kobold,"oyuncu, ryan ile de çıktı"
 67beed0c39e205b4,L11 Conrad,Conrad_Intro_4,6,Kobold,Hey Conrad!
-d22e2236304b2ef0,L11 Conrad,Conrad_Intro_4,7,Kobold,What's got you looking so happy?
+d22e2236304b2ef0,L11 Conrad,Conrad_Intro_4,7,Kobold,Seni bu kadar neşelendiren şey ne?
 6183e901a5a22ddc,L11 Conrad,Conrad_Intro_4,8,Kobold,Hey conrad!
-3c0eb60cca3b1422,L11 Conrad,Conrad_Intro_4,9,Conrad,'Ey big kobold.
-ad13467d89f77645,L11 Conrad,Conrad_Intro_4,10,Conrad,Did you do your uh...
-25aab860a8266c4c,L11 Conrad,Conrad_Intro_4,11,Conrad,Scales different today? <size=70%><i>is that a thing...? </i><size=100%>You look good today.
-42e1b9a73c953f33,L11 Conrad,Conrad_Intro_4,12,Kobold,Thanks! Whats with all the... Gloop?
-be118711068118d5,L11 Conrad,Conrad_Intro_4,13,Kobold,"Hah. Conrad, you look good too."
-a4008861bf24c47d,L11 Conrad,Conrad_Intro_4,14,Kobold,That's not a thing... But thank you!
-a951e05bf8506af1,L11 Conrad,Conrad_Intro_4,15,Conrad,Berries.
+3c0eb60cca3b1422,L11 Conrad,Conrad_Intro_4,9,Conrad,Hey tosun kobold.
+ad13467d89f77645,L11 Conrad,Conrad_Intro_4,10,Conrad,Şeyin farklı duruyor şeyy...
+25aab860a8266c4c,L11 Conrad,Conrad_Intro_4,11,Conrad,Pullarını mı cilaladın yoksa? <size=70%><i>öyle bir şey var mı...? </i><size=100%>Güzel duruyorsun.
+42e1b9a73c953f33,L11 Conrad,Conrad_Intro_4,12,Kobold,Sağ ol! Üstündeki balçıklar... ne öyle?
+be118711068118d5,L11 Conrad,Conrad_Intro_4,13,Kobold,"Hah. Conrad, sen de güzel duruyorsun."
+a4008861bf24c47d,L11 Conrad,Conrad_Intro_4,14,Kobold,Öyle bir şey yok... ama teşekkür ederim!
+a951e05bf8506af1,L11 Conrad,Conrad_Intro_4,15,Conrad,Böğürtlen.
 line:d6483230,L11 Conrad,Conrad_Intro_4,16,Conrad,...
-765af85f1bd7eafe,L11 Conrad,Conrad_Intro_4,17,Conrad,"Anyways"
-199e91c738a75b4c,L11 Conrad,Conrad_Intro_4,18,Conrad,Damn right I do!
-926069483fd35835,L11 Conrad,Conrad_Intro_4,19,Conrad,Haha... Yeah. I'm not really used to complimenting.
-8c9dc9229a7630ce,L11 Conrad,Conrad_Intro_4,20,Conrad,I Just need a quick wash... Maybe the mount would be nice too.
+765af85f1bd7eafe,L11 Conrad,Conrad_Intro_4,17,Conrad,"Her neyse"
+199e91c738a75b4c,L11 Conrad,Conrad_Intro_4,18,Conrad,Hem de fena!
+926069483fd35835,L11 Conrad,Conrad_Intro_4,19,Conrad,Haha... Doğru. İltifat etmekte iyi değilimdir.
+8c9dc9229a7630ce,L11 Conrad,Conrad_Intro_4,20,Conrad,Sadece hızlı bir temizlik istiyorum... belki binekle de oynarım.
 3ee865676f6e4c99,L11 Conrad,Conrad_Intro_4,21,Kobold/Ryan,Oh yeah?
-line:2d2820b0,L11 Conrad,Conrad_Intro_4,21,Kobold,Oh yeah?
-5fae46a5c8669c29,L11 Conrad,Conrad_Intro_4,22,Kobold,Sure! I'll go get the gate.
-daa08f627cbbfb9e,L11 Conrad,Conrad_Intro_4,23,Conrad,Yeah- Though only if you want!
-20ee725c28fb397e,L11 Conrad,Conrad_Intro_4,24,Conrad,I'm trying not to be pushy.
-374fe9cc22a15007,L11 Conrad,Conrad_Intro_4,25,Kobold,"Aw, I'll go get you the gate."
-line:34ec4db7,L11 Conrad,Conrad_Intro_4,26,Conrad,Thanks.
-line:188d4359,L11 Conrad,Conrad_Intro_4,27,Conrad,Thanks.
-ae53715099e0d53d,L11 Conrad,Conrad_Intro_4,28,Conrad,Ryan! I met him.
-caefb85b87a51126,L11 Conrad,Conrad_Intro_4,29,Kobold,Nice! Whats with all the... Gloop?
-0452c0f1847f4a72,L11 Conrad,Conrad_Intro_4,30,Kobold,How did it go?
+line:2d2820b0,L11 Conrad,Conrad_Intro_4,21,Kobold,Öyle mi?
+5fae46a5c8669c29,L11 Conrad,Conrad_Intro_4,22,Kobold,Tabii ki! Gidip bariyeri açayım.
+daa08f627cbbfb9e,L11 Conrad,Conrad_Intro_4,23,Conrad,Evet- Tabii istersen!
+20ee725c28fb397e,L11 Conrad,Conrad_Intro_4,24,Conrad,Yüzsüz davranmak istemem.
+374fe9cc22a15007,L11 Conrad,Conrad_Intro_4,25,Kobold,"Ah, gidip sana bariyeri açayım."
+line:34ec4db7,L11 Conrad,Conrad_Intro_4,26,Conrad,Sağ ol.
+line:188d4359,L11 Conrad,Conrad_Intro_4,27,Conrad,Sağ ol.
+ae53715099e0d53d,L11 Conrad,Conrad_Intro_4,28,Conrad,Ryan! Onunla tanıştım.
+caefb85b87a51126,L11 Conrad,Conrad_Intro_4,29,Kobold,Ne güzel! Üstündeki bütün bu balçık... da ne?
+0452c0f1847f4a72,L11 Conrad,Conrad_Intro_4,30,Kobold,Nasıl gitti?
 line:cfe4b91d,L11 Conrad,Conrad_Intro_4,32,Conrad,...
-940b2bb279fbfd8a,L11 Conrad,Conrad_Intro_4,33,Conrad,Thank you for getting me and Ryan in contact.
-6c42e3202026a3e8,L11 Conrad,Conrad_Intro_4,34,Conrad,Really well honestly.
-91b34251e9ff7711,L11 Conrad,Conrad_Intro_4,35,Conrad,I never thought someone like him would be my type...
-abc0fe0ceed24339,L11 Conrad,Conrad_Intro_4,36,Kobold,You'll have to tell me all about it.
-ab20df82132f07cc,L11 Conrad,Conrad_Intro_4,37,Conrad,"I will. I just need a quick wash, and wouldn't mind using the mount today."
-17c5f180de5a8348,L11 Conrad,Conrad_Intro_4,38,Conrad,Gotta <i>practice</i> for Ryan if you catch what I mean.
-9912569ea696f8ed,L11 Conrad,Conrad_Intro_4,39,Kobold,Conrad!
-106f99c061d35f26,L11 Conrad,Conrad_Intro_4,40,Kobold,Okay- okay. I'll go get the gate.
-f71200a57e2d1d7a,L11 Conrad,Conrad_Intro_4,41,Conrad,Whaaat? It's good to make sure you're warmed up!
-line:3484ab9d,L11 Conrad,Conrad_Intro_4,42,Conrad,Thanks!
-65bee50d904e101d,L11 Conrad,Conrad_Intro_4,43,Conrad,Hey hey. Glad you're open.
-4d5dda82efc31458,L11 Conrad,Conrad_Intro_4,44,Conrad,Lookin' for a hose down. Wouldn't mind using the mount aswell.
-0ecdd0ec4c0cf66c,L11 Conrad,Conrad_Intro_4,45,Kobold,"Oooh, alrighty."
-3252727dec6314c5,L11 Conrad,Conrad_Intro_4,47,Kobold,Whats with all the... Gloop?
-91bc8d1d6dc8cdb7,L11 Conrad,Conrad_Intro_4,48,Conrad,Heh. Yeah.
-line:bc5d790a,L11 Conrad,Conrad_Intro_4,50,Conrad,Thanks!
-line:4d868f2f,L11 Conrad,Conrad_Intro_4,51,Conrad,Thanks!
+940b2bb279fbfd8a,L11 Conrad,Conrad_Intro_4,33,Conrad,Beni ve Ryan'ı tanıştırdığınz için sağ ol.
+6c42e3202026a3e8,L11 Conrad,Conrad_Intro_4,34,Conrad,Aslında çok iyi gitti.
+91b34251e9ff7711,L11 Conrad,Conrad_Intro_4,35,Conrad,Onun gibi birinin benim tipim olacağını hiç düşünmezdim...
+abc0fe0ceed24339,L11 Conrad,Conrad_Intro_4,36,Kobold,Bana her şeyi anlatman lazım.
+ab20df82132f07cc,L11 Conrad,Conrad_Intro_4,37,Conrad,"Anlatacağım. Sadece hızlı bir yıkanmaya ihtiyacım var, sonra binekle oynamaya da hayır demem."
+17c5f180de5a8348,L11 Conrad,Conrad_Intro_4,38,Conrad,"Ryan için <i>alıştırma</i> yapmam lazım, neyi kastettiğimi anladıysan."
+9912569ea696f8ed,L11 Conrad,Conrad_Intro_4,39,Kobold,Conrad ayıp!
+106f99c061d35f26,L11 Conrad,Conrad_Intro_4,40,Kobold,Anladım- anladım. Gidip bariyeri açayım.
+f71200a57e2d1d7a,L11 Conrad,Conrad_Intro_4,41,Conrad,Ne amaaa? Önceden haberin olsun istemiştim!
+line:3484ab9d,L11 Conrad,Conrad_Intro_4,42,Conrad,Sağ ol!
+65bee50d904e101d,L11 Conrad,Conrad_Intro_4,43,Conrad,Hey hey. Açık olduğuna sevindim.
+4d5dda82efc31458,L11 Conrad,Conrad_Intro_4,44,Conrad,Hortumla sulanmam lazım. Binekle oynamaya da hayır demem.
+0ecdd0ec4c0cf66c,L11 Conrad,Conrad_Intro_4,45,Kobold,"Oooh, pekiii."
+3252727dec6314c5,L11 Conrad,Conrad_Intro_4,47,Kobold,Bütün bu balçıklar... da ne?
+91bc8d1d6dc8cdb7,L11 Conrad,Conrad_Intro_4,48,Conrad,Heh. Evet.
+line:bc5d790a,L11 Conrad,Conrad_Intro_4,50,Conrad,Sağ ol!
+line:4d868f2f,L11 Conrad,Conrad_Intro_4,51,Conrad,Sağ ol!
 line:c272e55f,L11 Conrad,Conrad_Intro_4,53,Conrad,...
-1aced2f074444bdc,L11 Conrad,Conrad_Intro_4,54,Kobold,Oh. Okay I'll go get the gate.
+1aced2f074444bdc,L11 Conrad,Conrad_Intro_4,54,Kobold,Oh. Tamam gidip bariyeri açayım.
 # --- progress: Conrad_required_4 ---
-a5965f548b64e3cf,L11 Conrad,Conrad_required_4,1,Conrad,"Hey, I've got a question for you."
-9ad0664c4ac1572a,L11 Conrad,Conrad_required_4,2,Kobold,Oh Yeah?
-d448809fdbbeaf11,L11 Conrad,Conrad_required_4,4,Kobold,Oh yeeeaaah?
-51dbc8c7be16145b,L11 Conrad,Conrad_required_4,5,Kobold,"Whats up, big guy?"
+a5965f548b64e3cf,L11 Conrad,Conrad_required_4,1,Conrad,"Hey, sana bir sorum var."
+9ad0664c4ac1572a,L11 Conrad,Conrad_required_4,2,Kobold,Oh nedir?
+d448809fdbbeaf11,L11 Conrad,Conrad_required_4,4,Kobold,Oh neeeeey?
+51dbc8c7be16145b,L11 Conrad,Conrad_required_4,5,Kobold,"Nedir, yavrum?"
 # --- progress: Conrad_4_Ryan_Conrad_Romanced | if $ryan_conrad_romanced $conrad_romanced $ryan_romanced ---
 e6071cb4e7c448c8,L11 Conrad,Conrad_4_Ryan_Conrad_Romanced,1,Conrad,"With Ryan, I'm pretty sure we're gonna go on a date tonight."
 9ee7e6a6ebccf907,L11 Conrad,Conrad_4_Ryan_Conrad_Romanced,2,Conrad,Do you have any advice?
