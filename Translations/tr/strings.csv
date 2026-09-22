@@ -897,7 +897,7 @@ db22d9512845d515,L10 Ryan,Ryan_ham_dialog,10,Ryan,Yemekten öyle haz alıyorum.
 a5af381d1ec66e2a,L10 Ryan,Ryan_ham_dialog,11,Ryan,İlginçtir; siz iki ayaklılar yemeğin tadını çıkartıyorsunuz...
 180983e0a4f4e327,L10 Ryan,Ryan_ham_dialog,12,Ryan,ama hiçbir şey çiğnemeden yutmak kadar iyi olamaz!
 # --- picnic: Ryan_melon_dialog | if $food_number ---
-Üze1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,Neredeyse ağzıma sığmıyordu-
+ze1d0d09daa3129d9,L10 Ryan,Ryan_melon_dialog,1,Ryan,Neredeyse ağzıma sığmıyordu-
 8725851a4492f86f,L10 Ryan,Ryan_melon_dialog,2,Kobold,Karpuzu soymadın bile.
 991947f3461b26a7,L10 Ryan,Ryan_melon_dialog,3,Kobold,Tadı nasıldı?
 7d20121dc2fa0757,L10 Ryan,Ryan_melon_dialog,4,Ryan,Yaaani.
