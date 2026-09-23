@@ -1479,146 +1479,146 @@ f001e3ed4df7e0ee,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,4,Kobold,Sorun d
 
 # ===== Level 15: Alexander (Sunny) =====
 # --- intro: Alexander_5_intro ---
-line:6d5ba814,L15 Alexander,Alexander_5_intro,1,Alexander,Something went wrong with flags!
-line:fc461784,L15 Alexander,Alexander_5_intro,2,Alexander,Help the developers out please..
+line:6d5ba814,L15 Alexander,Alexander_5_intro,1,Alexander,Flaglerle ilgili bir hata oluştu!
+line:fc461784,L15 Alexander,Alexander_5_intro,2,Alexander,Lütfen geliştiricilerle iletişime geçin...
 bc3d56d7794e4370,L15 Alexander,Alexander_5_intro,6,Kobold,"Hey, Alexander."
-1bef44aeb393caf0,L15 Alexander,Alexander_5_intro,7,Kobold,"Hey, big guy!"
-2d8bd7d9bb5f85ba,L15 Alexander,Alexander_5_intro,8,Alexander,Hello.
-line:82698bd1,L15 Alexander,Alexander_5_intro,9,Alexander,Hey there.
-b048841add4ee6cf,L15 Alexander,Alexander_5_intro,10,Alexander,I'm here for a wash.
-beeee2948bf1c30a,L15 Alexander,Alexander_5_intro,11,Alexander,Hope you're doing alright!
-906a59351176dc24,L15 Alexander,Alexander_5_intro,12,Kobold,Yeah! Just went on a date with Ryan.
-2a75724b922176cf,L15 Alexander,Alexander_5_intro,13,Alexander,Oh yeah? The sky blue drake I've seen around?
-1f4da5e1dde7e17c,L15 Alexander,Alexander_5_intro,14,Alexander,Wonderful to hear you're seeing someone!
-50f1967e1e33cecf,L15 Alexander,Alexander_5_intro,15,Kobold,Yeah! Just went on a date with Conrad.
-0738da2a76bc2231,L15 Alexander,Alexander_5_intro,16,Alexander,Oh yeah? The little red drake?
-896dc87e931d64eb,L15 Alexander,Alexander_5_intro,18,Kobold,I am! Even better now that you're here.
-0786859cb08f5ef9,L15 Alexander,Alexander_5_intro,19,Kobold,I'm doing good!
-414ed962f4c8a03a,L15 Alexander,Alexander_5_intro,20,Alexander,Oh. That's... Wonderful!
-10cdda610834ef77,L15 Alexander,Alexander_5_intro,21,Alexander,I'm happy to be here too.
-346865d8c1dd9693,L15 Alexander,Alexander_5_intro,22,Alexander,Wonderful to hear.
-f9ccb379ac224d71,L15 Alexander,Alexander_5_intro,23,Alexander,"Anywho, I'm in need of a clean."
-4e576daaec5a2d15,L15 Alexander,Alexander_5_intro,24,Kobold,On it!
-42dbc75670fc6105,L15 Alexander,Alexander_5_intro,26,Alexander,Looking forward to the wash.
-line:316bb26e,L15 Alexander,Alexander_5_intro,27,Alexander,Thanks.
+1bef44aeb393caf0,L15 Alexander,Alexander_5_intro,7,Kobold,"Hey, tosun!"
+2d8bd7d9bb5f85ba,L15 Alexander,Alexander_5_intro,8,Alexander,Merhaba.
+line:82698bd1,L15 Alexander,Alexander_5_intro,9,Alexander,Merhaba.
+b048841add4ee6cf,L15 Alexander,Alexander_5_intro,10,Alexander,Yıkanmak için geldim.
+beeee2948bf1c30a,L15 Alexander,Alexander_5_intro,11,Alexander,Umarım iyisindir!
+906a59351176dc24,L15 Alexander,Alexander_5_intro,12,Kobold,İyiyim! Daha yeni Ryan ile randevumdaydım.
+2a75724b922176cf,L15 Alexander,Alexander_5_intro,13,Alexander,Öyle mi? Etrafta gördüğüm gök mavisi drakele mi?
+1f4da5e1dde7e17c,L15 Alexander,Alexander_5_intro,14,Alexander,Biriyle görüştüğünü bilmek ne harika!
+50f1967e1e33cecf,L15 Alexander,Alexander_5_intro,15,Kobold,İyiyim! Daha yeni Conrad ile randevumdaydım.
+0738da2a76bc2231,L15 Alexander,Alexander_5_intro,16,Alexander,Öyle mi? Şu küçük kızıl drake mi?
+896dc87e931d64eb,L15 Alexander,Alexander_5_intro,18,Kobold,Öyleyim! Burada olduğun için daha da bir iyiyim.
+0786859cb08f5ef9,L15 Alexander,Alexander_5_intro,19,Kobold,İyi gidiyor!
+414ed962f4c8a03a,L15 Alexander,Alexander_5_intro,20,Alexander,Oh. Bu... Harika!
+10cdda610834ef77,L15 Alexander,Alexander_5_intro,21,Alexander,Burada olmaktan ben de mutluyum.
+346865d8c1dd9693,L15 Alexander,Alexander_5_intro,22,Alexander,Bunu duymak harika.
+f9ccb379ac224d71,L15 Alexander,Alexander_5_intro,23,Alexander,"Her neyse, temizlenmeye ihtiyacım var."
+4e576daaec5a2d15,L15 Alexander,Alexander_5_intro,24,Kobold,Geliyorum!
+42dbc75670fc6105,L15 Alexander,Alexander_5_intro,26,Alexander,Yıkanmayı iple çekiyorum.
+line:316bb26e,L15 Alexander,Alexander_5_intro,27,Alexander,Sağ ol.
 # --- progress: Alexander_5_romance_route | if $ryan_conrad_romanced ---
-line:1b6c7f75,L15 Alexander,Alexander_5_romance_route,1,Alexander,Hey there.
-067e958be39127d9,L15 Alexander,Alexander_5_romance_route,4,Alexander,I was thinking...
-4dd6f1ad9c86a533,L15 Alexander,Alexander_5_romance_route,5,Alexander,Do you believe I am attractive?
-303f7b0a567bfb2b,L15 Alexander,Alexander_5_romance_route,6,Kobold,YES.
-09141003dee8665c,L15 Alexander,Alexander_5_romance_route,7,Kobold,I do!
-43c22d680a102c02,L15 Alexander,Alexander_5_romance_route,8,Kobold,I think you're good looking.
+line:1b6c7f75,L15 Alexander,Alexander_5_romance_route,1,Alexander,Merhaba.
+067e958be39127d9,L15 Alexander,Alexander_5_romance_route,4,Alexander,Düşünüyordum da...
+4dd6f1ad9c86a533,L15 Alexander,Alexander_5_romance_route,5,Alexander,benim çekici olduğuma inanıyor musun?
+303f7b0a567bfb2b,L15 Alexander,Alexander_5_romance_route,6,Kobold,ÖYLESİN.
+09141003dee8665c,L15 Alexander,Alexander_5_romance_route,7,Kobold,İNANIYORUM!
+43c22d680a102c02,L15 Alexander,Alexander_5_romance_route,8,Kobold,Bence iyi görünüyorsun.
 line:4399096b,L15 Alexander,Alexander_5_romance_route,9,Alexander,Oh.
-4d433e9df480be59,L15 Alexander,Alexander_5_romance_route,10,Alexander,I'm glad!
-c2ec019426b864e2,L15 Alexander,Alexander_5_romance_route,11,Alexander,That... makes me feel a lot more sure of myself then.
-2819c10656ee517a,L15 Alexander,Alexander_5_romance_route,12,Alexander,Truly?
-line:e00c6df5,L15 Alexander,Alexander_5_romance_route,14,Alexander,Thanks.
-8fa16c7b8108298a,L15 Alexander,Alexander_5_romance_route,15,Alexander,That makes me feel a lot more sure of myself then.
-4f6ee313463724ba,L15 Alexander,Alexander_5_romance_route,16,Alexander,That brings me to my next question...
-96ec8add863c6173,L15 Alexander,Alexander_5_romance_route,17,Alexander,Would you care to join me at the college library this evening...?
-558dbfba7857e37d,L15 Alexander,Alexander_5_romance_route,18,Alexander,It would be a... date. As most would say.
-76eea215ea7ba450,L15 Alexander,Alexander_5_romance_route,19,Kobold,"<gradient=""gold""><b> I wouldn't mind! </b></gradient><size=70%> (Will lead to Alexander romance!)"
-500188b2a2627768,L15 Alexander,Alexander_5_romance_route,20,Kobold,"<gradient=""gold""><b> I'm going to be busy tonight. Sorry. </b></gradient><size=70%> (Will lead to no romance!)"
-line:36d49875,L15 Alexander,Alexander_5_romance_route,21,Alexander,Wonderful!
-96b6a8b07a0781d0,L15 Alexander,Alexander_5_romance_route,22,Alexander,I've been considering asking you this for a while now.
-942b49a7c66fb0bf,L15 Alexander,Alexander_5_romance_route,23,Alexander,Ah. Do not worry.
-b1cb9d9c9d3d9661,L15 Alexander,Alexander_5_romance_route,24,Alexander,Very well. Don't let me interrupt the wash then!
+4d433e9df480be59,L15 Alexander,Alexander_5_romance_route,10,Alexander,Sevindim!
+c2ec019426b864e2,L15 Alexander,Alexander_5_romance_route,11,Alexander,Bu... benim kendimden daha emin olmamı sağladı.
+2819c10656ee517a,L15 Alexander,Alexander_5_romance_route,12,Alexander,Gerçekten mi?
+line:e00c6df5,L15 Alexander,Alexander_5_romance_route,14,Alexander,Sağ ol.
+8fa16c7b8108298a,L15 Alexander,Alexander_5_romance_route,15,Alexander,Bu benim kendimden daha emin olmamı sağladı.
+4f6ee313463724ba,L15 Alexander,Alexander_5_romance_route,16,Alexander,Bu benin sonraki soruma getiriyor...
+96ec8add863c6173,L15 Alexander,Alexander_5_romance_route,17,Alexander,bu akşam üniversitenin kütüphanesinde bana eşil eder misin...?
+558dbfba7857e37d,L15 Alexander,Alexander_5_romance_route,18,Alexander,Bu bir şey... randevu teklifi. Diğerlerinin de dediğin gibi.
+76eea215ea7ba450,L15 Alexander,Alexander_5_romance_route,19,Kobold,"<gradient=""gold""><b> Fena olmazdı! </b></gradient><size=70%> (Alexander ile ilişki yaparsınız!)"
+500188b2a2627768,L15 Alexander,Alexander_5_romance_route,20,Kobold,"<gradient=""gold""><b> Bu akşam meşgul olacağum. Kusura bakma. </b></gradient><size=70%> (İlişkiye götürmeyecek!)"
+line:36d49875,L15 Alexander,Alexander_5_romance_route,21,Alexander,Harika!
+96b6a8b07a0781d0,L15 Alexander,Alexander_5_romance_route,22,Alexander,Bunu sana sormayı uzun süredir düşünüyordum.
+942b49a7c66fb0bf,L15 Alexander,Alexander_5_romance_route,23,Alexander,Ah. Sorun değil.
+b1cb9d9c9d3d9661,L15 Alexander,Alexander_5_romance_route,24,Alexander,Peki o halde. Yıkarken seni meşgul etmeyeyim!
 # --- progress: Alexander_5_required ---
-861a7c80ccb8a4ba,L15 Alexander,Alexander_5_required,1,Alexander,"So, how was your date?"
-3481be04c35d76a2,L15 Alexander,Alexander_5_required,2,Kobold,Was great! Ryan is a sweetheart.
-d26f0d306552c44a,L15 Alexander,Alexander_5_required,3,Kobold,It was great. Conrad is wild. Good wild.
-cf755b67feb7b6d9,L15 Alexander,Alexander_5_required,4,Kobold,It was good. We had sex.
-6af3f2040301f8fa,L15 Alexander,Alexander_5_required,5,Alexander,That's good. You deserve a decent man.
-9b8379de3d387846,L15 Alexander,Alexander_5_required,6,Alexander,I'm certain he also finds you pleasant!
-add751924d595d89,L15 Alexander,Alexander_5_required,7,Kobold,"Thanks, You're pleasant too!"
-line:44701902,L15 Alexander,Alexander_5_required,8,Kobold,Thanks!
-01cb42db52da342d,L15 Alexander,Alexander_5_required,9,Alexander,Thanks. That's kind of you to say.
-line:d2401e75,L15 Alexander,Alexander_5_required,10,Alexander,Of course!
-a8ab7e0a75fdc69c,L15 Alexander,Alexander_5_required,11,Alexander,"Hah, he seems like the wild type."
-5bac15668ef9b115,L15 Alexander,Alexander_5_required,12,Alexander,I'm glad you enjoy him. I'm certain he finds you pleasant.
-line:e7e57d9c,L15 Alexander,Alexander_5_required,14,Kobold,Thanks!
-line:76f8c20c,L15 Alexander,Alexander_5_required,16,Alexander,Of course!
+861a7c80ccb8a4ba,L15 Alexander,Alexander_5_required,1,Alexander,"Peki, randevun nasıl geçti?"
+3481be04c35d76a2,L15 Alexander,Alexander_5_required,2,Kobold,Harikaydı! Ryan tam bir şeker.
+d26f0d306552c44a,L15 Alexander,Alexander_5_required,3,Kobold,Harikaydı. Conrad çok vahşiydi. İyi anlamda.
+cf755b67feb7b6d9,L15 Alexander,Alexander_5_required,4,Kobold,İyiydi. Seviştik.
+6af3f2040301f8fa,L15 Alexander,Alexander_5_required,5,Alexander,Ne iyi. Düzgün birini hak ediyorsun.
+9b8379de3d387846,L15 Alexander,Alexander_5_required,6,Alexander,Eminim ki o da senden hoşlanıyordur!
+add751924d595d89,L15 Alexander,Alexander_5_required,7,Kobold,"Sağ ol, sen de hoş birisin!"
+line:44701902,L15 Alexander,Alexander_5_required,8,Kobold,Teşekkürler!
+01cb42db52da342d,L15 Alexander,Alexander_5_required,9,Alexander,Sağ ol. Çok naziksin.
+line:d2401e75,L15 Alexander,Alexander_5_required,10,Alexander,Ne demek!
+a8ab7e0a75fdc69c,L15 Alexander,Alexander_5_required,11,Alexander,"Hah, vahşi tiplerden biri olmalı."
+5bac15668ef9b115,L15 Alexander,Alexander_5_required,12,Alexander,Ondan hoşlanmana sevindim. Eminim ki o da sende hoşlanmıştır.
+line:e7e57d9c,L15 Alexander,Alexander_5_required,14,Kobold,Sağ ol!
+line:76f8c20c,L15 Alexander,Alexander_5_required,16,Alexander,Ne demek!
 line:87233429,L15 Alexander,Alexander_5_required,17,Alexander,Oh.
 line:1113335e,L15 Alexander,Alexander_5_required,18,Alexander,...
-line:ab423ac7,L15 Alexander,Alexander_5_required,19,Alexander,Wonderful!
-cb8f422bf973d563,L15 Alexander,Alexander_5_required,20,Alexander,Must mean you two are a good match.
+line:ab423ac7,L15 Alexander,Alexander_5_required,19,Alexander,Harika!
+cb8f422bf973d563,L15 Alexander,Alexander_5_required,20,Alexander,Uyumlu olduğunuz anlamına geliyor olmalı.
 # --- jerkoff: Alexander_5_JerkOff_Start ---
-caa4d660ab8d004d,L15 Alexander,Alexander_5_JerkOff_Start,1,Alexander,<i> that feels nice...</i>
+caa4d660ab8d004d,L15 Alexander,Alexander_5_JerkOff_Start,1,Alexander,<i> hoş hissettiriyor...</i>
 # --- cum: Alexander_5_Cum ---
-3eb65bb3b11e901c,L15 Alexander,Alexander_5_Cum,1,Alexander,Oh- I'm sorry for making a mess...
+3eb65bb3b11e901c,L15 Alexander,Alexander_5_Cum,1,Alexander,Oh- Etrafı kirlettiğim için özür dilerim...
 # --- mount_start: Alexander_5_Mount_Start ---
-6df0c2c2617b9905,L15 Alexander,Alexander_5_Mount_Start,1,Alexander,Oh my. I suppose I could use the mount!
+6df0c2c2617b9905,L15 Alexander,Alexander_5_Mount_Start,1,Alexander,Amanın- Herhalde sakıncası olmaz!
 # --- mount_finish: Alexander_5_Mount_Finish ---
-31ea4258e44c77e4,L15 Alexander,Alexander_5_Mount_Finish,1,Alexander,Nnf... I believe I needed that. Thank you.
+31ea4258e44c77e4,L15 Alexander,Alexander_5_Mount_Finish,1,Alexander,Nnf... Buna ihtiyacım varmış. Sağ ol.
 # --- outro: Alexander_5_Outro ---
-026554f86388b721,L15 Alexander,Alexander_5_Outro,1,Alexander,Thanks for the clean.
-7f37ff79ee94bd0b,L15 Alexander,Alexander_5_Outro,2,Alexander,Tonight- on campus. The library is the large blue spire building.
-f5e9b1cef9c39e89,L15 Alexander,Alexander_5_Outro,3,Alexander,"Approach the dragon entrance, and I will let you in."
-line:b5d7d26f,L15 Alexander,Alexander_5_Outro,4,Alexander,I'm excited.
-5832139d604c3ee8,L15 Alexander,Alexander_5_Outro,5,Kobold,So am I!
-6ed2300bf162b1de,L15 Alexander,Alexander_5_Outro,6,Kobold,Sounds really cool.
-line:99b6dc81,L15 Alexander,Alexander_5_Outro,7,Alexander,I'm glad.
-ada4e05c4d451f61,L15 Alexander,Alexander_5_Outro,8,Alexander,It is indeed rather cool.
-6068953467a952bf,L15 Alexander,Alexander_5_Outro,9,Alexander,I'll get out of your scales now. Thank you for the wash.
-7ca9216de53b82e5,L15 Alexander,Alexander_5_Outro,10,Alexander,See you tonight.
-4f8eb9eeb14b2f7d,L15 Alexander,Alexander_5_Outro,11,Alexander,That should be every spot.
-991fa15e47275ce0,L15 Alexander,Alexander_5_Outro,12,Alexander,Thank you for the clean!
-6d1255dd43802973,L15 Alexander,Alexander_5_Outro,13,Alexander,I'm happy to have met you.
-5d5e0eafc7ef13d6,L15 Alexander,Alexander_5_Outro,14,Kobold,As am I.
-63b9a103362edd6c,L15 Alexander,Alexander_5_Outro,15,Kobold,"Aw, thanks Alexander."
-6df8f8008c57cbac,L15 Alexander,Alexander_5_Outro,16,Alexander,"Anywho, I'll get out of your scales now."
-1cb7b221b7adda1c,L15 Alexander,Alexander_5_Outro,17,Alexander,Goodbye!
+026554f86388b721,L15 Alexander,Alexander_5_Outro,1,Alexander,Temizlik için sağ ol.
+7f37ff79ee94bd0b,L15 Alexander,Alexander_5_Outro,2,Alexander,Bu gece- kampüsteyiz. Kütüphane büyük mavi kulede.
+f5e9b1cef9c39e89,L15 Alexander,Alexander_5_Outro,3,Alexander,"Ejder kapısına gel ve sonra ben de seni içeri alacağım."
+line:b5d7d26f,L15 Alexander,Alexander_5_Outro,4,Alexander,Sabırsızlanıyorum.
+5832139d604c3ee8,L15 Alexander,Alexander_5_Outro,5,Kobold,Ben de senin gibi!
+6ed2300bf162b1de,L15 Alexander,Alexander_5_Outro,6,Kobold,Ne havalı ama.
+line:99b6dc81,L15 Alexander,Alexander_5_Outro,7,Alexander,Sevindim.
+ada4e05c4d451f61,L15 Alexander,Alexander_5_Outro,8,Alexander,"Öyle, gerçekten havalı."
+6068953467a952bf,L15 Alexander,Alexander_5_Outro,9,Alexander,Artık pullarından çekileyim. Yıkadığın için sağ ol.
+7ca9216de53b82e5,L15 Alexander,Alexander_5_Outro,10,Alexander,Akşam görüşürüz.
+4f8eb9eeb14b2f7d,L15 Alexander,Alexander_5_Outro,11,Alexander,Her yerim temiz olmuş olmalı.
+991fa15e47275ce0,L15 Alexander,Alexander_5_Outro,12,Alexander,Temizlik için sağ ol!
+6d1255dd43802973,L15 Alexander,Alexander_5_Outro,13,Alexander,Seninle tanıştığıma mutluyum.
+5d5e0eafc7ef13d6,L15 Alexander,Alexander_5_Outro,14,Kobold,Ben de öyle.
+63b9a103362edd6c,L15 Alexander,Alexander_5_Outro,15,Kobold,"Ah, sağ ol Alexander."
+6df8f8008c57cbac,L15 Alexander,Alexander_5_Outro,16,Alexander,"Her neyse, artık pullarını rahat bırakayım."
+1cb7b221b7adda1c,L15 Alexander,Alexander_5_Outro,17,Alexander,Görüşürüz!
 
 # ===== Cutscenes (started by game code) =====
 # --- Alexander_SexScene ---
-266f7a45346224eb,Cutscene,Alexander_SexScene,1,Alexander,We can just lay here...
-43b91c684627d3b6,Cutscene,Alexander_SexScene,2,Alexander,You'll take care of everything?
+266f7a45346224eb,Cutscene,Alexander_SexScene,1,Alexander,Burada sırnaşabiliriz...
+43b91c684627d3b6,Cutscene,Alexander_SexScene,2,Alexander,Her şeyi sen mi halledeceksin?
 # --- Alexander_SexScene_Loop ---
-7d085d9765e3c5d6,Cutscene,Alexander_SexScene_Loop,1,Alexander,My-
-f70738ec42aa401d,Cutscene,Alexander_SexScene_Loop,2,Alexander,You are very skilled with your hands
+7d085d9765e3c5d6,Cutscene,Alexander_SexScene_Loop,1,Alexander,Aman-
+f70738ec42aa401d,Cutscene,Alexander_SexScene_Loop,2,Alexander,Ellerin ne kadar marifetli
 328ad033a139998d,Cutscene,Alexander_SexScene_Loop,3,Alexander,mmm..
 5ec1f7e700f37c3d,Cutscene,Alexander_SexScene_Loop,4,Alexander/Conrad/Ryan,..
 line:b36eb839,Cutscene,Alexander_SexScene_Loop,4,Alexander,..
 # --- Alexander_SexScene_Cum | if $alexander_sexscene_loops ---
-08ab4c0c6ca5fe6f,Cutscene,Alexander_SexScene_Cum,1,Kobold,Is this good?
-069e24aa896ea4cf,Cutscene,Alexander_SexScene_Cum,2,Alexander,Good... That'd be correct.
-2c33dcef91e06624,Cutscene,Alexander_SexScene_Cum,3,Kobold,Good.
-2d731f1625c8064f,Cutscene,Alexander_SexScene_Cum,4,Alexander,I'm... Rather close now
-4650860eb73dd16f,Cutscene,Alexander_SexScene_Cum,5,Kobold,Hold on a little longer for me?
-860ede2808e2507c,Cutscene,Alexander_SexScene_Cum,6,Kobold,Go for it!
-16c36baab1491eb1,Cutscene,Alexander_SexScene_Cum,7,Alexander,V-very well. I'll try.
-24537bfd61baf4a0,Cutscene,Alexander_SexScene_Cum,8,Alexander,I don't believe I can hold back any longer
-a63eed0b6b6a78c7,Cutscene,Alexander_SexScene_Cum,9,Kobold,Not yet. a little longer.
-35f5ee08b67fc0f5,Cutscene,Alexander_SexScene_Cum,10,Kobold,Let go whenever you are ready.
-82af5427ecb85c11,Cutscene,Alexander_SexScene_Cum,11,Alexander,Yes..
+08ab4c0c6ca5fe6f,Cutscene,Alexander_SexScene_Cum,1,Kobold,Böyle iyi mi?
+069e24aa896ea4cf,Cutscene,Alexander_SexScene_Cum,2,Alexander,İyi... Doğru yapıyorsun.
+2c33dcef91e06624,Cutscene,Alexander_SexScene_Cum,3,Kobold,Güzel.
+2d731f1625c8064f,Cutscene,Alexander_SexScene_Cum,4,Alexander,Ben... Yakınım.
+4650860eb73dd16f,Cutscene,Alexander_SexScene_Cum,5,Kobold,Benim için biraz daha tutar mısın?
+860ede2808e2507c,Cutscene,Alexander_SexScene_Cum,6,Kobold,Bırak gelsin!
+16c36baab1491eb1,Cutscene,Alexander_SexScene_Cum,7,Alexander,P-peki o zaman. Kendimi zorlayacağım.
+24537bfd61baf4a0,Cutscene,Alexander_SexScene_Cum,8,Alexander,Daha fazla tutabileceğimi düşünmüyorum.
+a63eed0b6b6a78c7,Cutscene,Alexander_SexScene_Cum,9,Kobold,Şimdi değil. Birazcık daha.
+35f5ee08b67fc0f5,Cutscene,Alexander_SexScene_Cum,10,Kobold,İstediğin zaman boşalabilirsin.
+82af5427ecb85c11,Cutscene,Alexander_SexScene_Cum,11,Alexander,Ahh..
 847ec7301eab2bde,Cutscene,Alexander_SexScene_Cum,12,Alexander,Huff...
-c958ed597f3ee7b9,Cutscene,Alexander_SexScene_Cum,13,Alexander,I enjoyed this quite a lot.
-f3be3d62065c0791,Cutscene,Alexander_SexScene_Cum,14,Kobold,I'm happy to hear that.
-6a629fe795ac84d7,Cutscene,Alexander_SexScene_Cum,15,Kobold,What now?
-4cc4342b97114697,Cutscene,Alexander_SexScene_Cum,16,Alexander,Yes... But I believe we need to clean the floors.
-ee63118710aa5c5b,Cutscene,Alexander_SexScene_Cum,17,Alexander,We will need to clean the floors...
-8319d1715d2a4149,Cutscene,Alexander_SexScene_Cum,18,Alexander,<i><size=70%>uh oh.. and the books
+c958ed597f3ee7b9,Cutscene,Alexander_SexScene_Cum,13,Alexander,Çok hoşuma gitti.
+f3be3d62065c0791,Cutscene,Alexander_SexScene_Cum,14,Kobold,Bunu duymak beni de mutlu etti.
+6a629fe795ac84d7,Cutscene,Alexander_SexScene_Cum,15,Kobold,Şimdi ne yapacağız?
+4cc4342b97114697,Cutscene,Alexander_SexScene_Cum,16,Alexander,Şimdi... Sanırım zemini temizlememiz lazım...
+ee63118710aa5c5b,Cutscene,Alexander_SexScene_Cum,17,Alexander,Yerleri temizlememiz lazım...
+8319d1715d2a4149,Cutscene,Alexander_SexScene_Cum,18,Alexander,<i><size=70%>uh oh.. ve de kitapları.
 # --- Conrad_SexScene ---
-b6d2d6ccb52c5166,Cutscene,Conrad_SexScene,1,Conrad,Oh damn! You really are adventurous!
-e5c48d779d6422b5,Cutscene,Conrad_SexScene,2,Kobold,mmph! (Yea!)
-e0ecc38d8bbe3790,Cutscene,Conrad_SexScene,3,Conrad,Dont talk with your mouth full
+b6d2d6ccb52c5166,Cutscene,Conrad_SexScene,1,Conrad,Ah siktir! Gerçekten yaramazsın!
+e5c48d779d6422b5,Cutscene,Conrad_SexScene,2,Kobold,mmph! (Evet!)
+e0ecc38d8bbe3790,Cutscene,Conrad_SexScene,3,Conrad,Ağzın doluyken konuşmak olmaz.
 # --- Conrad_SexScene_Loop ---
-d7e01674d2776085,Cutscene,Conrad_SexScene_Loop,1,Conrad,I honestly don't know how you are doing that.
-9b277d164ba8a630,Cutscene,Conrad_SexScene_Loop,2,Conrad,Im not complaining though.
-73433af885509f84,Cutscene,Conrad_SexScene_Loop,3,Conrad,Hell yea
+d7e01674d2776085,Cutscene,Conrad_SexScene_Loop,1,Conrad,Bunu nasıl becerdiğini cidden bilmiyorum...
+9b277d164ba8a630,Cutscene,Conrad_SexScene_Loop,2,Conrad,ama şikayet eden de yok.
+73433af885509f84,Cutscene,Conrad_SexScene_Loop,3,Conrad,Fena iyisin-
 line:8c0e2d04,Cutscene,Conrad_SexScene_Loop,4,Conrad,..
 # --- Conrad_SexScene_Cum | if $conrad_sexscene_loops ---
-fcfcfc2c31be11e5,Cutscene,Conrad_SexScene_Cum,1,Conrad,You ready for this?
-6b426873374bb7a4,Cutscene,Conrad_SexScene_Cum,2,Kobold,Give me a bit
-91213ceb7548b8dc,Cutscene,Conrad_SexScene_Cum,3,Kobold,Ready!
-72e3cb39cf4a181a,Cutscene,Conrad_SexScene_Cum,4,Conrad,Conrad can go as long as he needs
-3f2d1b3f808a4ec7,Cutscene,Conrad_SexScene_Cum,5,Conrad,I can let loose whenever you are ready
-46438371960f0974,Cutscene,Conrad_SexScene_Cum,6,Kobold,Not yet.
-d893ccbfc95475bc,Cutscene,Conrad_SexScene_Cum,7,Kobold,Let's have it!
-aa1a7618e29e4482,Cutscene,Conrad_SexScene_Cum,8,Conrad,Hey fine by me!
-aa116a5879e94072,Cutscene,Conrad_SexScene_Cum,9,Conrad,I'm impressed.
-45a9ad3bf69b0498,Cutscene,Conrad_SexScene_Cum,10,Conrad,You ready to go back in to the club?
-4db30f4a0f40d350,Cutscene,Conrad_SexScene_Cum,11,Kobold,Sounds good to me!
+fcfcfc2c31be11e5,Cutscene,Conrad_SexScene_Cum,1,Conrad,Hazır mısın?
+6b426873374bb7a4,Cutscene,Conrad_SexScene_Cum,2,Kobold,Biraz bekle.
+91213ceb7548b8dc,Cutscene,Conrad_SexScene_Cum,3,Kobold,Yolla!
+72e3cb39cf4a181a,Cutscene,Conrad_SexScene_Cum,4,Conrad,Conrad sen istediğin kadar tutabilir.
+3f2d1b3f808a4ec7,Cutscene,Conrad_SexScene_Cum,5,Conrad,Hazır olduğun an kendimi bırakacağım.
+46438371960f0974,Cutscene,Conrad_SexScene_Cum,6,Kobold,Henüz değil.
+d893ccbfc95475bc,Cutscene,Conrad_SexScene_Cum,7,Kobold,Bırak gelsin!
+aa1a7618e29e4482,Cutscene,Conrad_SexScene_Cum,8,Conrad,"Hey, bana hava hoş!"
+aa116a5879e94072,Cutscene,Conrad_SexScene_Cum,9,Conrad,Beni şaşırtıyorsun.
+45a9ad3bf69b0498,Cutscene,Conrad_SexScene_Cum,10,Conrad,Klübe geri dönmek ister misin?
+4db30f4a0f40d350,Cutscene,Conrad_SexScene_Cum,11,Kobold,Bana uyar!
 # --- Ryan_Conrad_SexScene ---
 e86ce51d1dbf8280,Cutscene,Ryan_Conrad_SexScene,1,Ryan,Ryan: I've never done this outside before
 848d254c8d63e6fb,Cutscene,Ryan_Conrad_SexScene,2,Conrad,Conrad: Don't worry about it!
