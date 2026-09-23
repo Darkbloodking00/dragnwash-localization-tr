@@ -1535,7 +1535,7 @@ line:44701902,L15 Alexander,Alexander_5_required,8,Kobold,Teşekkürler!
 01cb42db52da342d,L15 Alexander,Alexander_5_required,9,Alexander,Sağ ol. Çok naziksin.
 line:d2401e75,L15 Alexander,Alexander_5_required,10,Alexander,Ne demek!
 a8ab7e0a75fdc69c,L15 Alexander,Alexander_5_required,11,Alexander,"Hah, vahşi tiplerden biri olmalı."
-5bac15668ef9b115,L15 Alexander,Alexander_5_required,12,Alexander,Ondan hoşlanmana sevindim. Eminim ki o da sende hoşlanmıştır.
+5bac15668ef9b115,L15 Alexander,Alexander_5_required,12,Alexander,Ondan hoşlanmana sevindim. Eminim o da senden hoşlanmıştır.
 line:e7e57d9c,L15 Alexander,Alexander_5_required,14,Kobold,Sağ ol!
 line:76f8c20c,L15 Alexander,Alexander_5_required,16,Alexander,Ne demek!
 line:87233429,L15 Alexander,Alexander_5_required,17,Alexander,Oh.
@@ -1561,7 +1561,7 @@ line:99b6dc81,L15 Alexander,Alexander_5_Outro,7,Alexander,Sevindim.
 ada4e05c4d451f61,L15 Alexander,Alexander_5_Outro,8,Alexander,"Öyle, gerçekten havalı."
 6068953467a952bf,L15 Alexander,Alexander_5_Outro,9,Alexander,Artık pullarından çekileyim. Yıkadığın için sağ ol.
 7ca9216de53b82e5,L15 Alexander,Alexander_5_Outro,10,Alexander,Akşam görüşürüz.
-4f8eb9eeb14b2f7d,L15 Alexander,Alexander_5_Outro,11,Alexander,Her yerim temiz olmuş olmalı.
+4f8eb9eeb14b2f7d,L15 Alexander,Alexander_5_Outro,11,Alexander,Artık her yerim temizlenmiş olmalı.
 991fa15e47275ce0,L15 Alexander,Alexander_5_Outro,12,Alexander,Temizlik için sağ ol!
 6d1255dd43802973,L15 Alexander,Alexander_5_Outro,13,Alexander,Seninle tanıştığıma mutluyum.
 5d5e0eafc7ef13d6,L15 Alexander,Alexander_5_Outro,14,Kobold,Ben de öyle.
@@ -2027,7 +2027,7 @@ abb999c4cc496598,UI,,,UI,Hopfel
 95639378358b68d3,UI,,,UI,Carpet impacts
 bd237658a4713810,UI,,,UI,"Yazım
 Çevre Tasarımı
-Çevre Modelleme
+Çevre Modelleri
 Çevre Animasyonları"
 cafbbc8744fb3f88,UI,,,UI,Halı pati sfx
 eb272d78dafd532b,UI,,,UI,kapı açılma sfx
