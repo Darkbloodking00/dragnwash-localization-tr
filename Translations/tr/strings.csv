@@ -1347,135 +1347,135 @@ line:fbba1293,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,15,Ryan,Sağ ol.
 
 # ===== Level 14: Conrad (Night) =====
 # --- intro: Conrad_Intro_5 ---
-line:4dac3d2b,L14 Conrad,Conrad_Intro_5,1,Conrad,Something went wrong with flags!
-line:db9c3a5c,L14 Conrad,Conrad_Intro_5,2,Conrad,Help the developers out please..
+line:4dac3d2b,L14 Conrad,Conrad_Intro_5,1,Conrad,Flaglerle ilgili bir hata oluştu!
+line:db9c3a5c,L14 Conrad,Conrad_Intro_5,2,Conrad,Lütfen geliştiricilerle iletişme geçin..
 # --- intro: Conrad_5_intro_ryan_romanced | if $ryan_conrad_romanced $conrad_romanced $ryan_romanced ---
-ab4070df9f9d3980,L14 Conrad,Conrad_5_intro_ryan_romanced,1,Conrad,"<size=140%>HEY, <size=100%>lookin' for a wash."
+ab4070df9f9d3980,L14 Conrad,Conrad_5_intro_ryan_romanced,1,Conrad,"<size=140%>HEY, <size=100%>yıkanmak için geldim."
 8597b1ea1423580d,L14 Conrad,Conrad_5_intro_ryan_romanced,2,Kobold,Hey Conrad.
-3ed1272125c54574,L14 Conrad,Conrad_5_intro_ryan_romanced,3,Kobold,What brings you in so late?
-d90de33a2137108a,L14 Conrad,Conrad_5_intro_ryan_romanced,4,Conrad,"Yuh, that's me."
-2ca9d5b1cf89ccc8,L14 Conrad,Conrad_5_intro_ryan_romanced,5,Conrad,Goin' downtown tonight. Needed to be spotless. Say...
-f5ebf2a456433609,L14 Conrad,Conrad_5_intro_ryan_romanced,6,Conrad,Heard about you and the big blue guy. Ryan was it?
-061d649bf4c733b7,L14 Conrad,Conrad_5_intro_ryan_romanced,7,Conrad,Bet you had fun.
-4193e2b4730c89ad,L14 Conrad,Conrad_5_intro_ryan_romanced,8,Conrad,Hope it went well.
-63ecf81d4e111712,L14 Conrad,Conrad_5_intro_ryan_romanced,9,Kobold,It did! Thanks for asking.
-0c7c795d2dd5eb76,L14 Conrad,Conrad_5_intro_ryan_romanced,10,Kobold,It went well.
-ae61bf1949b59852,L14 Conrad,Conrad_5_intro_ryan_romanced,12,Conrad,Now!
-25ba5fd876754270,L14 Conrad,Conrad_5_intro_ryan_romanced,13,Conrad,Conrad needs a wash!
+3ed1272125c54574,L14 Conrad,Conrad_5_intro_ryan_romanced,3,Kobold,Bu saatte seni buraya ne getirdi?
+d90de33a2137108a,L14 Conrad,Conrad_5_intro_ryan_romanced,4,Conrad,"Hehe, o benim."
+2ca9d5b1cf89ccc8,L14 Conrad,Conrad_5_intro_ryan_romanced,5,Conrad,Bu akşam şehir merkezine gidiyorum. Tertemeiz olmam lazım diyebilirim...
+f5ebf2a456433609,L14 Conrad,Conrad_5_intro_ryan_romanced,6,Conrad,Seninle büyük mavi çocuğun çıktığını duydum. Ryan'dı değil mi?
+061d649bf4c733b7,L14 Conrad,Conrad_5_intro_ryan_romanced,7,Conrad,Eminim eğlenmişsinizdir.
+4193e2b4730c89ad,L14 Conrad,Conrad_5_intro_ryan_romanced,8,Conrad,Umarım iyi geçmiştir.
+63ecf81d4e111712,L14 Conrad,Conrad_5_intro_ryan_romanced,9,Kobold,İyi geçti! Sorduğun için sağ ol.
+0c7c795d2dd5eb76,L14 Conrad,Conrad_5_intro_ryan_romanced,10,Kobold,İyi geçti.
+ae61bf1949b59852,L14 Conrad,Conrad_5_intro_ryan_romanced,12,Conrad,Neyse!
+25ba5fd876754270,L14 Conrad,Conrad_5_intro_ryan_romanced,13,Conrad,Conrad'i yıka bakalım!
 # --- intro: Conrad_5_intro_conrad_romanced | if $ryan_conrad_romanced $conrad_romanced $ryan_romanced ---
-76777c9ea422832b,L14 Conrad,Conrad_5_intro_conrad_romanced,1,Conrad,Hey good lookin'
-0b7efee62380b6cd,L14 Conrad,Conrad_5_intro_conrad_romanced,2,Conrad,How do I look?
-060982be63865e2c,L14 Conrad,Conrad_5_intro_conrad_romanced,3,Kobold,Very cool
+76777c9ea422832b,L14 Conrad,Conrad_5_intro_conrad_romanced,1,Conrad,Naber güzellik
+0b7efee62380b6cd,L14 Conrad,Conrad_5_intro_conrad_romanced,2,Conrad,Nasıl duruyorum?
+060982be63865e2c,L14 Conrad,Conrad_5_intro_conrad_romanced,3,Kobold,Çok havalısın
 b6fff34d007d61c9,L14 Conrad,Conrad_5_intro_conrad_romanced,4,Kobold,Ehh..
-806a4d3418ed236d,L14 Conrad,Conrad_5_intro_conrad_romanced,5,Conrad,Yea! I do!
-4bd075c280186208,L14 Conrad,Conrad_5_intro_conrad_romanced,6,Conrad,Not for a date though.
-777560a71762cf9b,L14 Conrad,Conrad_5_intro_conrad_romanced,7,Conrad,Lets wash it off for our date tonight then.
+806a4d3418ed236d,L14 Conrad,Conrad_5_intro_conrad_romanced,5,Conrad,Hehe! Öyleyim!
+4bd075c280186208,L14 Conrad,Conrad_5_intro_conrad_romanced,6,Conrad,Randevuya çıkacak kadar değilim tabii ki.
+777560a71762cf9b,L14 Conrad,Conrad_5_intro_conrad_romanced,7,Conrad,Bu akşamki randevumuz için hadi şunu temizleyelim artık.
 364ea49c3b6c9895,L14 Conrad,Conrad_5_intro_conrad_romanced,8,Conrad,Ha!
-3ef6b1f5eeda632e,L14 Conrad,Conrad_5_intro_conrad_romanced,9,Conrad,Just having fun.
-ec760ba3440257aa,L14 Conrad,Conrad_5_intro_conrad_romanced,10,Conrad,Ok lets wash it off for our date tonight then.
-line:d66b9155,L14 Conrad,Conrad_5_intro_conrad_romanced,11,Kobold,I'm excited.
-300d848a1b6703e2,L14 Conrad,Conrad_5_intro_conrad_romanced,12,Kobold,Gotta make sure you're spotless!
-line:405b9622,L14 Conrad,Conrad_5_intro_conrad_romanced,13,Conrad,I am too.
-260d7e3607c0eca1,L14 Conrad,Conrad_5_intro_conrad_romanced,14,Conrad,Heh... Damn right.
-d875bd1d6febfd53,L14 Conrad,Conrad_5_intro_conrad_romanced,15,Conrad,I'm pumped.
-a652a464f67481de,L14 Conrad,Conrad_5_intro_conrad_romanced,16,Conrad,Already got seats at that bar I mentioned earlier.
-ce3783abd13119b6,L14 Conrad,Conrad_5_intro_conrad_romanced,17,Conrad,The vibe at night is fuckin' great.
-18ed0c57d649df67,L14 Conrad,Conrad_5_intro_conrad_romanced,18,Conrad,You'll like it.
+3ef6b1f5eeda632e,L14 Conrad,Conrad_5_intro_conrad_romanced,9,Conrad,Dalga geçiyorum.
+ec760ba3440257aa,L14 Conrad,Conrad_5_intro_conrad_romanced,10,Conrad,Neyse bu akşamki randevumuz için hadi şunu temizleyelim artık.
+line:d66b9155,L14 Conrad,Conrad_5_intro_conrad_romanced,11,Kobold,Çok heyecanlıyım.
+300d848a1b6703e2,L14 Conrad,Conrad_5_intro_conrad_romanced,12,Kobold,Seni pırıl pırıl yapacağım!
+line:405b9622,L14 Conrad,Conrad_5_intro_conrad_romanced,13,Conrad,Ben de öyleyim.
+260d7e3607c0eca1,L14 Conrad,Conrad_5_intro_conrad_romanced,14,Conrad,Heh... Hadi yap bakalım.
+d875bd1d6febfd53,L14 Conrad,Conrad_5_intro_conrad_romanced,15,Conrad,Kalbim yerinden çıkacak.
+a652a464f67481de,L14 Conrad,Conrad_5_intro_conrad_romanced,16,Conrad,Daha önce bahsettiğim barda yer ayırttım bile.
+ce3783abd13119b6,L14 Conrad,Conrad_5_intro_conrad_romanced,17,Conrad,Bu geceki havası fena.
+18ed0c57d649df67,L14 Conrad,Conrad_5_intro_conrad_romanced,18,Conrad,Seveceksin.
 # --- intro: Conrad_5_intro_ryan_conrad_romanced | if $ryan_conrad_romanced $conrad_romanced $ryan_romanced ---
 9ec8a28e82bf29dd,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,1,Conrad,Heeeey.
-ce0517f9b97181e5,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,2,Kobold,Whats got you in a good mood?
-9560e52eac466c54,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,4,Conrad,My date with Ryan was...
-f1afc0e7b46c4e3f,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,5,Conrad,Really damn good!
-line:ab3a5d9c,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,6,Conrad,Hey there.
-4b512432c16ce478,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,9,Conrad,Sorry for coming in late. My sleeps borked.
-258282b3a0c1182a,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,10,Conrad,I'm just here for a wash though.
-b67855af6a6d0c66,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,11,Kobold,You'll have to give me all the Ryan details soon.
-9ab1cc314a249eac,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,12,Kobold,Alright! I'll go get the gate.
-1d28eb42dcdd879d,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,13,Conrad,Don't worry. I will.
-line:5183a6f2,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,14,Conrad,Thanks.
+ce0517f9b97181e5,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,2,Kobold,Seni bu kadar mutlu eden ne?
+9560e52eac466c54,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,4,Conrad,Ryan ile olan randevum...
+f1afc0e7b46c4e3f,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,5,Conrad,Çok fenaydı!
+line:ab3a5d9c,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,6,Conrad,Merhaba.
+4b512432c16ce478,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,9,Conrad,Geç geldiğim için kusura bakma. Uyku düzenim bozuk.
+258282b3a0c1182a,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,10,Conrad,Sadece yıkanmaya geldim.
+b67855af6a6d0c66,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,11,Kobold,Bana Ryan ile ilgili her şeyi anlatırsın.
+9ab1cc314a249eac,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,12,Kobold,Peki! Gidip bariyeri açayım.
+1d28eb42dcdd879d,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,13,Conrad,Merak etme. Anlatırım.
+line:5183a6f2,L14 Conrad,Conrad_5_intro_ryan_conrad_romanced,14,Conrad,Sağ ol.
 # --- progress: Conrad_5_required_ryan_romanced | if $ryan_romanced ---
-189bf8eff795718a,L14 Conrad,Conrad_5_required_ryan_romanced,1,Conrad,"Ey, sorry for coming in late."
-cf69f255df6f95af,L14 Conrad,Conrad_5_required_ryan_romanced,2,Kobold,It's fine. I close in about an hour.
-3aa0d9279bff43d9,L14 Conrad,Conrad_5_required_ryan_romanced,3,Kobold,You can come in whenever!
-f135fa715daf4f0c,L14 Conrad,Conrad_5_required_ryan_romanced,4,Conrad,Ah. Okay nevermind I'm not sorry then.
-line:aea0be6b,L14 Conrad,Conrad_5_required_ryan_romanced,5,Conrad,"Aw, thanks."
-b127befdbae1da68,L14 Conrad,Conrad_5_required_ryan_romanced,6,Conrad,Your date with Ryan.
+189bf8eff795718a,L14 Conrad,Conrad_5_required_ryan_romanced,1,Conrad,"Hey, geç geldiğim için kusura bakma."
+cf69f255df6f95af,L14 Conrad,Conrad_5_required_ryan_romanced,2,Kobold,Sorun değil. Zaten daha bir saate kapatacağım.
+3aa0d9279bff43d9,L14 Conrad,Conrad_5_required_ryan_romanced,3,Kobold,Ne zaman istersen gelebilirsin!
+f135fa715daf4f0c,L14 Conrad,Conrad_5_required_ryan_romanced,4,Conrad,Ah. O zaman kusura bakıyorum.
+line:aea0be6b,L14 Conrad,Conrad_5_required_ryan_romanced,5,Conrad,"Ah, sağ ol."
+b127befdbae1da68,L14 Conrad,Conrad_5_required_ryan_romanced,6,Conrad,Ryan ile olan randevunda
 line:dd197e7c,L14 Conrad,Conrad_5_required_ryan_romanced,7,Conrad,...
-e00a5000d0f2cd2a,L14 Conrad,Conrad_5_required_ryan_romanced,8,Conrad,How was the sex.
-7bd3b05552e5bd75,L14 Conrad,Conrad_5_required_ryan_romanced,10,Kobold,Oh. Uhm. <size=70%>Good.
-051b72b94276cf81,L14 Conrad,Conrad_5_required_ryan_romanced,11,Conrad,"Hey, nothin' wrong with asking!"
-d5e5e7ee92b23759,L14 Conrad,Conrad_5_required_ryan_romanced,12,Conrad,Sounds like it was good then.
-83e2bb850a49b35e,L14 Conrad,Conrad_5_required_ryan_romanced,13,Conrad,"Hah, I imagine it would be."
-9f69f9b215b926ee,L14 Conrad,Conrad_5_required_ryan_romanced,14,Conrad,You do know how to use your hands pretty well.
-2c910bcdb2651bf0,L14 Conrad,Conrad_5_required_ryan_romanced,15,Conrad,I'm Jealous!
-9e8a396c1742ffde,L14 Conrad,Conrad_5_required_ryan_romanced,16,Conrad,...But not in like a bad weird way.
+e00a5000d0f2cd2a,L14 Conrad,Conrad_5_required_ryan_romanced,8,Conrad,Seks nasıldı.
+7bd3b05552e5bd75,L14 Conrad,Conrad_5_required_ryan_romanced,10,Kobold,Oh. Aaa. <size=70%>Güzel.
+051b72b94276cf81,L14 Conrad,Conrad_5_required_ryan_romanced,11,Conrad,"Hey, sormanın sakıncası yok!"
+d5e5e7ee92b23759,L14 Conrad,Conrad_5_required_ryan_romanced,12,Conrad,Dediğine göre iyi geçmiş olmalı.
+83e2bb850a49b35e,L14 Conrad,Conrad_5_required_ryan_romanced,13,Conrad,"Hah, Yani öyle hayal ediyorum."
+9f69f9b215b926ee,L14 Conrad,Conrad_5_required_ryan_romanced,14,Conrad,Ellerini nasıl kullanacağını çok iyi biliyorsun.
+2c910bcdb2651bf0,L14 Conrad,Conrad_5_required_ryan_romanced,15,Conrad,Kıskandım!
+9e8a396c1742ffde,L14 Conrad,Conrad_5_required_ryan_romanced,16,Conrad,...ama kötü ve tuhaf anlamda değil tabii ki.
 # --- progress: Conrad_5_required_conrad_romanced | if $ryan_romanced $conrad_romanced ---
-63b786e95b90bc5e,L14 Conrad,Conrad_5_required_conrad_romanced,1,Conrad,So. Tonight.
-line:a0479425,L14 Conrad,Conrad_5_required_conrad_romanced,3,Kobold,I'm excited.
-line:95e2f7cc,L14 Conrad,Conrad_5_required_conrad_romanced,4,Conrad,Yeah.
+63b786e95b90bc5e,L14 Conrad,Conrad_5_required_conrad_romanced,1,Conrad,Şey. Bu akşam için...
+line:a0479425,L14 Conrad,Conrad_5_required_conrad_romanced,3,Kobold,Çok heyecanlıyım.
+line:95e2f7cc,L14 Conrad,Conrad_5_required_conrad_romanced,4,Conrad,Ben de.
 line:03d2f0bb,L14 Conrad,Conrad_5_required_conrad_romanced,5,Conrad,...
-6a74a80cafdccde8,L14 Conrad,Conrad_5_required_conrad_romanced,6,Conrad,You should be.
-06318559748ee640,L14 Conrad,Conrad_5_required_conrad_romanced,7,Conrad,You're going to love it.
-6c4d5b09c5034364,L14 Conrad,Conrad_5_required_conrad_romanced,8,Conrad,The lights in the area are great too.
-95e9b7e01259ac1e,L14 Conrad,Conrad_5_required_conrad_romanced,9,Conrad,Really sets the mood.
-66e39f6379268a82,L14 Conrad,Conrad_5_required_conrad_romanced,10,Kobold,Save your mood setting for tonight!
-line:6e82e54c,L14 Conrad,Conrad_5_required_conrad_romanced,11,Kobold,Oh yeah?
-f9ae65b8ce359331,L14 Conrad,Conrad_5_required_conrad_romanced,12,Conrad,Hah. Fine.
-1d1baaa8db27cb04,L14 Conrad,Conrad_5_required_conrad_romanced,13,Conrad,Oh yeah.
-ff84a4b13b8be2a4,L14 Conrad,Conrad_5_required_conrad_romanced,14,Conrad,Once I'm cleaned up I'm gonna head out and get our spot ready.
+6a74a80cafdccde8,L14 Conrad,Conrad_5_required_conrad_romanced,6,Conrad,Doğal olarak.
+06318559748ee640,L14 Conrad,Conrad_5_required_conrad_romanced,7,Conrad,Bayılacaksın.
+6c4d5b09c5034364,L14 Conrad,Conrad_5_required_conrad_romanced,8,Conrad,Renkler de harika olacak.
+95e9b7e01259ac1e,L14 Conrad,Conrad_5_required_conrad_romanced,9,Conrad,Ruh haline tam uyuyor.
+66e39f6379268a82,L14 Conrad,Conrad_5_required_conrad_romanced,10,Kobold,Ruh halini bu akşama sakla!
+line:6e82e54c,L14 Conrad,Conrad_5_required_conrad_romanced,11,Kobold,Öyle mi?
+f9ae65b8ce359331,L14 Conrad,Conrad_5_required_conrad_romanced,12,Conrad,Hah. Peki.
+1d1baaa8db27cb04,L14 Conrad,Conrad_5_required_conrad_romanced,13,Conrad,Öyle.
+ff84a4b13b8be2a4,L14 Conrad,Conrad_5_required_conrad_romanced,14,Conrad,Temizlendiğim gibi oraya gidip yerimizi hazırlayacağım.
 # --- progress: Conrad_5_required_ryan_conrad_romanced | if $ryan_romanced $conrad_romanced $ryan_conrad_romanced ---
-1598446fc49cdf80,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,1,Conrad,Ryan's such a nice dragon.
-e2e3e43114ab1531,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,2,Kobold/Conrad,He really is.
-line:04b29e42,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,2,Kobold,He really is.
-73f5014bc8782ad4,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,4,Conrad,"Yeah, he's so kind to me."
-953a9b287930c86a,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,5,Conrad,He's... Considerate. Real understanding too.
-41d3eda9c195fe48,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,6,Conrad,When I met him at first I was falling back on my old script.
-42fb7bc16778c0a5,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,7,Conrad,... Being a bit of a jerk honestly.
-66ad79997bc62825,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,8,Conrad,He just... Knew what to say to snap me out of all that.
-7f8b591142c62352,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,9,Kobold,That's really nice!
-98e27e864ef9bcd4,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,10,Kobold,Ryan is a sweetheart
-7d6c8c039970d352,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,11,Conrad,Yeah... He's really great.
-line:c7e1b369,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,12,Conrad,He really is.
-5e25d0f2371f53e0,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,13,Conrad,Thanks for introducing me to him.
+1598446fc49cdf80,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,1,Conrad,Ryan o kadar kibar bir ejder ki...
+e2e3e43114ab1531,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,2,Kobold/Conrad,Cidden öyle.
+line:04b29e42,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,2,Kobold,Cidden öyle.
+73f5014bc8782ad4,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,4,Conrad,"Evet, bana da çok nazik davranıyor."
+953a9b287930c86a,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,5,Conrad,Düşünceli ve.... gerçekten anlayışlı biri.
+41d3eda9c195fe48,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,6,Conrad,Onunla buluştuğum ilk zaman eski halime doğru kayıyordum.
+42fb7bc16778c0a5,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,7,Conrad,...yani biraz pislik birine.
+66ad79997bc62825,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,8,Conrad,O beni... Bu halden silkelemek için ne söyleyeceğini çok iyi biliyordu.
+7f8b591142c62352,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,9,Kobold,Ne hoş!
+98e27e864ef9bcd4,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,10,Kobold,Ryan tam bir tatlış.
+7d6c8c039970d352,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,11,Conrad,Doğru... Gerçekten harika biri.
+line:c7e1b369,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,12,Conrad,Cidden.
+5e25d0f2371f53e0,L14 Conrad,Conrad_5_required_ryan_conrad_romanced,13,Conrad,Benimle tanıştırdığın için sağ ol.
 # --- jerkoff: Conrad_5_JerkOff_Start ---
-c96d891724f6aacb,L14 Conrad,Conrad_5_JerkOff_Start,1,Conrad,Hah... Gonna jerk me off now? That's fine.
+c96d891724f6aacb,L14 Conrad,Conrad_5_JerkOff_Start,1,Conrad,Hah... Şimdi de beni mi çekeceksin? Bana hava hoş.
 # --- cum: Conrad_5_Cum ---
-51bfc34995242b1a,L14 Conrad,Conrad_5_Cum,1,Conrad,Fuuuck. You really know how to work a dragon!
+51bfc34995242b1a,L14 Conrad,Conrad_5_Cum,1,Conrad,Siktiiiir. Bir ejderi nasıl elleyeceğini iyi biliyorsun!
 # --- outro: Conrad_5_outro_ryan_romanced | if $ryan_romanced ---
-311729708567a9d6,L14 Conrad,Conrad_5_outro_ryan_romanced,1,Kobold,All done!
-84da55b8523dba73,L14 Conrad,Conrad_5_outro_ryan_romanced,2,Kobold,You're <i>spotless.
-2bde145654bd4a8f,L14 Conrad,Conrad_5_outro_ryan_romanced,3,Conrad,Looks like it.
-af144d6cb4daa5e6,L14 Conrad,Conrad_5_outro_ryan_romanced,4,Conrad,Hell yeah.
-8c873098ac0042a6,L14 Conrad,Conrad_5_outro_ryan_romanced,5,Conrad,Thanks for the wash so late in the night.
-028e30f8adf6e6ad,L14 Conrad,Conrad_5_outro_ryan_romanced,6,Conrad,"You've gotta keep me updated on you and Ryan, yeah?"
-a398eca1fb8d9924,L14 Conrad,Conrad_5_outro_ryan_romanced,7,Conrad,Anyways...
-234fc4abfc8d8619,L14 Conrad,Conrad_5_outro_ryan_romanced,8,Conrad,Let the <i>big C</i> out of this place!
-a53a782390260e09,L14 Conrad,Conrad_5_outro_ryan_romanced,9,Kobold,big C...?
-8e369560d1581070,L14 Conrad,Conrad_5_outro_ryan_romanced,10,Kobold,"Okay, Conrad."
+311729708567a9d6,L14 Conrad,Conrad_5_outro_ryan_romanced,1,Kobold,Bitti!
+84da55b8523dba73,L14 Conrad,Conrad_5_outro_ryan_romanced,2,Kobold,ARtık <i>pırıl pırılsın</i>.
+2bde145654bd4a8f,L14 Conrad,Conrad_5_outro_ryan_romanced,3,Conrad,Öyle duruyor.
+af144d6cb4daa5e6,L14 Conrad,Conrad_5_outro_ryan_romanced,4,Conrad,Fena hem de.
+8c873098ac0042a6,L14 Conrad,Conrad_5_outro_ryan_romanced,5,Conrad,Gecenin bu saattinde yıkadığın için sağ ol.
+028e30f8adf6e6ad,L14 Conrad,Conrad_5_outro_ryan_romanced,6,Conrad,"Ryan ile nasıl gittiğinizi bana da haber ver, olur mu?"
+a398eca1fb8d9924,L14 Conrad,Conrad_5_outro_ryan_romanced,7,Conrad,Neyse...
+234fc4abfc8d8619,L14 Conrad,Conrad_5_outro_ryan_romanced,8,Conrad,Bırak da <i>koca C</i> çıksın artık dışarı!
+a53a782390260e09,L14 Conrad,Conrad_5_outro_ryan_romanced,9,Kobold,Koca... C mi?
+8e369560d1581070,L14 Conrad,Conrad_5_outro_ryan_romanced,10,Kobold,"Olur, Conrad."
 line:227eda5e,L14 Conrad,Conrad_5_outro_ryan_romanced,11,Conrad,...
-f6b30f28e561466d,L14 Conrad,Conrad_5_outro_ryan_romanced,12,Conrad,Yeaaah I'm not sticking with that one.
-ac2b2c6605839727,L14 Conrad,Conrad_5_outro_ryan_romanced,13,Conrad,Hah... Yeah...
-fc66fcc7fd7d0e4d,L14 Conrad,Conrad_5_outro_ryan_romanced,14,Conrad,"Alright, I'll cya!"
+f6b30f28e561466d,L14 Conrad,Conrad_5_outro_ryan_romanced,12,Conrad,Yaaani... Bir daha kullanmayacağım bunu.
+ac2b2c6605839727,L14 Conrad,Conrad_5_outro_ryan_romanced,13,Conrad,Hah... Tamam...
+fc66fcc7fd7d0e4d,L14 Conrad,Conrad_5_outro_ryan_romanced,14,Conrad,"Pekala, görüşürüz!"
 # --- outro: Conrad_5_outro_conrad_romanced | if $ryan_romanced $conrad_romanced ---
-9333db61bcc08052,L14 Conrad,Conrad_5_outro_conrad_romanced,1,Conrad,All clean...
-8b45593ada7894a3,L14 Conrad,Conrad_5_outro_conrad_romanced,2,Conrad,You know what that means.
-53e54ad7b23e6757,L14 Conrad,Conrad_5_outro_conrad_romanced,3,Kobold,Date night!
-4f319a155b3e572c,L14 Conrad,Conrad_5_outro_conrad_romanced,4,Kobold,I'll have to close up shop first-
-line:64889395,L14 Conrad,Conrad_5_outro_conrad_romanced,5,Conrad,Damn right!
-f3296c9825518630,L14 Conrad,Conrad_5_outro_conrad_romanced,6,Conrad,I'll have to reserve your spot while you close up.
-c215e512d572e96c,L14 Conrad,Conrad_5_outro_conrad_romanced,7,Conrad,"I know, I'll reserve your spot!"
-22d803e60de439a9,L14 Conrad,Conrad_5_outro_conrad_romanced,8,Conrad,Alright! I'm ready to go.
-092af5ec90bd21c7,L14 Conrad,Conrad_5_outro_conrad_romanced,9,Conrad,I'll be waiting at the bar for you tonight!
+9333db61bcc08052,L14 Conrad,Conrad_5_outro_conrad_romanced,1,Conrad,Tertemiz oldum...
+8b45593ada7894a3,L14 Conrad,Conrad_5_outro_conrad_romanced,2,Conrad,Bu ne anlama geliyor biliyorsun değil mi?
+53e54ad7b23e6757,L14 Conrad,Conrad_5_outro_conrad_romanced,3,Kobold,Randevu gecesi!
+4f319a155b3e572c,L14 Conrad,Conrad_5_outro_conrad_romanced,4,Kobold,Önce dükkanı kapatmam lazım-
+line:64889395,L14 Conrad,Conrad_5_outro_conrad_romanced,5,Conrad,Dibine kadar haklısın!
+f3296c9825518630,L14 Conrad,Conrad_5_outro_conrad_romanced,6,Conrad,Sen kapatırken gidip yerini ayırtacağım.
+c215e512d572e96c,L14 Conrad,Conrad_5_outro_conrad_romanced,7,Conrad,"Biliyorum, ben de yerini ayırtacağım!"
+22d803e60de439a9,L14 Conrad,Conrad_5_outro_conrad_romanced,8,Conrad,Peki! Gitmeye hazırım.
+092af5ec90bd21c7,L14 Conrad,Conrad_5_outro_conrad_romanced,9,Conrad,Bu gece seni barda bekliyor olacağım!
 # --- outro: Conrad_5_outro_ryan_conrad_romanced | if $ryan_romanced $conrad_romanced $ryan_conrad_romanced ---
-e079ff157877ea28,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,1,Conrad,I think you got every spot!
-6749954edebda844,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,2,Conrad,I'll make sure to get out of your scales.
-2bc72fd03dd6d9e7,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,3,Conrad,Thanks for letting me in so late.
-f001e3ed4df7e0ee,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,4,Kobold,No problem!
-9d4a6cd35afcc17e,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,5,Kobold,"Always happy to have you, Conrad."
-5e4e2c64bc630fa1,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,6,Conrad,Mmmhm. I'll work on my sleep schedule...
-5c58c3e6d4c7dc65,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,7,Conrad,Thanks. I'm always happy to be here.
-163137d1bff25904,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,8,Conrad,Anyways. Could you go get the gate?
-94d29a68cf0c8c31,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,9,Conrad,The night 'aint gonna start itself!
+e079ff157877ea28,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,1,Conrad,Sanırım her yerimi temizledin!
+6749954edebda844,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,2,Conrad,Pullarını artık rahat bırakayım.
+2bc72fd03dd6d9e7,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,3,Conrad,Bu kadar geç beni içeri aldığın için sağ ol.
+f001e3ed4df7e0ee,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,4,Kobold,Sorun değil!
+9d4a6cd35afcc17e,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,5,Kobold,"Conrad, seni içeri almaktan her zamana mutluluk duyarıim."
+5e4e2c64bc630fa1,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,6,Conrad,Mmmhm. Şu uyku düzenimi halletmem lazım...
+5c58c3e6d4c7dc65,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,7,Conrad,Sağ ol. Burada olmak beni de hep mutlu ediyor.
+163137d1bff25904,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,8,Conrad,Her neyse. Bariyeri açabilir misin?
+94d29a68cf0c8c31,L14 Conrad,Conrad_5_outro_ryan_conrad_romanced,9,Conrad,Bu gece kendi kendini başlatmayacak!
 
 # ===== Level 15: Alexander (Sunny) =====
 # --- intro: Alexander_5_intro ---
