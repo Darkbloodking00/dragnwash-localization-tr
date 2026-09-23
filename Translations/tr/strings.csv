@@ -968,7 +968,7 @@ ab20df82132f07cc,L11 Conrad,Conrad_Intro_4,37,Conrad,"Anlatacağım. Sadece hız
 17c5f180de5a8348,L11 Conrad,Conrad_Intro_4,38,Conrad,"Ryan için <i>alıştırma</i> yapmam lazım, neyi kastettiğimi anladıysan."
 9912569ea696f8ed,L11 Conrad,Conrad_Intro_4,39,Kobold,Conrad ayıp!
 106f99c061d35f26,L11 Conrad,Conrad_Intro_4,40,Kobold,Anladım- anladım. Gidip bariyeri açayım.
-f71200a57e2d1d7a,L11 Conrad,Conrad_Intro_4,41,Conrad,Ne amaaa? Önceden haberin olsun istemiştim!
+f71200a57e2d1d7a,L11 Conrad,Conrad_Intro_4,41,Conrad,Ama ne? Önceden haberin olsun istemiştim!
 line:3484ab9d,L11 Conrad,Conrad_Intro_4,42,Conrad,Sağ ol!
 65bee50d904e101d,L11 Conrad,Conrad_Intro_4,43,Conrad,Hey hey. Açık olduğuna sevindim.
 4d5dda82efc31458,L11 Conrad,Conrad_Intro_4,44,Conrad,Hortumla sulanmam lazım. Binekle oynamaya da hayır demem.
@@ -1181,169 +1181,169 @@ b5f8ec9a6918d554,L12 Alexander,Alexander_4_Outro,19,Alexander,"Burada özgür hi
 
 # ===== Level 13: Ryan (Sunny) =====
 # --- intro: Ryan_5_intro ---
-line:61c7f2d6,L13 Ryan,Ryan_5_intro,1,Ryan,Something went wrong with flags!
-line:f7f7f5a1,L13 Ryan,Ryan_5_intro,2,Ryan,Help the developers out please..
-dcd95465ccb79997,L13 Ryan,Ryan_5_intro,6,Kobold,Hey big guy.
-a4c1cb0899f204fc,L13 Ryan,Ryan_5_intro,8,Ryan,Hey... little guy!
-df50afc7f5e2d994,L13 Ryan,Ryan_5_intro,9,Kobold,I'm not <i>that</i> little-
-8061d3d1aed7c531,L13 Ryan,Ryan_5_intro,10,Kobold,"So, coming in for a wash?"
-1107598aa9bc6c75,L13 Ryan,Ryan_5_intro,11,Ryan,"Oh, sorry-"
-061629ac669e11f8,L13 Ryan,Ryan_5_intro,12,Ryan,Was just trying to play along. Happy to see you!
-cdc7ebc001250566,L13 Ryan,Ryan_5_intro,13,Ryan,Yup!
+line:61c7f2d6,L13 Ryan,Ryan_5_intro,1,Ryan,Flaglerle ilgili bir hata oluştu!
+line:f7f7f5a1,L13 Ryan,Ryan_5_intro,2,Ryan,Geliştiricilerle lütfen irtibata geçin..
+dcd95465ccb79997,L13 Ryan,Ryan_5_intro,6,Kobold,Naber tosun.
+a4c1cb0899f204fc,L13 Ryan,Ryan_5_intro,8,Ryan,Naber... ufaklık!
+df50afc7f5e2d994,L13 Ryan,Ryan_5_intro,9,Kobold,<i>O kadar</i> da küçük sayılmam-
+8061d3d1aed7c531,L13 Ryan,Ryan_5_intro,10,Kobold,"Neyse, yıkanmak için mi geldin?"
+1107598aa9bc6c75,L13 Ryan,Ryan_5_intro,11,Ryan,"Oh, pardon-"
+061629ac669e11f8,L13 Ryan,Ryan_5_intro,12,Ryan,Sadece dediklerini taklit ediyordum. Seni gördüğüme sevindim!
+cdc7ebc001250566,L13 Ryan,Ryan_5_intro,13,Ryan,Evet o sebeple!
 f8c3932b65e6bbb0,L13 Ryan,Ryan_5_intro,14,Ryan,Hey kobold!
-4a5d3b88460afb6b,L13 Ryan,Ryan_5_intro,15,Ryan,I decided to try baking.
-b483e9c7e323807a,L13 Ryan,Ryan_5_intro,16,Ryan,I've had a lot of free time lately.
-afd9ef6045a7191c,L13 Ryan,Ryan_5_intro,17,Ryan,It turns out baking is messy!
-808f38835d1deb53,L13 Ryan,Ryan_5_intro,18,Ryan,I could use a wash.
+4a5d3b88460afb6b,L13 Ryan,Ryan_5_intro,15,Ryan,Fırında yemek yapmayı denedim.
+b483e9c7e323807a,L13 Ryan,Ryan_5_intro,16,Ryan,Son zamanlarda bayağı boş zamanım oluyor.
+afd9ef6045a7191c,L13 Ryan,Ryan_5_intro,17,Ryan,Yemek yapmak sandığımdan da fazla etrafı dağıtıyormuş!
+808f38835d1deb53,L13 Ryan,Ryan_5_intro,18,Ryan,Yıkanmak iyi gelirdi diye düşündüm.
 # --- intro: Ryan_5_intro_ryan_romanced | if $ryan_conrad_romanced $conrad_romanced $ryan_romanced ---
-efa367904267d1f9,L13 Ryan,Ryan_5_intro_ryan_romanced,1,Ryan,...A wash for our date tonight.
-d510da8dc09c7bd7,L13 Ryan,Ryan_5_intro_ryan_romanced,2,Kobold,OH. RIGHT.
-cb4f55dc25088cef,L13 Ryan,Ryan_5_intro_ryan_romanced,3,Kobold,I'm very excited.
-63b5ec8a662e7e8f,L13 Ryan,Ryan_5_intro_ryan_romanced,4,Ryan,Glad I'm here to remind you then.
-line:141c006f,L13 Ryan,Ryan_5_intro_ryan_romanced,5,Ryan,I am too.
-60004e58bb12dd3c,L13 Ryan,Ryan_5_intro_ryan_romanced,6,Ryan,I'll be waiting for the gate!
+efa367904267d1f9,L13 Ryan,Ryan_5_intro_ryan_romanced,1,Ryan,...Bu akşamki randevumuz için
+d510da8dc09c7bd7,L13 Ryan,Ryan_5_intro_ryan_romanced,2,Kobold,AH. DOĞRU.
+cb4f55dc25088cef,L13 Ryan,Ryan_5_intro_ryan_romanced,3,Kobold,Çok heyecanlıyım.
+63b5ec8a662e7e8f,L13 Ryan,Ryan_5_intro_ryan_romanced,4,Ryan,Buraya gelip sana hatırlattığıma sevindim.
+line:141c006f,L13 Ryan,Ryan_5_intro_ryan_romanced,5,Ryan,Ben de heyecanlıyım.
+60004e58bb12dd3c,L13 Ryan,Ryan_5_intro_ryan_romanced,6,Ryan,Bariyeri bekleyeceğim!
 # --- intro: Ryan_5_intro ---
-3ff66f86649ed3f4,L13 Ryan,Ryan_5_intro,19,Kobold,"Hey there, Ryan!"
-bab3e0bf3bfcf52e,L13 Ryan,Ryan_5_intro,20,Ryan,Hey! I'm here for a wash.
-747b7932ed2e84f2,L13 Ryan,Ryan_5_intro,24,Kobold,"Awesome, I'll go get the gate."
-1fa67d86839c19a3,L13 Ryan,Ryan_5_intro,25,Kobold,Sure! I'm excited to tell you about Conrad.
-line:f62e1c4f,L13 Ryan,Ryan_5_intro,26,Ryan,Thanks.
-line:f103a4a8,L13 Ryan,Ryan_5_intro,27,Ryan,Oh yeah?
-4c5ca3860699fcd3,L13 Ryan,Ryan_5_intro,28,Kobold,Yeah! I'm going on a date with him soon.
-29301eae6840e128,L13 Ryan,Ryan_5_intro,29,Kobold,"Mmmmhm, gotta prep for a date with him."
-154dbd6d6bdc9f0e,L13 Ryan,Ryan_5_intro,30,Ryan,That's exciting!
-e1867b98d8ce23bd,L13 Ryan,Ryan_5_intro,31,Ryan,You'll have to tell me more inside.
+3ff66f86649ed3f4,L13 Ryan,Ryan_5_intro,19,Kobold,"Merhaba, Ryan!"
+bab3e0bf3bfcf52e,L13 Ryan,Ryan_5_intro,20,Ryan,Hey! Yıkanmak için geldim.
+747b7932ed2e84f2,L13 Ryan,Ryan_5_intro,24,Kobold,"Harika, gidip bariyeri açayım."
+1fa67d86839c19a3,L13 Ryan,Ryan_5_intro,25,Kobold,Tabii ki! Sana Conrad'i anlatmak için sabırsızlanıyorum.
+line:f62e1c4f,L13 Ryan,Ryan_5_intro,26,Ryan,Sağ ol.
+line:f103a4a8,L13 Ryan,Ryan_5_intro,27,Ryan,Öyle mi?
+4c5ca3860699fcd3,L13 Ryan,Ryan_5_intro,28,Kobold,Öyle! Yakında onunla randevuya gidiyorum.
+29301eae6840e128,L13 Ryan,Ryan_5_intro,29,Kobold,"Mmmmhm, randevudan önce hazırlık yapıyorum."
+154dbd6d6bdc9f0e,L13 Ryan,Ryan_5_intro,30,Ryan,Ne güzel!
+e1867b98d8ce23bd,L13 Ryan,Ryan_5_intro,31,Ryan,İçeri girince bana da anlat her şeyi.
 10dc92e80220fe9b,L13 Ryan,Ryan_5_intro,33,Kobold,Heeeey Ryan.
 b57c370a0fcc7045,L13 Ryan,Ryan_5_intro,34,Ryan,Hey!
-cd80a4a851309647,L13 Ryan,Ryan_5_intro,38,Kobold,How was your date with Conrad?
-26eed1b65d0e1370,L13 Ryan,Ryan_5_intro,39,Kobold,TELL ME ABOUT YOU AND CONRAD!
-b433dad7fc4cdb18,L13 Ryan,Ryan_5_intro,40,Ryan,It went great!
-cd235c4d7d27fbdb,L13 Ryan,Ryan_5_intro,41,Ryan,Oh- Eager!
-7b1f5d058f2045c5,L13 Ryan,Ryan_5_intro,43,Ryan,We went out to eat. Had some good conversation.
-4932dbc11ab131d4,L13 Ryan,Ryan_5_intro,44,Ryan,One thing led to another...
-1a86226c86c7138f,L13 Ryan,Ryan_5_intro,45,Ryan,Went to the bar... Things got spicy. You can imagine what happened next... <size=70%>Hah...
+cd80a4a851309647,L13 Ryan,Ryan_5_intro,38,Kobold,Conrad ile olan randevun nasıl geçti?
+26eed1b65d0e1370,L13 Ryan,Ryan_5_intro,39,Kobold,CONRAD ILE NASIL GEÇTİ!
+b433dad7fc4cdb18,L13 Ryan,Ryan_5_intro,40,Ryan,Harika geçti!
+cd235c4d7d27fbdb,L13 Ryan,Ryan_5_intro,41,Ryan,Oh- Sabırsız!
+7b1f5d058f2045c5,L13 Ryan,Ryan_5_intro,43,Ryan,Yemeğe çıktı. Biraz sohbet ettik.
+4932dbc11ab131d4,L13 Ryan,Ryan_5_intro,44,Ryan,O oldu bu oldu derken...
+1a86226c86c7138f,L13 Ryan,Ryan_5_intro,45,Ryan,bar'a gittik... sonra iş biraz kızıştı. Daha sonra ne olduğunu tahmin edebiliyorsundur... <size=70%>Hah...
 # --- progress: Ryan_5_Required_ryan_romanced | if $ryan_romanced ---
-e61676df3c022293,L13 Ryan,Ryan_5_Required_ryan_romanced,1,Ryan,So. Our date tonight...
-c022fa54258553ea,L13 Ryan,Ryan_5_Required_ryan_romanced,2,Ryan,Where would you like to go?
-6c0884e4717c5d5b,L13 Ryan,Ryan_5_Required_ryan_romanced,3,Kobold,You decide!
-bbedb233b6bbe2ea,L13 Ryan,Ryan_5_Required_ryan_romanced,4,Kobold,I'd like to go out to eat.
-fb57b97d646f43c9,L13 Ryan,Ryan_5_Required_ryan_romanced,5,Kobold,Do you know any good bars?
-d2c0f4718541c240,L13 Ryan,Ryan_5_Required_ryan_romanced,6,Kobold,What about a movie?
-98ef145fb642c5b6,L13 Ryan,Ryan_5_Required_ryan_romanced,7,Ryan,Maybe we could just... Walk?
-4bad2b5ecfe22c4a,L13 Ryan,Ryan_5_Required_ryan_romanced,8,Ryan,I'm really fond of letting folks ride on my back.
-6e8c399ff118f405,L13 Ryan,Ryan_5_Required_ryan_romanced,9,Ryan,Would that interest you?
-7da2aa0d4ef74597,L13 Ryan,Ryan_5_Required_ryan_romanced,10,Kobold,That sounds lovely!
-db39ae73af1cfae5,L13 Ryan,Ryan_5_Required_ryan_romanced,11,Kobold,Wouldn't that be degrading?
-line:22053f7f,L13 Ryan,Ryan_5_Required_ryan_romanced,12,Ryan,Awesome!
-3185b026252747c6,L13 Ryan,Ryan_5_Required_ryan_romanced,13,Ryan,I've always loved giving my biped friends rides...
-d2994ff918a23d86,L13 Ryan,Ryan_5_Required_ryan_romanced,14,Ryan,"Sounds like a date then, I'm excited."
-3fdcf71c3e2f7ea0,L13 Ryan,Ryan_5_Required_ryan_romanced,15,Ryan,Oh! No it wouldn't be. It's fun!
-8bacddc318adc2b9,L13 Ryan,Ryan_5_Required_ryan_romanced,16,Ryan,I give my other bipedal friends rides all the time.
-638c1801c65c6b0c,L13 Ryan,Ryan_5_Required_ryan_romanced,17,Ryan,I'm sure we'll figure something out! just meet me at the pier!
-25f86d817a092ae1,L13 Ryan,Ryan_5_Required_ryan_romanced,18,Ryan,Yeah that sounds pretty good.
-38ae2aec596ab356,L13 Ryan,Ryan_5_Required_ryan_romanced,19,Ryan,How are you with seafood?
-d7456d9e85366bc9,L13 Ryan,Ryan_5_Required_ryan_romanced,20,Kobold,Yeah. I like fish!
-925a663e1b23d966,L13 Ryan,Ryan_5_Required_ryan_romanced,21,Kobold,"Hmmm, maybe something else?"
-14d1fddd0115ee0d,L13 Ryan,Ryan_5_Required_ryan_romanced,22,Ryan,"Oh, awesome. I'm a big salmon guy."
-6b59acab736bd349,L13 Ryan,Ryan_5_Required_ryan_romanced,23,Ryan,"Well, I'm a dragon- but... You know what I mean."
-334998266afc2476,L13 Ryan,Ryan_5_Required_ryan_romanced,24,Ryan,Sounds like a date then! Seafood then we play it by ear.
-a02af61e18efb0f0,L13 Ryan,Ryan_5_Required_ryan_romanced,25,Ryan,I know a decent equine-kin place by the pier.
-cf73a93aa04fdd02,L13 Ryan,Ryan_5_Required_ryan_romanced,26,Ryan,Its like an equine fusion thing...
-8771d66a0a1ace3e,L13 Ryan,Ryan_5_Required_ryan_romanced,27,Ryan,I like it! I think you'd enjoy it too.
-8cceef523eb8c739,L13 Ryan,Ryan_5_Required_ryan_romanced,28,Ryan,Sounds like a date then!
-5a3b18942c9e3040,L13 Ryan,Ryan_5_Required_ryan_romanced,29,Ryan,"Oh yeah, there's this nice place downtown called wings."
-4d1b2eff2bb69d21,L13 Ryan,Ryan_5_Required_ryan_romanced,30,Ryan,I think that would make a decent place! They put on good shows every night.
-ebbcfde5ce6709d6,L13 Ryan,Ryan_5_Required_ryan_romanced,31,Ryan,"Could do that, then get a hotel room... Hmm."
-line:2b560f59,L13 Ryan,Ryan_5_Required_ryan_romanced,33,Ryan,Oh yeah?
-435234dd4f3b1033,L13 Ryan,Ryan_5_Required_ryan_romanced,34,Ryan,I think a movie could be fun!
-0ef6ac4a015fbebd,L13 Ryan,Ryan_5_Required_ryan_romanced,35,Ryan,What kind of movie are you thinking?
+e61676df3c022293,L13 Ryan,Ryan_5_Required_ryan_romanced,1,Ryan,Peki. Bu akşamki randevumuz için...
+c022fa54258553ea,L13 Ryan,Ryan_5_Required_ryan_romanced,2,Ryan,nereye gitmek istersen?
+6c0884e4717c5d5b,L13 Ryan,Ryan_5_Required_ryan_romanced,3,Kobold,Sen karar ver!
+bbedb233b6bbe2ea,L13 Ryan,Ryan_5_Required_ryan_romanced,4,Kobold,Beraber çıkıp yemek yemek isterim.
+fb57b97d646f43c9,L13 Ryan,Ryan_5_Required_ryan_romanced,5,Kobold,Bildiğin güzel bir bar var mı?
+d2c0f4718541c240,L13 Ryan,Ryan_5_Required_ryan_romanced,6,Kobold,Sinemaya ne dersin?
+98ef145fb642c5b6,L13 Ryan,Ryan_5_Required_ryan_romanced,7,Ryan,Belki de sadece beraber... yürürüz?
+4bad2b5ecfe22c4a,L13 Ryan,Ryan_5_Required_ryan_romanced,8,Ryan,Birilerinin beni sırtımda sürtmesi çok hoşuma gidiyor.
+6e8c399ff118f405,L13 Ryan,Ryan_5_Required_ryan_romanced,9,Ryan,Senin de hoşuna gider miydi?
+7da2aa0d4ef74597,L13 Ryan,Ryan_5_Required_ryan_romanced,10,Kobold,Bayıldım!
+db39ae73af1cfae5,L13 Ryan,Ryan_5_Required_ryan_romanced,11,Kobold,Seni aşağılamak olmaz mı ama bu?
+line:22053f7f,L13 Ryan,Ryan_5_Required_ryan_romanced,12,Ryan,Harika!
+3185b026252747c6,L13 Ryan,Ryan_5_Required_ryan_romanced,13,Ryan,İki ayaklı dostlarıma binek olmaya her zaman bayılmışımdır...
+d2994ff918a23d86,L13 Ryan,Ryan_5_Required_ryan_romanced,14,Ryan,"O halde randevumuz hazır, sabırsızlanıyorum."
+3fdcf71c3e2f7ea0,L13 Ryan,Ryan_5_Required_ryan_romanced,15,Ryan,Ah! Tabii ki olmaz. Aslında zevklidir!
+8bacddc318adc2b9,L13 Ryan,Ryan_5_Required_ryan_romanced,16,Ryan,Diğer iki ayaklı dostlarıma beni sürmelerini her zaman izin veririm.
+638c1801c65c6b0c,L13 Ryan,Ryan_5_Required_ryan_romanced,17,Ryan,Eminim yapacak bir şeyler bulabiliriz! Sadece benimle rıhtımda buluşsan yeterli!
+25f86d817a092ae1,L13 Ryan,Ryan_5_Required_ryan_romanced,18,Ryan,Bu fikir hoşuma gitti.
+38ae2aec596ab356,L13 Ryan,Ryan_5_Required_ryan_romanced,19,Ryan,Deniz yemekleriyle aran nasıl?
+d7456d9e85366bc9,L13 Ryan,Ryan_5_Required_ryan_romanced,20,Kobold,İyi. Denizden babam çıksa yerim!
+925a663e1b23d966,L13 Ryan,Ryan_5_Required_ryan_romanced,21,Kobold,"Hmmm, başka bir şey mi denesek?"
+14d1fddd0115ee0d,L13 Ryan,Ryan_5_Required_ryan_romanced,22,Ryan,"Oh, harika. Ben daha çok somon severim."
+6b59acab736bd349,L13 Ryan,Ryan_5_Required_ryan_romanced,23,Ryan,"Eh bilirsin, ben bir ejderim- ama... Neyi kastettiğimi anlamışsındır."
+334998266afc2476,L13 Ryan,Ryan_5_Required_ryan_romanced,24,Ryan,O halde randevumuz hazır! O zaman ilk deniz yemekleri sonra kafamıza ne eserse.
+a02af61e18efb0f0,L13 Ryan,Ryan_5_Required_ryan_romanced,25,Ryan,Rıhtıma yakın atgillerin işlettiği bildiğim düzgün bir mekan var.
+cf73a93aa04fdd02,L13 Ryan,Ryan_5_Required_ryan_romanced,26,Ryan,Tüm atların toplandığı bir yer gibi bir şey...
+8771d66a0a1ace3e,L13 Ryan,Ryan_5_Required_ryan_romanced,27,Ryan,Sevdiğim bir yer! Bence sen de seversin.
+8cceef523eb8c739,L13 Ryan,Ryan_5_Required_ryan_romanced,28,Ryan,O halde randevumuz hazır!
+5a3b18942c9e3040,L13 Ryan,Ryan_5_Required_ryan_romanced,29,Ryan,"Ah evet, şehir merkezinde wings diye tatlı bir mekan var."
+4d1b2eff2bb69d21,L13 Ryan,Ryan_5_Required_ryan_romanced,30,Ryan,Bence gidilebilecek iyi bir yer! Her akşam gösteri düzenliyorlar.
+ebbcfde5ce6709d6,L13 Ryan,Ryan_5_Required_ryan_romanced,31,Ryan,"Öyle de yapabiliriz, sonra bir otel odası tutarız... Hmm."
+line:2b560f59,L13 Ryan,Ryan_5_Required_ryan_romanced,33,Ryan,Öyle mi yapalım?
+435234dd4f3b1033,L13 Ryan,Ryan_5_Required_ryan_romanced,34,Ryan,Sinema eğlenceli olabilir!
+0ef6ac4a015fbebd,L13 Ryan,Ryan_5_Required_ryan_romanced,35,Ryan,Hangi filmleri düşünüyorsun?
 070ff9504dd2e237,L13 Ryan,Ryan_5_Required_ryan_romanced,36,Kobold,Project Scale mary
-b64ebbe5369b5bbf,L13 Ryan,Ryan_5_Required_ryan_romanced,37,Kobold,Yip-Man - The Final Yip
-45afe74b37ed6bb0,L13 Ryan,Ryan_5_Required_ryan_romanced,38,Kobold,Dragons of the galaxy 2
-a881cd2440d13252,L13 Ryan,Ryan_5_Required_ryan_romanced,39,Ryan,Oh I heard good things about that.
-line:67f14802,L13 Ryan,Ryan_5_Required_ryan_romanced,40,Ryan,Sure!
-00712e7d97f1872a,L13 Ryan,Ryan_5_Required_ryan_romanced,41,Ryan,Yip-Man movies are real corny...
-037e3c0c446d2b14,L13 Ryan,Ryan_5_Required_ryan_romanced,42,Ryan,But I'm sure I'd enjoy it with you!
-b1ac5509459ca2a4,L13 Ryan,Ryan_5_Required_ryan_romanced,43,Ryan,Oh yeah I liked the first one.
-line:52542beb,L13 Ryan,Ryan_5_Required_ryan_romanced,44,Ryan,Sure!
-eb547bf48bc9637e,L13 Ryan,Ryan_5_Required_ryan_romanced,45,Ryan,Sounds like a date then. I'm excited.
+b64ebbe5369b5bbf,L13 Ryan,Ryan_5_Required_ryan_romanced,37,Kobold,İvit-Adam - Son İvit
+45afe74b37ed6bb0,L13 Ryan,Ryan_5_Required_ryan_romanced,38,Kobold,Ejderlerin koruyucusu 2
+a881cd2440d13252,L13 Ryan,Ryan_5_Required_ryan_romanced,39,Ryan,Oh daha önce iyi şeyler duymuştum o filmle ilgili.
+line:67f14802,L13 Ryan,Ryan_5_Required_ryan_romanced,40,Ryan,Olur!
+00712e7d97f1872a,L13 Ryan,Ryan_5_Required_ryan_romanced,41,Ryan,İvit-Adam filmleri çok bayat...
+037e3c0c446d2b14,L13 Ryan,Ryan_5_Required_ryan_romanced,42,Ryan,ama sen yanımdayken zevk alacağım kesin!
+b1ac5509459ca2a4,L13 Ryan,Ryan_5_Required_ryan_romanced,43,Ryan,"Oh harika, ilk filmini de çok sevmiştim."
+line:52542beb,L13 Ryan,Ryan_5_Required_ryan_romanced,44,Ryan,Olur!
+eb547bf48bc9637e,L13 Ryan,Ryan_5_Required_ryan_romanced,45,Ryan,O halde randevumuz hazır. Sabırsızlanıyorum.
 # --- progress: Ryan_5_Required_conrad_romanced | if $ryan_romanced $conrad_romanced ---
-1f2c5ed668dc8972,L13 Ryan,Ryan_5_Required_conrad_romanced,1,Ryan,"So, tell me more about conrad!"
-522b54ddedc9ae6c,L13 Ryan,Ryan_5_Required_conrad_romanced,2,Kobold,He's been way nicer recently.
-9df47f9485e2d886,L13 Ryan,Ryan_5_Required_conrad_romanced,3,Kobold,He's like... a big softy surrounded by sharp pointy bits.
-2e0446089ab2f237,L13 Ryan,Ryan_5_Required_conrad_romanced,4,Ryan,Oh yeah? He sounds like a bit of a hothead.
-eb926b4bc196ac32,L13 Ryan,Ryan_5_Required_conrad_romanced,5,Ryan,But I know the type... They tend to be big softies on the inside.
-8ea9e02ddeed61e3,L13 Ryan,Ryan_5_Required_conrad_romanced,6,Kobold,Yeah he's improved a lot.
-5085892250461c04,L13 Ryan,Ryan_5_Required_conrad_romanced,7,Kobold,Yup. I like it.
-53011f72775c8ca4,L13 Ryan,Ryan_5_Required_conrad_romanced,8,Ryan,Thats really good to hear.
-4fbcc070e27c4736,L13 Ryan,Ryan_5_Required_conrad_romanced,9,Ryan,Nothing more attractive than a man who can improve!
-aa8e7dea9ad61538,L13 Ryan,Ryan_5_Required_conrad_romanced,10,Ryan,I'm glad you two are working out.
-390bea406a842664,L13 Ryan,Ryan_5_Required_conrad_romanced,11,Ryan,Thats awesome. I'm glad you two are working out.
-f147cd900de98aeb,L13 Ryan,Ryan_5_Required_conrad_romanced,12,Ryan,"Ah, yeah, those types are pretty cute."
-883fec192f3d1119,L13 Ryan,Ryan_5_Required_conrad_romanced,13,Ryan,"From what I've heard he sounds like he's improved a lot recently, yeah?"
-b5060af9808e8c7c,L13 Ryan,Ryan_5_Required_conrad_romanced,14,Kobold,"Mhm, he's trying."
-702195668cf48039,L13 Ryan,Ryan_5_Required_conrad_romanced,15,Kobold,I think he was in a bad environment. He's doing better now.
-1e681c01b417052f,L13 Ryan,Ryan_5_Required_conrad_romanced,16,Ryan,"That's all you can ask for, right?"
-9056022b2085d3b7,L13 Ryan,Ryan_5_Required_conrad_romanced,17,Ryan,I'm glad you two are working out though.
-932d7df9b58f5376,L13 Ryan,Ryan_5_Required_conrad_romanced,18,Ryan,Thats good to hear.
+1f2c5ed668dc8972,L13 Ryan,Ryan_5_Required_conrad_romanced,1,Ryan,"Peki, Conrad nasıl biri bana anlat!"
+522b54ddedc9ae6c,L13 Ryan,Ryan_5_Required_conrad_romanced,2,Kobold,Son zamanlarda çok daha kibar oldu.
+9df47f9485e2d886,L13 Ryan,Ryan_5_Required_conrad_romanced,3,Kobold,O şey... birkaç ufak keskin dikenle çevrili büyük bir pamuk yumağı.
+2e0446089ab2f237,L13 Ryan,Ryan_5_Required_conrad_romanced,4,Ryan,Öyle mi? Bana biraz fevri biri gibi gelmişti...
+eb926b4bc196ac32,L13 Ryan,Ryan_5_Required_conrad_romanced,5,Ryan,ama o tipleri bilirim... İçeriden koca bir pamuk yumağı gibidirler.
+8ea9e02ddeed61e3,L13 Ryan,Ryan_5_Required_conrad_romanced,6,Kobold,Evet kendini bayağı düzeltti.
+5085892250461c04,L13 Ryan,Ryan_5_Required_conrad_romanced,7,Kobold,Evet. Öyle olması hoşuma gidiyor.
+53011f72775c8ca4,L13 Ryan,Ryan_5_Required_conrad_romanced,8,Ryan,Bunu duymak güzel.
+4fbcc070e27c4736,L13 Ryan,Ryan_5_Required_conrad_romanced,9,Ryan,Kendini düzelten birinden daha çekici kimse olamaz!
+aa8e7dea9ad61538,L13 Ryan,Ryan_5_Required_conrad_romanced,10,Ryan,Bunu yürütebildiğinize mutluyum.
+390bea406a842664,L13 Ryan,Ryan_5_Required_conrad_romanced,11,Ryan,Ne harika. Bunu yürütebildiğinize mutluyum.
+f147cd900de98aeb,L13 Ryan,Ryan_5_Required_conrad_romanced,12,Ryan,"Ah, evet, o tipler çok tatlıdır."
+883fec192f3d1119,L13 Ryan,Ryan_5_Required_conrad_romanced,13,Ryan,"Duyduğuma göre son zamanlarda kendini bayağı düzeltmiş, doğru mu?"
+b5060af9808e8c7c,L13 Ryan,Ryan_5_Required_conrad_romanced,14,Kobold,"Mhm, çabalıyor."
+702195668cf48039,L13 Ryan,Ryan_5_Required_conrad_romanced,15,Kobold,Sanırım kötü bir çevresi vardı. Artık çok daha iyi.
+1e681c01b417052f,L13 Ryan,Ryan_5_Required_conrad_romanced,16,Ryan,"Hayattan başka ne istersin ki, değil mi?"
+9056022b2085d3b7,L13 Ryan,Ryan_5_Required_conrad_romanced,17,Ryan,Gene de mutluyum ikinizin de bu ilişkiyi yürütebildiğine.
+932d7df9b58f5376,L13 Ryan,Ryan_5_Required_conrad_romanced,18,Ryan,Bunu duymak güzel.
 # --- progress: Ryan_5_Required_ryan_conrad_romanced | if $ryan_romanced $conrad_romanced $ryan_conrad_romanced ---
-e76e544c771880f3,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,1,Ryan,Conrad was talking about you during our date.
-line:1121309c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,2,Kobold,Oh yeah?
-2e21aa0b86c092fb,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,3,Kobold,What about?
-271a662aed24f160,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,4,Ryan,Told me about the time he got beat up.
-1b0b214cb2df69ec,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,5,Ryan,I think you helped him a lot more than you realize.
-ad14c398c575824b,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,7,Kobold,Was just doing my job!
-daddaa15545566ce,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,8,Ryan,"Sure, but he needed someone who cared in that moment."
-f03747feadc10e71,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,9,Ryan,"He hadn't been... Well, cared about in a long time from what I could gather."
-2ed3613575959ca6,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,10,Ryan,Even though you were just doing your job... I think it helped him a lot.
-658add118bb17ed5,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,11,Ryan,"So, thanks on his behalf for caring."
-8ca78aefdf9d3b44,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,12,Ryan,I know he can be a bit hot headed and forget to thank folks.
-9176dd2bd815750c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,13,Kobold,Aw... Thanks.
-5a4dcf1ccff086af,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,14,Kobold,That makes me happy to hear.
-6db8bf6280f68edb,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,15,Ryan,Oh. And one other thing.
-49e6d82bb7d163af,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,16,Ryan,We also had sex after our date.
-e06e957ec854ab4c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,17,Kobold,<size=70%><i>Woah...
-9b2ad1c8b149bf00,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,19,Ryan,"Hah, yeah. Conrad is definitely experienced..."
-bc156217e847a8df,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,20,Ryan,Whaaat. Nothing wrong with it! figured you'd like to know.
+e76e544c771880f3,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,1,Ryan,Conrad randevumuzda senin hakkında konuşuyordu.
+line:1121309c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,2,Kobold,Öyle mi?
+2e21aa0b86c092fb,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,3,Kobold,Konu neymiş?
+271a662aed24f160,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,4,Ryan,Bana kötek yediği zamanı anlattı.
+1b0b214cb2df69ec,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,5,Ryan,Sanırım ona farkında olduğunda bile daha çok yardım etmişsin.
+ad14c398c575824b,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,7,Kobold,Yalnızca işimi yapıyordum!
+daddaa15545566ce,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,8,Ryan,"Her zaman ederim ama zaten o zaman yanında birine ihtiyacı vardı."
+f03747feadc10e71,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,9,Ryan,"Çıkarımlarıma göre, onunla uzun zamandır... ilgilenen pek de biri olmamış"
+2ed3613575959ca6,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,10,Ryan,Yalnızca işini yapmış olsan bile... bence ona çok yardımın dokundu.
+658add118bb17ed5,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,11,Ryan,"Neyse, onun adına ilgilendiğin için teşşekkür ederim."
+8ca78aefdf9d3b44,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,12,Ryan,Biliyorum bazen fazla asabi olup diğer kişilere kibarlık yapmayı unutabiliyor.
+9176dd2bd815750c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,13,Kobold,Ah... Sağ ol.
+5a4dcf1ccff086af,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,14,Kobold,Bunu duymak beni de mutlu ediyor.
+6db8bf6280f68edb,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,15,Ryan,Oh. Bir de söylemeyi unuttum.
+49e6d82bb7d163af,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,16,Ryan,Randevumuzdan sonra seviştik.
+e06e957ec854ab4c,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,17,Kobold,<size=70%><i>Oha...
+9b2ad1c8b149bf00,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,19,Ryan,"Hah, evet. Conrad cidden çok deneyimli..."
+bc156217e847a8df,L13 Ryan,Ryan_5_Required_ryan_conrad_romanced,20,Ryan,Ama ne. Bence anlatmanın sakıncası yoktu! Bilmek isteyeceğini düşünmüştüm.
 # --- jerkoff: Ryan_5_JerkOff_Start ---
-9fec39c7cefbaca2,L13 Ryan,Ryan_5_JerkOff_Start,1,Ryan,"Heh... Handsy today, huh?"
+9fec39c7cefbaca2,L13 Ryan,Ryan_5_JerkOff_Start,1,Ryan,"Heh... Bugün ellerine hakim olamıyor musun?"
 # --- cum: Ryan_5_Cum ---
-6f8c64dde681ced5,L13 Ryan,Ryan_5_Cum,1,Ryan,Oof... Needed that. Thank you.
+6f8c64dde681ced5,L13 Ryan,Ryan_5_Cum,1,Ryan,Uuf... Çok iyi geldi. Sağ ol.
 # --- mount_start: Ryan_5_Mount_Start ---
-c7f3dbd886d929a7,L13 Ryan,Ryan_5_Mount_Start,1,Ryan,The mount? Sure!
+c7f3dbd886d929a7,L13 Ryan,Ryan_5_Mount_Start,1,Ryan,Binek mi getirdin? Neden olmasın!
 # --- mount_finish: Ryan_5_Mount_Finish ---
-48ffbc93e2486713,L13 Ryan,Ryan_5_Mount_Finish,1,Ryan,Huff... Thanks for that.
+48ffbc93e2486713,L13 Ryan,Ryan_5_Mount_Finish,1,Ryan,Huff... İyi ki getirmişsin.
 # --- outro: Ryan_5_Outro_ryan_romanced | if $ryan_romanced ---
-6fc39ec69d974bb4,L13 Ryan,Ryan_5_Outro_ryan_romanced,1,Ryan,I think you got every spot.
-c9e5fbe3317edd3f,L13 Ryan,Ryan_5_Outro_ryan_romanced,2,Ryan,You know what that means...
-f553e58b991e05cc,L13 Ryan,Ryan_5_Outro_ryan_romanced,3,Kobold,DATE NIGHT!
-line:95aa0bf4,L13 Ryan,Ryan_5_Outro_ryan_romanced,5,Ryan,Damn right!
-0eb7accf7a8bffc3,L13 Ryan,Ryan_5_Outro_ryan_romanced,6,Ryan,Means I'm ready to go on a date with a certain kobold.
-e7da2124354de72f,L13 Ryan,Ryan_5_Outro_ryan_romanced,7,Ryan,"I know you need to close down shop. I'll make sure you get the address and we can meet up there, yeah?"
-6b7ea0261a825f1b,L13 Ryan,Ryan_5_Outro_ryan_romanced,8,Kobold,Sounds good!
-line:a00f681d,L13 Ryan,Ryan_5_Outro_ryan_romanced,9,Kobold,I'm excited.
-7809df3c2e9fa860,L13 Ryan,Ryan_5_Outro_ryan_romanced,10,Ryan,I'm really looking forward to this.
-line:363f6f6a,L13 Ryan,Ryan_5_Outro_ryan_romanced,11,Ryan,I am too.
-dc9e132cf2897c30,L13 Ryan,Ryan_5_Outro_ryan_romanced,12,Ryan,"Alright, go get the gate and I'll head out to the spot!"
-7d5a43fcbb4e03de,L13 Ryan,Ryan_5_Outro_ryan_romanced,13,Ryan,See you soon.
+6fc39ec69d974bb4,L13 Ryan,Ryan_5_Outro_ryan_romanced,1,Ryan,Sanırım her yerimi temizledin.
+c9e5fbe3317edd3f,L13 Ryan,Ryan_5_Outro_ryan_romanced,2,Ryan,Bunun anlamını biliyorsun...
+f553e58b991e05cc,L13 Ryan,Ryan_5_Outro_ryan_romanced,3,Kobold,RANDEVU GECESİ Mİ!
+line:95aa0bf4,L13 Ryan,Ryan_5_Outro_ryan_romanced,5,Ryan,Hem de dibine kadar!
+0eb7accf7a8bffc3,L13 Ryan,Ryan_5_Outro_ryan_romanced,6,Ryan,anlamı çok özel bir koboldla randevuya gideceğim demek.
+e7da2124354de72f,L13 Ryan,Ryan_5_Outro_ryan_romanced,7,Ryan,"Biliyorum dükkan sana emanet. Adresi alıp sana ulaştırdıktan sonra akşam orada buluşuruz, olur mu?"
+6b7ea0261a825f1b,L13 Ryan,Ryan_5_Outro_ryan_romanced,8,Kobold,Bana uyar!
+line:a00f681d,L13 Ryan,Ryan_5_Outro_ryan_romanced,9,Kobold,Çok heyacanlıyım.
+7809df3c2e9fa860,L13 Ryan,Ryan_5_Outro_ryan_romanced,10,Ryan,Sabırsızlıkla bekliyor olacağım.
+line:363f6f6a,L13 Ryan,Ryan_5_Outro_ryan_romanced,11,Ryan,Ben de.
+dc9e132cf2897c30,L13 Ryan,Ryan_5_Outro_ryan_romanced,12,Ryan,"Peki, bariyeri aç da buluşma yerine gideyim!"
+7d5a43fcbb4e03de,L13 Ryan,Ryan_5_Outro_ryan_romanced,13,Ryan,Görüşmek üzere.
 # --- outro: Ryan_5_Outro_conrad_romanced | if $ryan_romanced $conrad_romanced ---
-b050469dea41d597,L13 Ryan,Ryan_5_Outro_conrad_romanced,2,Ryan,Thanks for helping me out.
-25ec1c59caa5e66c,L13 Ryan,Ryan_5_Outro_conrad_romanced,3,Kobold,I'm always happy to give you a wash!
-2a67fb93196e8722,L13 Ryan,Ryan_5_Outro_conrad_romanced,5,Ryan,Oh- Not just the wash.
-2140dcb75dc2d0f9,L13 Ryan,Ryan_5_Outro_conrad_romanced,6,Ryan,"Like, in general."
-a6d4dab5c8699946,L13 Ryan,Ryan_5_Outro_conrad_romanced,7,Ryan,The breakup I went through earlier was rough.
-1fd66775cea2eb4b,L13 Ryan,Ryan_5_Outro_conrad_romanced,8,Ryan,This was a nice escape.
-8f4dc96f133fa75c,L13 Ryan,Ryan_5_Outro_conrad_romanced,9,Ryan,And I'm really happy for you and Conrad.
-8ed791569d35f02c,L13 Ryan,Ryan_5_Outro_conrad_romanced,10,Ryan,"I'll see you next time I come in, yeah?"
-d38d6a1844481871,L13 Ryan,Ryan_5_Outro_conrad_romanced,11,Kobold,I'm always happy to see you Ryan.
-c88980c837fb6592,L13 Ryan,Ryan_5_Outro_conrad_romanced,12,Kobold,I'll go get the gate for ya'
-b1e1c4e40f4aaeec,L13 Ryan,Ryan_5_Outro_conrad_romanced,13,Ryan,You too. Thanks for the wash.
-line:cf716777,L13 Ryan,Ryan_5_Outro_conrad_romanced,14,Ryan,Thanks.
+b050469dea41d597,L13 Ryan,Ryan_5_Outro_conrad_romanced,2,Ryan,Benimle ilgilendiğin için sağ ol.
+25ec1c59caa5e66c,L13 Ryan,Ryan_5_Outro_conrad_romanced,3,Kobold,Seni yıkamak beni her zaman mutlu ediyor!
+2a67fb93196e8722,L13 Ryan,Ryan_5_Outro_conrad_romanced,5,Ryan,Oh- Sadece o değil.
+2140dcb75dc2d0f9,L13 Ryan,Ryan_5_Outro_conrad_romanced,6,Ryan,"Yani, her şey için"
+a6d4dab5c8699946,L13 Ryan,Ryan_5_Outro_conrad_romanced,7,Ryan,Daha öncesinde geçirdiğim ayrılık bayağı ağırdı.
+1fd66775cea2eb4b,L13 Ryan,Ryan_5_Outro_conrad_romanced,8,Ryan,Burası tüm o şeylerden uzaklaşmak için iyi bir kaçış noktası.
+8f4dc96f133fa75c,L13 Ryan,Ryan_5_Outro_conrad_romanced,9,Ryan,İkiniz için de çok mutluyum.
+8ed791569d35f02c,L13 Ryan,Ryan_5_Outro_conrad_romanced,10,Ryan,"Yine görüşelim, olur mu?"
+d38d6a1844481871,L13 Ryan,Ryan_5_Outro_conrad_romanced,11,Kobold,"Ryan, seni görmek beni her zaman mutlu eder."
+c88980c837fb6592,L13 Ryan,Ryan_5_Outro_conrad_romanced,12,Kobold,Gidip bariyeri açayım sana.
+b1e1c4e40f4aaeec,L13 Ryan,Ryan_5_Outro_conrad_romanced,13,Ryan,Beni de. Yıkadığın için sağ ol.
+line:cf716777,L13 Ryan,Ryan_5_Outro_conrad_romanced,14,Ryan,Teşekkürler.
 # --- outro: Ryan_5_Outro_ryan_conrad_romanced | if $ryan_romanced $conrad_romanced $ryan_conrad_romanced ---
-c5f14714a1e0439c,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,8,Ryan,This was a wonderful escape...
-3eb55bf5de9c718b,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,9,Ryan,You also introduced me to Conrad.
-7aa8987bf569468c,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,10,Ryan,He's great.
-line:fbba1293,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,15,Ryan,Thanks.
+c5f14714a1e0439c,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,8,Ryan,Bu nokta çok iyi bir kaçış yeriydi...
+3eb55bf5de9c718b,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,9,Ryan,ve tabii ki beni Conrad ile de sen tanıştırdın.
+7aa8987bf569468c,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,10,Ryan,Harika biri.
+line:fbba1293,L13 Ryan,Ryan_5_Outro_ryan_conrad_romanced,15,Ryan,Sağ ol.
 
 # ===== Level 14: Conrad (Night) =====
 # --- intro: Conrad_Intro_5 ---
